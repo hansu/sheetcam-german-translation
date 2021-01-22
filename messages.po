@@ -1,0 +1,4144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-17 07:53+0100\n"
+"PO-Revision-Date: 2021-01-22 19:31+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+msgid ""
+"\n"
+"\n"
+"WARNING:It is recommended that you save your job and restart the application."
+msgstr ""
+"\n"
+"\n"
+"WARNUNG: Es wird empfohlen den Job zu speichern und die Applikation neu zu "
+"starten."
+
+msgid ""
+"\n"
+" This error occurred on line %i in file %s)"
+msgstr ""
+"\n"
+"Dieser Fehler trat in der Zeile %i der Dateien %s auf)"
+
+msgid ""
+"\n"
+"This plugin is disabled."
+msgstr ""
+"\n"
+"Die Erweiterung ist deaktiviert."
+
+msgid ""
+"\n"
+"You must restart %s for the change to take effect"
+msgstr ""
+"\n"
+"Sie müssen %s neu starten und die Änderung zu übernehmen"
+
+msgid ""
+"\n"
+"You must restart %s for the license to take effect"
+msgstr ""
+"\n"
+"Sie müssen %s neu starten um die Lizenz zu aktivieren"
+
+msgid ""
+"\n"
+"from layer "
+msgstr ""
+"\n"
+"von Lage "
+
+msgid ""
+"\n"
+"from layers:"
+msgstr ""
+"\n"
+"von Lagen:"
+
+msgid " (Edited)"
+msgstr " (geändert)"
+
+msgid " and "
+msgstr " und "
+
+msgid " built with "
+msgstr " erstellt mit "
+
+msgid " in %s"
+msgstr " in %s"
+
+msgid ""
+" plugin\n"
+"\n"
+"Adds HSMAdvisor tool table integration"
+msgstr ""
+" Erweiterung\n"
+"\n"
+"Fügt HSMAdvisor Werkzeugtabellenunterstützung hinzu"
+
+msgid ""
+" plugin\n"
+"\n"
+"Adds nesting facilities to SheetCam"
+msgstr ""
+" Erweiterung\n"
+"\n"
+"Fügt Anordnungsmöglichkeiten zu SheetCam hinzu"
+
+msgid " then "
+msgstr " dann "
+
+msgid " then %s after the circle"
+msgstr " dann %s nach dem Kreis"
+
+msgid " then %s after the hole"
+msgstr " dann %s nach dem Loch"
+
+msgid " was detected."
+msgstr " wurde erkannt."
+
+msgid "\""
+msgstr "\""
+
+msgid "%"
+msgstr "%"
+
+msgid "%i cuts of "
+msgstr "%i Durchgänge von "
+
+msgid "%i days remaining"
+msgstr "%i Tage verbleibend"
+
+msgid "%s %s"
+msgstr "%s %s"
+
+msgid "%s %s before the arc %s %s after the arc."
+msgstr "%s %s vor dem Bogen %s %s nach dem Bogen."
+
+msgid "%s %s before the corner %s %s after the corner."
+msgstr "%s %s vor der Ecke%s %s nach der Ecke."
+
+msgid "%s before end %s"
+msgstr "%s vor dem Ende %s"
+
+msgid "%s before leadout %s"
+msgstr "%s vor der Wegfahrt %s"
+
+msgid "&About\tF1"
+msgstr ""
+"&Über\n"
+"F1"
+
+msgid "&Add breakpoint"
+msgstr "&Breakpoint hinzufügen"
+
+msgid "&Configure"
+msgstr "&Konfigurieren"
+
+msgid "&Continue"
+msgstr "&Fortsetzen"
+
+msgid "&Contour"
+msgstr "&Kontur"
+
+msgid "&Debug"
+msgstr "&Debug"
+
+msgid "&Developer tools"
+msgstr "&Entwicklerwerkzeuge"
+
+msgid "&Drilling"
+msgstr "&Bohren"
+
+msgid "&Edit"
+msgstr "&Bearbeiten"
+
+msgid "&Edit material"
+msgstr "&Material bearbeiten"
+
+msgid "&Enable Eding CNC"
+msgstr "&Eding CNC aktivieren"
+
+msgid "&Enable LinuxCNC"
+msgstr "&LinuxCNC aktivieren"
+
+msgid "&Enable Mach3"
+msgstr "&Mach3 aktivieren"
+
+msgid "&File"
+msgstr "&Datei"
+
+msgid "&Help"
+msgstr "&Hilfe"
+
+msgid "&Insert code"
+msgstr "&Code einfügen"
+
+msgid "&Mode"
+msgstr "&Modus"
+
+msgid "&Move to"
+msgstr "&Gehe zu"
+
+msgid "&New"
+msgstr "&Neu"
+
+msgid "&New shape from part"
+msgstr "&Neue Kontur aus Teil"
+
+msgid "&Operation"
+msgstr "&Operation"
+
+msgid "&Options"
+msgstr "&Optionen"
+
+msgid "&Plasma cut"
+msgstr "&Plasmaschneiden"
+
+msgid "&Plugins"
+msgstr "&Erweiterungen"
+
+msgid "&Pocket"
+msgstr "&Tasche"
+
+msgid "&Print"
+msgstr "&Drucken"
+
+msgid "&Quit\tAlt-F4"
+msgstr "&Beenden\tAlt-F4"
+
+msgid "&Run post processor"
+msgstr "&Postprozessor ausführen"
+
+msgid "&Sample"
+msgstr "&Beispiel"
+
+msgid "&Save"
+msgstr "&Speichern"
+
+msgid "&Send data"
+msgstr "&Sende Daten"
+
+msgid "&Set post variable"
+msgstr "&Setze Post-Variable"
+
+msgid "&Spiral pocket"
+msgstr "&Spiraltasche"
+
+msgid "&Tapping"
+msgstr "&Gewinde"
+
+msgid "&Tools"
+msgstr "&Werkzeuge"
+
+msgid "&View"
+msgstr "&Ansicht"
+
+msgid "&Zoom"
+msgstr "&Zoome"
+
+msgid "'"
+msgstr "\""
+
+msgid "(C) 2007-2016 Stable Design"
+msgstr "(C) 2007-2016 Stable Design"
+
+msgid "."
+msgstr "."
+
+msgid "..."
+msgstr "..."
+
+msgid "/&Help"
+msgstr "/&Hilfe"
+
+msgid "/&Nesting"
+msgstr "/&Anordnung"
+
+msgid "1"
+msgstr "1"
+
+msgid "1 cut of "
+msgstr "1 Durchgang von "
+
+msgid "1.5"
+msgstr "1.5"
+
+msgid "115200"
+msgstr "115200"
+
+msgid "1200"
+msgstr "1200"
+
+msgid "150"
+msgstr "150"
+
+msgid "180 degrees"
+msgstr "180 Grad"
+
+msgid "19200"
+msgstr "19200"
+
+msgid "1:"
+msgstr "1:"
+
+msgid "2"
+msgstr "2"
+
+msgid "2400"
+msgstr "2400"
+
+msgid "300"
+msgstr "300"
+
+msgid "38400"
+msgstr "38400"
+
+msgid "3D move"
+msgstr "3D Bewegung"
+
+msgid "4800"
+msgstr "4800"
+
+msgid "57600"
+msgstr "57600"
+
+msgid "600"
+msgstr "600"
+
+msgid "7"
+msgstr "7"
+
+msgid "8"
+msgstr "8"
+
+msgid "90 degrees"
+msgstr "90 Grad"
+
+msgid "9600"
+msgstr "9600"
+
+msgid "A"
+msgstr "A"
+
+msgid "A compatible version of Mach3 was detected."
+msgstr "Eine kompatible Version von Mach3 wurde gefunden."
+
+msgid "A new layer"
+msgstr "Neuer Layer"
+
+msgid ""
+"A post of this name already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"Ein Post mit diesem Namen existiert bereits.\n"
+"Wollen Sie ihn überschreiben?"
+
+msgid ""
+"A rule called '%s' already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"Eine Regel Namens '%s' existiert bereits.\n"
+"Wollen Sie diesen überschreiben?"
+
+msgid "Abort alignment"
+msgstr "Ausrichtung abbrechen"
+
+msgid "About"
+msgstr "Über"
+
+msgid "Acceleration distance"
+msgstr "Beschleunigungsweg"
+
+msgid "Accuracy"
+msgstr "Genauigkeit"
+
+msgid "Add breakpoint"
+msgstr "Breakpoint hinzufügen"
+
+msgid "Add corner"
+msgstr "Ecke hinzufügen"
+
+msgid "Add drawing outlines"
+msgstr "Zeichnungsumriss hinzufügen"
+
+msgid "Add new rule set"
+msgstr "Neuen Regelsatz hinzufügen"
+
+msgid "Add operation"
+msgstr "Operation hinzufügen"
+
+msgid "Add rule"
+msgstr "Regel hinzufügen"
+
+msgid "Advanced"
+msgstr "Erweitert"
+
+msgid "Advanced cutting rule set '%s'"
+msgstr "Erweiterter Schnittregelsatz '%s'"
+
+msgid "After start %s for %s %s"
+msgstr "Nach Start %s für %s %s"
+
+msgid "Align"
+msgstr "Ausrichten"
+
+msgid "Alignment tolerance"
+msgstr "Ausrichtungstoleranz"
+
+msgid "All files|*.*"
+msgstr "Alle Dateien|*.*"
+
+msgid "All inside first"
+msgstr "Zuerst alle Innenschnitte"
+
+msgid "Allow multiple parts"
+msgstr "Erlaube mehrfache Teile"
+
+msgid "Always apply rule set"
+msgstr "Wende immer den Regelsatz an"
+
+msgid "Always lift cutter when repositioning"
+msgstr ""
+"Fräser bei Repositionierung \n"
+"immer anheben"
+
+msgid "Always use default toolset"
+msgstr "Benutze immer den Standardwerkzeugsatz"
+
+msgid "Always use this folder"
+msgstr "Immer diesen Ordner benutzen"
+
+msgid ""
+"An automatic backup has been found\n"
+"Do you want to load it?"
+msgstr ""
+"Eine automatisches Backup wurde gefunden\n"
+"Wollen Sie dieses laden?"
+
+msgid "An expression could not be evaluated."
+msgstr "Ein Ausdruck konnte nicht ausgewertet werden."
+
+msgid ""
+"An unexpected error has occurred while processing:\n"
+"Path generation has been aborted"
+msgstr ""
+"Ein unerwarteter Fehler trat während der Berechnung auf:\n"
+"Pfaderzeugung abgebrochen"
+
+msgid "An unexpected error has occurred:\n"
+msgstr "Ein unerwarteter Fehler ist aufgetreten:\n"
+
+msgid "Angle"
+msgstr "Winkel"
+
+msgid "Angle + key"
+msgstr "Winkel + Taste"
+
+msgid "Angle - key"
+msgstr "Winkel - Taste"
+
+msgid "Angle threshold"
+msgstr "Winkelgrenze"
+
+msgid "Angles"
+msgstr "Winkel"
+
+msgid "Angular units"
+msgstr "Winkel Einheiten"
+
+msgid "Annoying dialogs"
+msgstr "Störende Dialoge"
+
+msgid "Any"
+msgstr "Beliebige"
+
+msgid "Application options"
+msgstr "Anwendung"
+
+msgid "Application options variable"
+msgstr "Anwendungsoptionen Variable"
+
+msgid "Apply peripheral feed rate"
+msgstr "Umfangs-Schnittgeschwindigkeit anwenden"
+
+msgid "Arc"
+msgstr "Bogen"
+
+msgid "Arc fitting tolerance"
+msgstr "Bogenangleichstoleranz"
+
+msgid "Arc matching"
+msgstr "Bogen Anpassung"
+
+msgid "Are you sure you want to delete this bar?"
+msgstr "Sind Sie sicher das Sie dieser Werkzeugleiste löschen wollen?"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Sind Sie sicher das sie diesen Eintrag löschen wollen?"
+
+msgid ""
+"Are you sure you want to overwrite\n"
+"the existing tool set?"
+msgstr ""
+"Wollen Sie den bestehenden Werkzeug-\n"
+"satz wirklich überschreiben?"
+
+msgid "Array"
+msgstr "Anordnung"
+
+msgid "Array area"
+msgstr "Anordnungsfläche"
+
+msgid "Array parts"
+msgstr "Matrix von Teilen"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Auto backup"
+msgstr "Automatische Sicherung"
+
+msgid "Auto backup interval"
+msgstr "Automatikspeichen Intervall"
+
+msgid "Auto load"
+msgstr "Automatik Laden"
+
+msgid "Auto tabbing"
+msgstr "Automatische Stege"
+
+msgid "Autoload"
+msgstr "Automatikladen"
+
+msgid "Automatically generate name"
+msgstr "Namen automatisch erzeugen"
+
+msgid "Automatically hide me if there are no problems"
+msgstr "Wenn keine Probleme vorliegen automatisch schließen"
+
+msgid "Automatically send data"
+msgstr "Automatisches Datensenden"
+
+msgid "Available Sheets"
+msgstr "Verfügbare Seiten"
+
+msgid "Axial travel"
+msgstr "Umkehrauslösung"
+
+msgid "Background"
+msgstr "Hintergrund"
+
+msgid "Backup of current job"
+msgstr "Sicherheitskopie des aktuellen Jobs"
+
+msgid "Basic"
+msgstr "Grundeinstellung"
+
+msgid "Batch update"
+msgstr "Batch Aktualisierung"
+
+msgid "Baud rate"
+msgstr "Baudrate"
+
+msgid "Beam height"
+msgstr "Strahlhöhe"
+
+msgid "Beam type"
+msgstr "Strahltyp"
+
+msgid "Beam width"
+msgstr "Strahlbreite"
+
+msgid "Before code"
+msgstr "Vor dem Code"
+
+msgid "Before end"
+msgstr "Vor dem Ende"
+
+msgid ""
+"Below is a list of information dialogs that have been shown.\n"
+"If you check the box, it will not be shown again."
+msgstr ""
+"Unten ist eine Liste von Informationsdialogen die angezeigt werden.\n"
+"Wenn Sie dieses Kästchen ankreuzen, wird dies nicht mehr angezeigt."
+
+msgid "Bidirectional"
+msgstr "Bidirektional"
+
+msgid "Body diameter"
+msgstr "Schaftdurchmesser"
+
+msgid "Break up manually nested drawing"
+msgstr "Manuell angeordnete Zeichnung aufbrechen"
+
+msgid "Bump increment"
+msgstr "Schrittweitenerhöhung"
+
+msgid "Buttons"
+msgstr "Knöpfe"
+
+msgid "CCW"
+msgstr "Linkslauf"
+
+msgid "CW"
+msgstr "Rechtslauf"
+
+msgid "Calculate diameter from drawing"
+msgstr "Berechne Durchmesser aus Zeichnung"
+
+msgid "Calculating"
+msgstr "Berechne"
+
+msgid "Calculating polygon nesting"
+msgstr "Berechne Polygonanordnungen"
+
+msgid "Calculator"
+msgstr "Rechner"
+
+msgid "Can mirror"
+msgstr "Kann spiegeln"
+
+msgid "Cancel"
+msgstr "Abbruch"
+
+msgid "Cannot cut on the edge of a flange"
+msgstr "Schneiden auf der Kante eines Auslegers nicht möglich"
+
+msgid "Cannot save while single stepping"
+msgstr "Während der Einzelschrittausführung kein Speichern möglich"
+
+msgid "Centered on 0,0"
+msgstr "Mittig auf 0,0"
+
+msgid "Centre finding circles"
+msgstr "Zentriere Suchkreise"
+
+msgid "Centre marker colour"
+msgstr "Farbe der Mittelpunktmarkierung"
+
+msgid "Centre vertically"
+msgstr "Zentriere vertikal"
+
+msgid "Change"
+msgstr "Ändern"
+
+msgid "Change action tab"
+msgstr "Ändere Actiontab"
+
+msgid "Change layer"
+msgstr "Wechsle Lage"
+
+msgid "Change object data"
+msgstr "Ändere Objektdaten"
+
+msgid "Change operation"
+msgstr "Operation ändern"
+
+msgid "Change start point"
+msgstr "Ändere Startpunkt"
+
+msgid "Change tab"
+msgstr "Ändere Haltesteg"
+
+msgid "Changed wire link"
+msgstr "Drahtlink ändern"
+
+msgid "Check for updates"
+msgstr "Suche nach Updates"
+
+msgid "Checking arc centers"
+msgstr "Überprüfe Bogenmittelpunkte"
+
+msgid "Choose a directory"
+msgstr "Wähle Ordner"
+
+msgid "Choose a file"
+msgstr "Datei wählen"
+
+msgid "Choose a post processor for your machine"
+msgstr "Wählen Sie einen Postprozessor für Ihre Maschine"
+
+msgid "Circle marker size"
+msgstr "Kreisanzeiger Größe"
+
+msgid "Circle recognition limit"
+msgstr "Kreiserkennungslimit"
+
+msgid "Clamp Clearance Height"
+msgstr "Spannzangen Sicherheitshöhe"
+
+msgid "Clamps/indexing"
+msgstr "Spanner/Indizierung"
+
+msgid "Classic"
+msgstr "Klassisch"
+
+msgid "Clean up exit ramp"
+msgstr "Räume Endrampe aus"
+
+msgid "Clear all"
+msgstr "Lösche alle"
+
+msgid "Clearance"
+msgstr "Sicherheitsabstand"
+
+msgid "Climb cut"
+msgstr "Gleichlauf"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Code"
+msgstr "Codeschnipsel"
+
+msgid "Code Snippet"
+msgstr "Codeschnipsel"
+
+msgid "Code editor"
+msgstr "Codeeditor"
+
+msgid "Code name"
+msgstr "Code Name"
+
+msgid "Code snippet"
+msgstr "Codeschnipsel"
+
+msgid "Code snippet not found"
+msgstr "Codeschnipsel nicht gefunden"
+
+msgid "Code: "
+msgstr "Code: "
+
+msgid "Colour"
+msgstr "Farbe"
+
+msgid "Colours"
+msgstr "Farben"
+
+msgid "Command settings"
+msgstr "Kommando Einstellungen"
+
+msgid "Command:"
+msgstr "Kommando:"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Compile Lua macro"
+msgstr "Compiliere Lua Makro"
+
+msgid "Contour"
+msgstr "Kontur"
+
+msgid "Contour method"
+msgstr "Kontur Methode"
+
+msgid "Contour properties"
+msgstr "Kontureigenschaften"
+
+msgid "Coolant"
+msgstr "Kühlung"
+
+msgid "Copy"
+msgstr "Kopiere"
+
+msgid "Copy ID to clipboard"
+msgstr "Kopiere ID in Zwischenablage"
+
+msgid "Copy all"
+msgstr "Alles Kopieren"
+
+msgid "Copy of"
+msgstr "Kopie von"
+
+msgid "Copy of "
+msgstr "Kopie von "
+
+msgid "Copy start points from"
+msgstr "Kopiere Startpunkte von"
+
+msgid "Copy tabs from"
+msgstr "Kopiere Haltestege von"
+
+msgid "Copy the missing or different tools and rules from the job file"
+msgstr ""
+"Kopiere die fhelenden oderen anderen Werkzeuge und Regeln von der Jobdatei"
+
+msgid "Copy to layer"
+msgstr "Kopiere auf Lage"
+
+msgid "Corner 1"
+msgstr "Ecke 1"
+
+msgid "Corner 2"
+msgstr "Ecke 2"
+
+msgid "Corner radius"
+msgstr "Eckenradius"
+
+msgid "Corner sharpening"
+msgstr "Ecken schärfen"
+
+msgid "Corner snap distance"
+msgstr "Ecken Einrastentfernung"
+
+msgid "Could not fit leadin on some outlines."
+msgstr "Anfahrt konnte an einige Konturen nicht angelegt werden."
+
+msgid "Create a dxf from marker lines"
+msgstr "Erzeuge ein DXF von markierten Linien"
+
+msgid "Create a new V carving operation"
+msgstr "Neue V Gravur erstellen"
+
+msgid "Create a new Vire cutting operation"
+msgstr "Neue Drahtschnittwerkzeugoperation erstellen"
+
+msgid "Create a new code snippet"
+msgstr "Neuen Codeschnipsel erstellen"
+
+msgid "Create a new contour operation"
+msgstr "Neue Konturoperation erstellen"
+
+msgid "Create a new drag knife operation"
+msgstr "Erstelle neue Schleppmesseroperation"
+
+msgid "Create a new drag knife tool"
+msgstr "Erstelle neues Schleppmesserwerkzeug"
+
+msgid "Create a new drilling operation"
+msgstr "Neue Bohroperation erstellen"
+
+msgid "Create a new jet cutting operation"
+msgstr "Neue Strahloperation erstellen"
+
+msgid "Create a new jet cutting tool (plasma/laser/water/flame)"
+msgstr "Neues Jet Schneidewerkzeug erstellen (Plasma/Laser/Flamme)"
+
+msgid "Create a new layer"
+msgstr "Neuen Layer anlegen"
+
+msgid "Create a new paint extruder operation"
+msgstr "Erzeuge eine neue Farbdispenseroperation"
+
+msgid "Create a new paint extruder tool"
+msgstr "Erstelle ein neues Farbdispenserwerkzeug"
+
+msgid "Create a new plasma cutting operation"
+msgstr "Neue Plasma Operation erstellen"
+
+msgid "Create a new pocket operation"
+msgstr "Neue Taschenoperation erstellen"
+
+msgid "Create a new punch operation"
+msgstr "Erzeuge neue Lochoperation"
+
+msgid "Create a new raster engraving operation"
+msgstr "Erstelle eine neue Rastergravur Operation"
+
+msgid "Create a new rotary tool"
+msgstr "Neues spanendes Werkzeug erstellen"
+
+msgid "Create a new spiral pocket operation"
+msgstr "Neue Spiraltaschen Operation erstellen"
+
+msgid "Create a new tapping operation"
+msgstr "Neue Gewindeoperation erstellen"
+
+msgid "Create a new wire cutting tool"
+msgstr "Neues Drahtschnittwerkzeug erstellen"
+
+msgid "Create a support file"
+msgstr "Supportfile erzeugen"
+
+msgid "Create and upload file"
+msgstr "Erstelle und lade Datei hoch"
+
+msgid "Create file"
+msgstr "Dateien erstellen"
+
+msgid "Create pocket"
+msgstr "Tasche erstellen"
+
+msgid "Create tools and operations"
+msgstr "Erzeuge Werkzeuge und Operationen"
+
+msgid "Cube demo plugin\n"
+msgstr "Würfeldemo Erweiterung\n"
+
+msgid "Current position"
+msgstr "Aktuelle Position"
+
+msgid "Current tool"
+msgstr "Aktuelles Werkzeug"
+
+msgid "Custom"
+msgstr "Benutzer"
+
+msgid "Custom parking code"
+msgstr "Benutzerdefinierter Parkcode"
+
+msgid "Custom shape"
+msgstr "Benutzerdefinierte Formen"
+
+msgid "Custom tube shapes..."
+msgstr "Benutzerdefinierte Düsenform..."
+
+msgid "Cut depth"
+msgstr "Endtiefe"
+
+msgid "Cut direction"
+msgstr "Schnittrichtung"
+
+msgid "Cut height"
+msgstr "Schneidehöhe"
+
+msgid "Cut inside area"
+msgstr "Fräse Innenbereich"
+
+msgid "Cut mode"
+msgstr "Schneidemodus"
+
+msgid "Cut ordering"
+msgstr "Schnitt Reihenfolge"
+
+msgid "Cut outside area"
+msgstr "Fräse Außenbereich"
+
+msgid "Cut path"
+msgstr "Schnittpfad"
+
+msgid "Cut paths cross parts of the work that cannot be cut"
+msgstr ""
+"Schneidepfad kreuzt Teile des Werkstücks die nicht bearbeitet werden können"
+
+msgid "Cut route is impossible."
+msgstr "Werkzeugpfad ist nicht möglich."
+
+msgid "Cut route is not complete."
+msgstr "Werkzeugpfad ist nicht vollständig."
+
+msgid "Cut sequence:"
+msgstr "Schnittreihenfolge:"
+
+msgid "Cut start"
+msgstr "Schnitt Start"
+
+msgid "Cut start is above rapid clearance plane."
+msgstr "Schnittstart liegt oberhalb der Eilgangsebene."
+
+msgid "Cutting rules"
+msgstr "Schnittregeln"
+
+msgid "DG NestPro V"
+msgstr "DG NestPro V"
+
+msgid "DNC"
+msgstr "DNC"
+
+msgid "DNC function"
+msgstr "DNC Funktion"
+
+msgid "DNC tool"
+msgstr "DNC Werkzeug"
+
+msgid "DXF"
+msgstr "DXF"
+
+msgid ""
+"DXF import filter\n"
+"\n"
+"Note: does not handle text entities or blocks"
+msgstr ""
+"DXF Importfilter\n"
+"\n"
+"Anmerkung: Beherrscht keine Texteinträge oder Blöcke"
+
+msgid "Data size"
+msgstr "Datengröße"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Debug log"
+msgstr "Debug log"
+
+msgid ""
+"Decreasing this number increases the accuracy of start point placement but "
+"slows down path generation."
+msgstr ""
+"Verringerung dieses Wertes erhöht die Genauigkeit der Startpunktplatzierung, "
+"verlangsamt aber die Pfaderstellung."
+
+msgid "Deep"
+msgstr "Tiefe"
+
+msgid "Default directories"
+msgstr "Standardverzeichnisse"
+
+msgid "Default encoding"
+msgstr "Standard Encoding"
+
+msgid "Default tool %i is a different type to the job file's tool\n"
+msgstr "Standardwerkzeug %i unterscheidet sich vom Jobwerkzeug\n"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete bar"
+msgstr "Lösche Leiste"
+
+msgid "Delete corner"
+msgstr "Ecke löschen"
+
+msgid "Delete operation"
+msgstr "Lösche Operation"
+
+msgid "Delete part"
+msgstr "Lösche Teil"
+
+msgid "Delete rule"
+msgstr "Regel löschen"
+
+msgid "Delete tool"
+msgstr "Lösche Werkzeug"
+
+msgid "Depth of cut"
+msgstr "Tiefe des Schnitts"
+
+msgid "Depth per pass"
+msgstr "Tiefe pro Durchgang"
+
+msgid "Depth per pass/peck depth"
+msgstr "Schnitttiefe/Rückzug pro Durchgang"
+
+msgid "Dialog"
+msgstr "Dialog"
+
+msgid "Diameter"
+msgstr "Durchmesser"
+
+msgid "Direction"
+msgstr "Richtung"
+
+msgid "Direction arrow frequency"
+msgstr "Richtungspfeil Häufigkeit"
+
+msgid "Direction arrow size"
+msgstr "Richtungspfeilgröße"
+
+msgid "Disable"
+msgstr "Deaktiviere"
+
+msgid "Disable all"
+msgstr "Alle Sperren"
+
+msgid "Disable hardware graphics acceleration"
+msgstr "Hardware Grafikbeschleunigung deaktivieren"
+
+msgid "Disable operation"
+msgstr "Deaktiviere Operation"
+
+msgid "Disable overcut"
+msgstr "Ecken ausräumen abschalten"
+
+msgid "Disable part and duplicates"
+msgstr "Deaktiviere Teile und Duplikate"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Display"
+msgstr "Anzeige"
+
+msgid "Distance"
+msgstr "Distanz"
+
+msgid "Distance after"
+msgstr "Distanz nach"
+
+msgid "Distance before"
+msgstr "Distanz vor"
+
+msgid "Divide by zero error"
+msgstr "Division durch Null Fehler"
+
+msgid "Do you want to import a drawing into this part?"
+msgstr "Wollen Sie eine Zeichnung in dieses Teil importieren?"
+
+msgid "Do you want to load this file:\n"
+msgstr "Wollen Sie diese Datei laden?\n"
+
+msgid "Do you want to run the plugin again?"
+msgstr "Wollen Sie die Erweiterung erneut laufen lassen?"
+
+msgid "Do you want to save the default tool set?"
+msgstr "Wollen Sie den Standardwerkzeugsatz speichern?"
+
+msgid "Do you want to save your changes to this toolbar?"
+msgstr "Wollen Sie ihre Änderungen an dieser Werkzeugleiste speichern?"
+
+msgid "Do you want to save your changes?"
+msgstr "Wollen Sie die Änderungen speichern?"
+
+msgid "Do you want to use this drawing name for the job name?"
+msgstr "Wollen Sie diesen Zeichnungsnamen als Jobnamen verwenden?"
+
+msgid "Don't ask me again"
+msgstr "Nicht mehr nachfragen"
+
+msgid "Double click to fix the problem"
+msgstr "Doppelklick zum Beheben des Problems"
+
+msgid "Drag knife"
+msgstr "Schleppmesser"
+
+msgid "Draw mode"
+msgstr "Editiermodus"
+
+msgid "Draw outline"
+msgstr "Zeichnungskontur"
+
+msgid "Drawing"
+msgstr "Zeichnung"
+
+msgid "Drawing filename:"
+msgstr "Zeichnungsdateiname:"
+
+msgid "Drawing folder"
+msgstr "Zeichnungsordner"
+
+msgid "Drawing import"
+msgstr "Zeichnungsimport"
+
+msgid "Drawing options"
+msgstr "Zeichnungsoptionen"
+
+msgid "Drawing origin"
+msgstr "Zeichnungsnullpunkt"
+
+msgid "Drawing position"
+msgstr "Zeichnungsposition"
+
+msgid "Drill"
+msgstr "Bohren"
+
+msgid "Drill hole tolerance"
+msgstr "Bohrlochtoleranz"
+
+msgid "Drives NOT enabled."
+msgstr "Laufwerk NICHT aktiviert."
+
+msgid "Drives enabled."
+msgstr "Laufwerk aktiviert."
+
+msgid "Duplicate"
+msgstr "Dupliziere"
+
+msgid "Duplicate %i"
+msgstr "Dupliziere %i"
+
+msgid "Duplicated part"
+msgstr "Dupliziere Teil"
+
+msgid "E&xit"
+msgstr "E&nde"
+
+msgid "ERROR: Cannot have a relative move as the first move"
+msgstr "FEHLER: Keine relative Bewegung als erste Bewegung möglich"
+
+msgid "Edge allowance"
+msgstr "Eckenzugabe"
+
+msgid "Edge distance"
+msgstr "Eckendistanz"
+
+msgid "Edge overlap"
+msgstr "Ecken Überlappung"
+
+msgid "Eding CNC"
+msgstr "Eding CNC"
+
+msgid ""
+"Eding CNC NOT detected.\n"
+"This plugin is disabled."
+msgstr ""
+"Eding CNC NICHT erkannt.\n"
+"Die Erweiterung wurde abgeschaltet."
+
+msgid "Eding CNC V"
+msgstr "EdingCNC"
+
+msgid "EdingCNC"
+msgstr "EdingCNC"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Edit action points"
+msgstr "Actionpunkte bearbeiten"
+
+msgid "Edit contours"
+msgstr "Konturen bearbeiten"
+
+msgid "Edit macro"
+msgstr "Bearbeite Makro"
+
+msgid "Edit material"
+msgstr "Material bearbeiten"
+
+msgid "Edit operation"
+msgstr "Bearbeite Operation"
+
+msgid "Edit post"
+msgstr "Bearbeite Post"
+
+msgid "Edit start points"
+msgstr "Startpunkte bearbeiten"
+
+msgid "Edit tabs"
+msgstr "Haltestege bearbeiten"
+
+msgid "Edit template"
+msgstr "Bearbeite Vorlage"
+
+msgid "Edit tool"
+msgstr "Werkzeug bearbeiten"
+
+msgid "Edit toolbars"
+msgstr "Werkzeugleiste bearbeiten"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Enable"
+msgstr "Aktivieren"
+
+msgid "Enable all"
+msgstr "Alle freigeben"
+
+msgid "Enable operation"
+msgstr "Aktiviere Operation"
+
+msgid "Enable part and duplicates"
+msgstr "Aktiviere Teile und Duplikate"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Encoding"
+msgstr "Zeichensatz"
+
+msgid "End at"
+msgstr "Stop bei"
+
+msgid "End code"
+msgstr "Ende Code"
+
+msgid "End measuring"
+msgstr "Beende Messen"
+
+msgid "End sequence"
+msgstr "Ende Ablauf"
+
+msgid "Enter a name for the new bar"
+msgstr "Name für neuen Werkzeugleiste eingeben"
+
+msgid "Enter a name for the rule set"
+msgstr "Namen für Regelsatz eingeben"
+
+msgid "Enter a new layer name"
+msgstr "Neuen Layernamen eingeben"
+
+msgid "Enter a new name for the rule set"
+msgstr "Neuen Namen für Regelsatz eingeben"
+
+msgid "Enter area"
+msgstr "Gebe Fläche ein"
+
+msgid "Enter coordinates"
+msgstr "Koordinaten eingeben"
+
+msgid "Enter new coordinates"
+msgstr "Neue Koordinaten eingeben"
+
+msgid "Enter the new name"
+msgstr "Neuen Namen eingeben"
+
+msgid "Enter the snap distance"
+msgstr "Einrastdistanz eingeben"
+
+msgid "Enter the variable name"
+msgstr "Variablenname eingeben"
+
+msgid "Enter your email address if you want a reply"
+msgstr "Geben Sie ihre E-Mail Adresse an wenn wie eine Antwort erwünschen"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Error saving job config."
+msgstr "Fehler beim Speichern der Jobkonfiguration."
+
+msgid "Error: "
+msgstr "Fehler: "
+
+msgid "Errors"
+msgstr "Fehler"
+
+msgid "Estimate"
+msgstr "Prognose"
+
+msgid "Evaluation limit reached"
+msgstr "Erprobungsgrenze erreicht"
+
+msgid "Even"
+msgstr "Gerade"
+
+msgid "Excellon"
+msgstr "Excellon"
+
+msgid ""
+"Excellon import filter\n"
+"\n"
+"Can automatically create tools and operations based on the tool definitions "
+"in the file"
+msgstr ""
+"Excellon Importfilter\n"
+"\n"
+"Kann automatische Werkzeuge und Operationen die in Werkzeugbasiert sind "
+"erstellen"
+
+msgid "Exit the application"
+msgstr "Beende das Programm"
+
+msgid "Export to DG NestPro"
+msgstr "Exportiere nach DG NestPro"
+
+msgid "Export to MyNesting"
+msgstr "Exportiere nach MyNesting"
+
+msgid "Export to NestFab"
+msgstr "Exportiere nach NestFab"
+
+msgid "Exporting data"
+msgstr "Datenexport"
+
+msgid "Extrusion height"
+msgstr "Extrusionshöhe"
+
+msgid "Extrusion rate"
+msgstr "Extrusionsrate"
+
+msgid "FRO"
+msgstr "FRO"
+
+msgid "Face"
+msgstr "Oberfläche"
+
+msgid "Failed to remove license"
+msgstr "Lizenzentfernung fehlgeschlagen"
+
+msgid "Feed override"
+msgstr "Vorschubübersteuerung"
+
+msgid "Feed rate"
+msgstr "Vorschub"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "File name"
+msgstr "Dateiname"
+
+msgid "Files that will be sent"
+msgstr "Dateien die gesendet werden"
+
+msgid "Fill angle"
+msgstr "Füllwinkel"
+
+msgid "Finding group directions"
+msgstr "Ergründe Gruppenausrichtung"
+
+msgid "Finish allowance"
+msgstr "Schlichtaufmaß"
+
+msgid "Finish depth"
+msgstr "Zieltiefe"
+
+msgid "Fit to material"
+msgstr "An Material anpassen"
+
+msgid "Fixed"
+msgstr "Fixiert"
+
+msgid "Fixed angle"
+msgstr "Fester Winkel"
+
+msgid "Fixed scan width"
+msgstr "Feste Scanbreite"
+
+msgid "Flame"
+msgstr "Flamme"
+
+msgid "Flange thickness"
+msgstr "Auslegerdicke"
+
+msgid "Flat sheet"
+msgstr "Flacher Bogen"
+
+msgid "Flood"
+msgstr "Schwall"
+
+msgid "Flood coolant"
+msgstr "Schwall Kühlung"
+
+msgid "Flow control"
+msgstr "Flusskontrolle"
+
+msgid "Flute length"
+msgstr "Schneidenlänge"
+
+msgid "From all layers"
+msgstr "Von alles Lagen"
+
+msgid "From layer "
+msgstr "Von Lage "
+
+msgid "Full tool paths"
+msgstr "Voller Werkzeugpfad"
+
+msgid "Function"
+msgstr "Funktion"
+
+msgid "G-code"
+msgstr "G-Code"
+
+msgid "Gap between parts"
+msgstr "Abstand zwischen Teilen"
+
+msgid "Gcode to Image"
+msgstr "G-Code zu Bild"
+
+msgid "Generate thumbnail images for a batch of jobs"
+msgstr "Erstelle Miniaturvorschau für Stapelverarbeitungsjobs"
+
+msgid "Generate thumbnail images from a batch of Gcodes"
+msgstr "Erzeuge Miniaturansichten von Stapelverarbeitung von G-Codes"
+
+msgid "Gerber"
+msgstr "Gerber"
+
+msgid "Grid"
+msgstr "Raster"
+
+msgid "Grid options"
+msgstr "Rastereinstellungen"
+
+msgid "Grid size"
+msgstr "Rastergröße"
+
+msgid "Grid spacing"
+msgstr "Rasterauflösung"
+
+msgid "H"
+msgstr "H"
+
+msgid "H:M:S"
+msgstr "H:M:S"
+
+msgid "HPGL"
+msgstr "HPGL"
+
+msgid ""
+"HPGL/1 import filter\n"
+"\n"
+"Does not handle text entities"
+msgstr ""
+"HPGL/1 Importfilter\n"
+"\n"
+"Beherrscht keine Texteinträge"
+
+msgid "HSMAdvisor V"
+msgstr "HSMAdvisor V"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Height of bottom of material above table"
+msgstr "Höhe der Unterlage"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Help window"
+msgstr "Hilfefenster"
+
+msgid "Highlight"
+msgstr "Hervorhebung"
+
+msgid "Holding tabs"
+msgstr "Halte Stege"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Horizontal line"
+msgstr "Horizontale Line"
+
+msgid "I beam"
+msgstr "Mein Stahl"
+
+msgid "Icon style"
+msgstr "Kachel Stil"
+
+msgid "If a folder is not checked, it will remember the folder you last used."
+msgstr ""
+"Wenn kein Ordner ausgewählt ist, dann wird der zuletzt benutzte Ordner "
+"verwendet."
+
+msgid "If within %s of pierce %s"
+msgstr "Wenn innerhalb %s des Einstiches %s"
+
+msgid ""
+"If you are not sure what post to select, don't worry you can always change "
+"it later"
+msgstr ""
+"Wenn sie nicht sicher sind welchen Post sie nehmen sollen, ist dies "
+"unproblematisch weil er später noch geändert werden kann"
+
+msgid ""
+"If you delete this part it's\n"
+"duplicates will be deleted as well\n"
+"Do you want to continue?"
+msgstr ""
+"Wenn Sie dieses Teil löschen\n"
+"werden auch seine Duplikate gelöscht.\n"
+"Wollen Sie fortfahren?"
+
+msgid "Image type"
+msgstr "Bildtyp"
+
+msgid "Import a drawing into this part"
+msgstr "Importiere eine Zeichnung in dieses Teil"
+
+msgid "Import drawing"
+msgstr "Importiere Zeichnung"
+
+msgid "Import drawing into new part"
+msgstr "Zeichnung in neues Teil importieren"
+
+msgid "Import from DG NestPro"
+msgstr "Importiere von DG NestPro"
+
+msgid "Import link tolerance"
+msgstr "Importiere Linktoleranz"
+
+msgid "Import nest"
+msgstr "Importiere Anordnung"
+
+msgid "Import post"
+msgstr "Importiere Post"
+
+msgid "Inactive part"
+msgstr "Inaktives Teil"
+
+msgid "Inch"
+msgstr "Inch"
+
+msgid "Include leadout"
+msgstr "Abfahrt einbeziehen"
+
+msgid "Included angle"
+msgstr "Winkel einbeziehen"
+
+msgid ""
+"Increasing this value increases the clearance between the leadin and any "
+"other cuts."
+msgstr ""
+"Erhöhung dieses Wertes erhöht den Abstand zwischen Eintauchen und allen "
+"anderen Schnitten."
+
+msgid "Infeed per pass"
+msgstr "Zustellung pro Durchgang"
+
+msgid "Insert after"
+msgstr "Einfügen nach"
+
+msgid "Insert before"
+msgstr "Einfügen vor"
+
+msgid "Insert code "
+msgstr "Code einfügen "
+
+msgid "Insert code into the output file"
+msgstr "Code in Ausgabedatei einfügen"
+
+msgid "Insert code snippet "
+msgstr "Codeschnipsel einfügen "
+
+msgid "Inside"
+msgstr "Innen"
+
+msgid "Inside Offset"
+msgstr "Innenversatz"
+
+msgid "Inside shape"
+msgstr "Innenkontur"
+
+msgid "Install license file"
+msgstr "Lizenzdatei installieren"
+
+msgid "Internal variable"
+msgstr "Interne Variable"
+
+msgid "Invalid post name"
+msgstr "Ungültiger Post Name"
+
+msgid "Jet cutting"
+msgstr "Strahlschneiden"
+
+msgid "Jet cutting (includes plasma, laser and water jet)"
+msgstr "Strahlschneiden (beinhaltet Plasma, Laser und Wasserstrahlschneiden)"
+
+msgid "Jet tool"
+msgstr "Strahldüse"
+
+msgid "Job"
+msgstr "Job"
+
+msgid "Job file"
+msgstr "Job-Datei"
+
+msgid "Job file folder"
+msgstr "Jobdatei Ordner"
+
+msgid "Job files"
+msgstr "Job-Dateien"
+
+msgid "Job files(*.job)"
+msgstr "Job-Dateien (*.job)"
+
+msgid "Job image"
+msgstr "Job Bild"
+
+msgid "Job options"
+msgstr "Job"
+
+msgid "Job options variable"
+msgstr "Job Optionen Variable"
+
+msgid "Job report"
+msgstr "Arbeitsbericht erstellen"
+
+msgid "Job template files"
+msgstr "Job Vorlagedateien"
+
+msgid "JobTemplate"
+msgstr "Job Vorlage"
+
+msgid "Joining vertex ends"
+msgstr "Verbinde Scheitelpunktenden"
+
+msgid "Keep open when command finishes"
+msgstr "Offen lassen nach Beendigung des Kommandos"
+
+msgid "Keep parts together"
+msgstr "Halte Teile beieinander"
+
+msgid "Kerf width"
+msgstr "Spaltbreite"
+
+msgid "Kerf width compensation"
+msgstr "Schnittbreitenkompensation"
+
+msgid "Knife"
+msgstr "Messer"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Large"
+msgstr "Groß"
+
+msgid "Laser"
+msgstr "Laser"
+
+msgid "Laser engrave"
+msgstr "Lasergravieren"
+
+msgid "Lay out this sheet"
+msgstr "Layout dieser Seite"
+
+msgid "Layer"
+msgstr "Lage"
+
+msgid "Layer '%s' not found"
+msgstr "Lage '%s' nicht gefunden"
+
+msgid "Layer tool"
+msgstr "Lagenwerkzeug"
+
+msgid "Layers"
+msgstr "Lagen"
+
+msgid "Lead in"
+msgstr "Anfahren"
+
+msgid "Lead out"
+msgstr "Wegfahren"
+
+msgid "Leadin type"
+msgstr "Anfahrttyp"
+
+msgid "Leading zeros"
+msgstr "Führende Nullen"
+
+msgid "Leadins on open paths"
+msgstr "Einlauf zu offenen Pfaden"
+
+msgid "Left hand"
+msgstr "Linksgewinde"
+
+msgid "Length"
+msgstr "Länge"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "License ID: %s"
+msgstr "Lizenz-ID: %s"
+
+msgid "License installed successfully"
+msgstr "Lizenz erfolgreich installiert"
+
+msgid "License key:"
+msgstr "Lizenzschlüssel:"
+
+msgid "License removed successfully"
+msgstr "Lizenz erfolgreich entfernt"
+
+msgid "Line angle"
+msgstr "Linien Winkel"
+
+msgid "Line end"
+msgstr "Linienende"
+
+msgid "Line of tabs"
+msgstr "Linie von Haltestegen"
+
+msgid "Line tabbing"
+msgstr "Linien Stege"
+
+msgid "Line width is less than the kerf width."
+msgstr "Linienbreite ist schmaler als Schneidenbreite."
+
+msgid "Line/arc segment ends closer than this value will be joined"
+msgstr "Linien/Bogensegmentenden näher als dieser Wert werden verbunden"
+
+msgid "Linear"
+msgstr "Linear"
+
+msgid "Linear units"
+msgstr "Lineare Einheiten"
+
+msgid "Link paths"
+msgstr "Link Pfade"
+
+msgid "LinuxCNC"
+msgstr "LinuxCNC"
+
+msgid "Load"
+msgstr "Laden"
+
+msgid "Load default toolset"
+msgstr "Lade Standardwerkzeugsatz"
+
+msgid "Load machine"
+msgstr "Lade Maschine"
+
+msgid "Load material"
+msgstr "Lade Material"
+
+msgid "Load nest file"
+msgstr "Lade Anordnungsdatei"
+
+msgid "Load operation"
+msgstr "Operation laden"
+
+msgid "Load part"
+msgstr "Lade Teil"
+
+msgid "Load part data"
+msgstr "Lade Teiledaten"
+
+msgid "Load path rule set"
+msgstr "Lade Pfad-Regelsatz"
+
+msgid "Load the default tool set"
+msgstr "Lade den Standardwerkzeugsatz"
+
+msgid "Load tools"
+msgstr "Lade Werkzeugsatz"
+
+msgid "Loading drawing"
+msgstr "Lade Zeichnung"
+
+msgid "Loading job"
+msgstr "Lade Job"
+
+msgid "Lock"
+msgstr "Verriegeln"
+
+msgid "Lock all"
+msgstr "Alle verriegeln"
+
+msgid "Lock part and duplicates"
+msgstr "Verriegle Teile und Duplikate"
+
+msgid "Lock/enable part"
+msgstr "Verriegeln/Freigeben Teil"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Loop corners"
+msgstr "Umschlinge Ecken"
+
+msgid "Loop sharp corners"
+msgstr "Umschlinge scharfe Ecken"
+
+msgid "Loop size"
+msgstr "Umschlingungsgröße"
+
+msgid "Mach"
+msgstr "Mach"
+
+msgid ""
+"Mach3 is installed but the SheetCamRemote plugin was not found.\n"
+"Please install the SheetCamRemote plugin and enable it in Mach.\n"
+"The plugin can be enabled by going to Config->Config plugins."
+msgstr ""
+"Mach3 ist installiert aber die SheetCamRemote-Erweiterung wurde nicht "
+"gefunden.\n"
+"Bitte installieren sie die SheetCamRemote-Erweiterung und aktivieren sie "
+"diese in Mach.\n"
+"Die Erweiterung kann unter dem Menüpunkt Optionen -> Erweiterungen aktiviert "
+"werden."
+
+msgid "Mach3 was not found."
+msgstr "MACH3 wurde nicht gefunden."
+
+msgid "Machine"
+msgstr "Maschine"
+
+msgid "Machine options"
+msgstr "Maschinen Optionen"
+
+msgid "Machine table"
+msgstr "Maschinentisch"
+
+msgid "Machine type"
+msgstr "Maschinentyp"
+
+msgid "Machine working envelope"
+msgstr "Maschinenarbeitsbereich"
+
+msgid "Macro file"
+msgstr "Makro Datei"
+
+msgid "Manage custom shapes"
+msgstr "Verwalte Benutzerkonturen"
+
+msgid "Manual"
+msgstr "Manuell"
+
+msgid "Manual optimisation"
+msgstr "Manuelle Optimierung"
+
+msgid "Manual optimisation (keep parts together)"
+msgstr "Manuelle Optimierung (Teile zusammenhalten)"
+
+msgid "Map drawing to inside"
+msgstr "Verlege Zeichnung nach innen"
+
+msgid "Mark"
+msgstr "Mark 1"
+
+msgid "Marker"
+msgstr "Marker"
+
+msgid "Material"
+msgstr "Material"
+
+msgid "Material extents"
+msgstr "Materialgröße"
+
+msgid "Material name"
+msgstr "Materialname"
+
+msgid "Material thickness:"
+msgstr "Materialdicke:"
+
+msgid "Max chain length"
+msgstr "Max Kettenlänge"
+
+msgid "Max hole size"
+msgstr "Max. Bohrungsgröße"
+
+msgid "Max tab spacing"
+msgstr "Maximale Anzahl von Stegen"
+
+msgid "Maximum X size"
+msgstr "Maximale X Größe"
+
+msgid "Maximum Y size"
+msgstr "Maximale Y Größe"
+
+msgid "Maximum depth"
+msgstr "Maximale Tiefe"
+
+msgid "Maximum detail reduction error"
+msgstr "Maximaler Detailreduktionsfehler"
+
+msgid "Maximum drawing deviation from a true circle. Used for drilling."
+msgstr ""
+"Maximale Zeichnungsabweichung von einem wahren Kreis. Für das Bohren "
+"benötigt."
+
+msgid "Maximum number of sheets to use"
+msgstr "Maximal nutzbare Anzahl von Seiten"
+
+msgid "Maximum rate"
+msgstr "Maximaler Vorschub"
+
+msgid "Measure"
+msgstr "Messen"
+
+msgid "Medium"
+msgstr "Mittel"
+
+msgid "Metric"
+msgstr "Metrisch"
+
+msgid "Mill/router"
+msgstr "Fräser/Gravierer"
+
+msgid "Min hole size"
+msgstr "Min. Bohrungsgröße"
+
+msgid "Minimise slew distance"
+msgstr "Minimiere Rampen Distanz"
+
+msgid "Minimise thermal distortion"
+msgstr "Minimiere thermischen Verzug"
+
+msgid "Minimise tool changes"
+msgstr "Minimiere Werkzeugwechsel"
+
+msgid "Minimise toolchanges"
+msgstr "Minimiere Werkzeugwechsel"
+
+msgid "Minimum X size"
+msgstr "Minimale X Größe"
+
+msgid "Minimum Y size"
+msgstr "Minimale Y Größe"
+
+msgid "Minimum direction arrow size"
+msgstr "Minimale Richtungspfeilgröße"
+
+msgid "Minimum feed rate"
+msgstr "Minimaler Vorschub"
+
+msgid "Minimum number of tabs"
+msgstr "Mindestanzahl von Stegen"
+
+msgid "Minumum segments for arc fitting"
+msgstr "Minimum Segmente für Bogenanpassung"
+
+msgid "Mirror"
+msgstr "Spiegeln"
+
+msgid "Mirror X"
+msgstr "Spiegeln X"
+
+msgid "Mirrored"
+msgstr "Gespiegelt"
+
+msgid "Mist"
+msgstr "Nebel"
+
+msgid "Mist coolant"
+msgstr "Sprühnebelkühlung"
+
+msgid "Mode"
+msgstr "Modus"
+
+msgid "Modify tool"
+msgstr "Werkzeug bearbeiten"
+
+msgid "Move"
+msgstr "Bewege"
+
+msgid "Move Z first"
+msgstr "Bewege Z zuerst"
+
+msgid "Move Z last"
+msgstr "Bewege Z zuletzt"
+
+msgid "Move license to another computer"
+msgstr "Lizenz auf einen anderen Rechner übertragen"
+
+msgid "Move operation"
+msgstr "Operation verschieben"
+
+msgid "Move part"
+msgstr "Verschiebe Teil"
+
+msgid "Move to"
+msgstr "Gehe zu"
+
+msgid "Move to given coordinate"
+msgstr "Koordinate anfahren"
+
+msgid "Move to layer"
+msgstr "Verschiebe auf Lage"
+
+msgid "Multi move"
+msgstr "Mehrfache Bewegung"
+
+msgid "Multiple duplicate"
+msgstr "Mehrfaches Duplikat"
+
+msgid "Multiple move"
+msgstr "Mehrfache Bewegung"
+
+msgid "MyNesting V"
+msgstr "MyNesting V"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Near pierce"
+msgstr "Nahe am Durchdringen"
+
+msgid "Negative angles are clockwise"
+msgstr "Negative Winkel im Uhrzeigersinn"
+
+msgid "Nest"
+msgstr "Anordnung"
+
+msgid "Nested parts"
+msgstr "Angeordnete Teile"
+
+msgid "Nesting"
+msgstr "Anordnen"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "New &jet cutting tool"
+msgstr "Neue Strahldüse"
+
+msgid "New &rotary tool"
+msgstr "Neues spanendes Werkzeug"
+
+msgid "New X position"
+msgstr "Neue X-Position"
+
+msgid "New Y position"
+msgstr "Neue Y-Position"
+
+msgid "New bar"
+msgstr "Neue Leiste"
+
+msgid "New job"
+msgstr "Neuer Job"
+
+msgid "New layer"
+msgstr "Neue Lage"
+
+msgid "New line"
+msgstr "Neue Zeile"
+
+msgid "New operation"
+msgstr "Neue Operation"
+
+msgid "New part"
+msgstr "Neues Teil"
+
+msgid "New tab"
+msgstr "Neuer Haltesteg"
+
+msgid "New tool"
+msgstr "Neues Werkzeug"
+
+msgid "New variable"
+msgstr "Neue Variable"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No Offset"
+msgstr "Kein Versatz"
+
+msgid "No Z move prior to toolchange"
+msgstr "Keine Z Bewegung vor dem Werkzeugwechsel"
+
+msgid ""
+"No holes were found.\n"
+"Check the min hole size and max hole size."
+msgstr ""
+"Keine Löcher gefunden.\n"
+"Überprüfen Sie die min. und max. Lochgröße."
+
+msgid "No move to safe Z after tool change"
+msgstr "Kein Verfahren zur sicheren Z-Höhe nach Werkzeugwechsel"
+
+msgid ""
+"No paths were generated. The tool may be too big\n"
+"or there may be a problem with the drawing."
+msgstr ""
+"Es wurden keine Pfade erstellt. Das Werkzeug könnte zu groß sein\n"
+"oder es gibt ein anderes Problem mit der Zeichnung."
+
+msgid ""
+"No post processor has been selected.\n"
+"Please select a post processor."
+msgstr ""
+"Es wurde kein Postprozessor ausgewählt.\n"
+"Bitte wählen sie einen Postprozessor aus."
+
+msgid "No tool"
+msgstr "Kein Werkzeug"
+
+msgid "No tools available"
+msgstr "Kein Werkzeug verfügbar"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Not homed."
+msgstr "Nicht referenziert."
+
+msgid "Note: '%f' will get replaced by the file name"
+msgstr "Hinweis: '%f' wird durch den Dateinamen ersetzt werden"
+
+msgid "Notes"
+msgstr "Notizen"
+
+msgid "Number format"
+msgstr "Zahlenformat"
+
+msgid "Number of columns"
+msgstr "Anzahl Spalten"
+
+msgid "Number of contours selected: %i"
+msgstr "Anzahl ausgewählter Konturen: %i"
+
+msgid "Number of layers:"
+msgstr "Anzahl der Lagen:"
+
+msgid "Number of outlines:"
+msgstr "Anzahl der Umrisse:"
+
+msgid "Number of rows"
+msgstr "Anzahl Reihen"
+
+msgid "Number of teeth"
+msgstr "Anzahl Zähne"
+
+msgid "Number of toolchanges"
+msgstr "Anzahl Werkzeugwechsel"
+
+msgid "Odd"
+msgstr "Ungerade"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "Offset"
+msgstr "Abstand"
+
+msgid "Offset amount"
+msgstr "Abstandsgröße"
+
+msgid "Offset even rows"
+msgstr "Versetze gerade Reihen"
+
+msgid "Offset open paths"
+msgstr "Versatz zu offenen Pfaden"
+
+msgid "On all corners"
+msgstr "Bei allen Ecken"
+
+msgid "On all corners tighter than %s %s"
+msgstr "Bei allen Ecken dichter als %s %s"
+
+msgid "On arcs"
+msgstr "Bei Bögen"
+
+msgid "On arcs smaller than %s %s"
+msgstr "Bei Bögen kleiner als %s %s"
+
+msgid "On circles smaller than %s %s"
+msgstr "Bei Kreisen kleiner als %s %s"
+
+msgid "On inside corners"
+msgstr "Bei Innenecken"
+
+msgid "On inside corners tighter than %s %s"
+msgstr "Bei Innenecken dichter als %s %s"
+
+msgid "On lead in"
+msgstr "Beim Anfahren"
+
+msgid "On lead out"
+msgstr "Beim Wegfahren"
+
+msgid "On leadin %s then after %s %s"
+msgstr "Beim Anfahren %s dann nach %s %s"
+
+msgid "On outside corners"
+msgstr "Bei Aussenecken"
+
+msgid "On outside corners tighter than %s %s"
+msgstr "Bei Aussenecken dichter als %s %s"
+
+msgid "On shapes smaller than %s %s"
+msgstr "Bei Formen kleiner als %s %s"
+
+msgid "On small circles"
+msgstr "Bei kleinen Kreisen"
+
+msgid "On small shapes"
+msgstr "Bei kleinen Figuren"
+
+msgid "On start"
+msgstr "Beim Start"
+
+msgid "Open G-code"
+msgstr "Öffne G-Code"
+
+msgid "Open a drawing"
+msgstr "Öffne eine Zeichnung"
+
+msgid "Open a job"
+msgstr "Job öffnen"
+
+msgid "Open a job file"
+msgstr "Öffne eine Job-Datei"
+
+msgid "Open a part"
+msgstr "Öffne ein Teil"
+
+msgid "Open a part file"
+msgstr "Öffne eine Teiledatei"
+
+msgid "Open a template job file"
+msgstr "Öffne eine Job-Datei-Vorlage"
+
+msgid "Open a tool set"
+msgstr "Öffne Werkzeugsatz"
+
+msgid "Open command"
+msgstr "Öffne Kommando"
+
+msgid "Open file"
+msgstr "Datei öffnen"
+
+msgid "Open job"
+msgstr "Öffne Job"
+
+msgid "Open job template"
+msgstr "Öffne eine Job Vorlage"
+
+msgid "Open license"
+msgstr "Lizenz öffnen"
+
+msgid "Open license file"
+msgstr "Lizenzdatei öffnen"
+
+msgid "Open line width"
+msgstr "Offene Linienbreite"
+
+msgid "Open part"
+msgstr "Öffne Teil"
+
+msgid "Open paths"
+msgstr "Offener Pfad"
+
+msgid "Open paths were not offset."
+msgstr "Offene Pfade werden nicht versetzt."
+
+msgid "Open settings folder"
+msgstr "Einstellungsordner öffnen"
+
+msgid "Open the cutting rules editor"
+msgstr "Öffne den Schnittregeleditor"
+
+msgid "Open the operation table editor"
+msgstr "Operationstabelle öffnen"
+
+msgid "Open the tool table editor"
+msgstr "Öffne den Werkzeugtabelleneditor"
+
+msgid "Open toolset"
+msgstr "Öffne Werkzeugsatz"
+
+msgid "Operation"
+msgstr "Prozesse"
+
+msgid "Operation table"
+msgstr "Tabelle der Operationen"
+
+msgid "Operations"
+msgstr "Operationen"
+
+msgid "Optimisation"
+msgstr "Optimierung"
+
+msgid "Optimise now"
+msgstr "Optimiere jetzt"
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "Order"
+msgstr "Reihenfolge"
+
+msgid "Origin"
+msgstr "Nullpunkt"
+
+msgid "Output file extension"
+msgstr "Dateiendung Ausgabedatei"
+
+msgid "Output file units"
+msgstr "Einheiten Ausgabedatei "
+
+msgid "Output folder"
+msgstr "Ausgabe Ordner"
+
+msgid "Outside"
+msgstr "Außen"
+
+msgid "Outside Offset"
+msgstr "Außenversatz"
+
+msgid "Outside shape"
+msgstr "Außenkontur"
+
+msgid "Overcut"
+msgstr "Ecken ausräumen"
+
+msgid "Overcut corners"
+msgstr "Ecken ausräumen"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Page Set&up"
+msgstr "Seiteneinstell&ung"
+
+msgid "Paint"
+msgstr "Farbe"
+
+msgid "Paint extruder"
+msgstr "Farbextruder"
+
+msgid "Parity"
+msgstr "Parität"
+
+msgid "Parking"
+msgstr "Parken"
+
+msgid "Parking position"
+msgstr "Parkposition"
+
+msgid "Part"
+msgstr "Teil"
+
+msgid "Part %i"
+msgstr "Teil %i"
+
+msgid ""
+"Part %s\n"
+"Operation %i: %s"
+msgstr ""
+"Teil %s\n"
+"Operation %i: %s"
+
+msgid "Part cut order"
+msgstr "Schnittreihenfolge der Teile"
+
+msgid "Part files"
+msgstr "Teile Dateien"
+
+msgid "Part files (*.part)"
+msgstr "Teile-Dateien (*.part)"
+
+msgid "Part name:"
+msgstr "Teilname:"
+
+msgid "Part properties"
+msgstr "Teile-Eigenschaften"
+
+msgid "Part spacing"
+msgstr "Teile Abstand"
+
+msgid "Part:"
+msgstr "Teil: "
+
+msgid "Parts"
+msgstr "Teile"
+
+msgid "Parts not in job file"
+msgstr "Teil ist nicht in der Jobdatei"
+
+msgid "Parts not nested"
+msgstr "Teile nicht angeordnet"
+
+msgid "Parts on this sheet"
+msgstr "Teile auf dieser Seite"
+
+msgid "Paste"
+msgstr "Einfügen"
+
+msgid "Path generation for part'%s' has been aborted."
+msgstr "Pfaderzeugung für das Teil %s' wurde abgebrochen."
+
+msgid "Path rule '%s' not found"
+msgstr "Pfadregel '%s' nicht gefunden"
+
+msgid "Path rules"
+msgstr "Pfadregeln"
+
+msgid "PathRules"
+msgstr "Pfadregelsatz"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Pause after end"
+msgstr "Pause nach Ende"
+
+msgid "Pause after on"
+msgstr "Pause nach einschalten"
+
+msgid "Pause at end of cut"
+msgstr "Pause bei Schnittende"
+
+msgid "Peck depth"
+msgstr "Z-Zustellung"
+
+msgid "Peck retract"
+msgstr "Spanbruchzyklus Ausheben"
+
+msgid "Percentage"
+msgstr "Prozent"
+
+msgid "Peripheral feed rate"
+msgstr "Umfangs-Schnittgeschwindigkeit"
+
+msgid "Perpendicular"
+msgstr "Lotrecht"
+
+msgid "Pierce delay"
+msgstr "Eintauchverzögerung"
+
+msgid "Pierce height"
+msgstr "Eintauchhöhe"
+
+msgid "Pierce time"
+msgstr "Eintauchzeit"
+
+msgid "Pierce type"
+msgstr "Eintauchtyp"
+
+msgid "Pipe diameter"
+msgstr "Düsendurchmesser"
+
+msgid "Pitch"
+msgstr "Steigung"
+
+msgid "Place outlines"
+msgstr "Platziere Konturen"
+
+msgid "Place tabs"
+msgstr "Platziere Stege"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Plate marker"
+msgstr "Gravierstichel"
+
+msgid "Please enter a name"
+msgstr "Bitte Namen eingeben"
+
+msgid "Please enter any information you think may help"
+msgstr "Füge hilfreiche Informationen hinzu"
+
+msgid "Please select your preferred language"
+msgstr "Bitte wählen Sie Ihre bevorzugte Sprache"
+
+msgid "Please wait while the file is uploaded"
+msgstr "Bitte warten Sie das Hochladen der Datei ab"
+
+msgid "Plugin"
+msgstr "Erweiterung"
+
+msgid "Plugin options"
+msgstr "Erweiterungen"
+
+msgid "Plugins"
+msgstr "Erweiterung"
+
+msgid "Plunge rate"
+msgstr "Eintauchrate"
+
+msgid "Plunge safety clearance"
+msgstr "Sicherheitsabstand vor Eintauchen"
+
+msgid "Pocket"
+msgstr "Tasche"
+
+msgid "Pocket method"
+msgstr "Taschenmethode"
+
+msgid "Point angle"
+msgstr "Spitzenwinkel"
+
+msgid "Point at a position"
+msgstr "Auf Position zeigen"
+
+msgid "Port"
+msgstr "Schnittstelle"
+
+msgid "Port settings"
+msgstr "Schnittstellen Einstellung"
+
+msgid "Pos X"
+msgstr "Pos X"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Post documentation"
+msgstr "Post Dokumentation"
+
+msgid "Post installation failed"
+msgstr "Post-Installation fehlgeschlagen"
+
+msgid "Post installed successfully"
+msgstr "Post erfolgreich installiert"
+
+msgid "Post not found"
+msgstr "Post nicht gefunden"
+
+msgid "Post options"
+msgstr "Post-Optionen"
+
+msgid "Post processing completed"
+msgstr "Post-Ausführung abgeschlossen"
+
+msgid "Post processing completed with %i warnings"
+msgstr "Post-Ausführung mit %i Warnungen abgeschlossen"
+
+msgid "Post processing failed"
+msgstr "Post-Ausführung fehlgeschlagen"
+
+msgid "Post processing..."
+msgstr "Post-Ausführung..."
+
+msgid "Post processor"
+msgstr "Postprozessor"
+
+msgid "Power"
+msgstr "Leistung"
+
+msgid "Preferred distance between cuts:"
+msgstr "Bevorzugte Entfernung zwischen Schnitten:"
+
+msgid "Preheat"
+msgstr "Vorheizen"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Print the current display"
+msgstr "Drucke die aktuelle Anzeige"
+
+msgid "Printout"
+msgstr "Ausdruck"
+
+msgid "Properties"
+msgstr "Eigenschaften"
+
+msgid "Punch"
+msgstr "Loch"
+
+msgid "Qty"
+msgstr "Menge"
+
+msgid "Quick cut sequence"
+msgstr "Schneller Schneidenablauf"
+
+msgid "Quick load"
+msgstr "Schnell Laden"
+
+msgid "Quickly browse and load files."
+msgstr "Schnelles Durchsuchen und Datei laden."
+
+msgid "Quit the application"
+msgstr "Beende die Anwendung"
+
+msgid "RPM"
+msgstr "U/min"
+
+msgid "Ramp"
+msgstr "Rampe"
+
+msgid "Ramp Angle"
+msgstr "Rampenwinkel"
+
+msgid "Ramp angle"
+msgstr "Rampenwinkel"
+
+msgid "Ramp feed"
+msgstr "Rampenvorschub"
+
+msgid "Rapid clearance"
+msgstr "Eilganghöhe"
+
+msgid "Rapid path"
+msgstr "Eilgangpfad"
+
+msgid "Rapid speed"
+msgstr "Eilgeschwindigkeit"
+
+msgid "Rapid to"
+msgstr "Eilgang zu"
+
+msgid "Raster"
+msgstr "Raster"
+
+msgid "Raster engraving"
+msgstr "Rastergravur"
+
+msgid "Reading file"
+msgstr "Lese Datei"
+
+msgid "Recent drawings"
+msgstr "Letzte Zeichnungen"
+
+msgid "Recent files"
+msgstr "Aktuelle Dateien"
+
+msgid "Recent job templates"
+msgstr "Aktuelle Job Vorlagen"
+
+msgid "Recent jobs"
+msgstr "Aktuelle Jobs"
+
+msgid "Recent parts"
+msgstr "Aktuelle Teile"
+
+msgid "Rectangular section"
+msgstr "Rechteckige Sektion"
+
+msgid "Reducing detail"
+msgstr "Reduziere Details"
+
+msgid "Regen"
+msgstr "Regenerieren"
+
+msgid "Registered to: %s"
+msgstr "Registriert auf: %s"
+
+msgid "Relative"
+msgstr "Relativ"
+
+msgid "Remember last"
+msgstr "Benutze den Letzten"
+
+msgid "Remnant cutoff"
+msgstr "Remnant cutoff"
+
+msgid "Remnants must be rectangular"
+msgstr "Überbleibsel müssen rechteckig sein"
+
+msgid "Remove drawing outlines"
+msgstr "Zeichnungsumriß entfernen"
+
+msgid "Remove duplicate lines"
+msgstr "Entferne doppelte Linien"
+
+msgid "Removing duplicate vectors"
+msgstr "Entferne duplizierte Vektoren"
+
+msgid "Rename"
+msgstr "Umbenennen"
+
+msgid "Reset pane layout"
+msgstr "Fensterlayout zurücksetzen"
+
+msgid "Restored backup"
+msgstr "Wiederhergestellte Sicherung"
+
+msgid "Resume"
+msgstr "Wiederherstellen"
+
+msgid "Reverse cut direction"
+msgstr "Kehre Schnittrichtung um"
+
+msgid "Reverse cut side"
+msgstr "Kehre Schneideseite um"
+
+msgid "Reverse direction"
+msgstr "Richtung umkehren"
+
+msgid "Reverse mouse wheel"
+msgstr "Mausrad Umkehr"
+
+msgid "Reverse multiplier"
+msgstr "Rückzugdrehzahl"
+
+msgid "Reverse open paths"
+msgstr "Kehre offene Pfade um"
+
+msgid "Reverse selection"
+msgstr "Selektion umkehren"
+
+msgid "Rigid tap"
+msgstr "Gewindebohrer"
+
+msgid "Rotary cutting (includes milling and routing)"
+msgstr "Spanendes Schneiden (beinhaltet Fräsen und Gravieren)"
+
+msgid "Rotary line drawing"
+msgstr "Rotationslinien Zeichnung"
+
+msgid "Rotary plasma"
+msgstr "Rotary plasma"
+
+msgid "Rotary tool"
+msgstr "Spanendes Werkzeug"
+
+msgid "Round pipe"
+msgstr "Runde Düse"
+
+msgid "Rule"
+msgstr "Regel"
+
+msgid "Rule set"
+msgstr "Regelsatz"
+
+msgid "Run code after toolchange"
+msgstr "Code ausführen nach Werkzeugwechsel"
+
+msgid "Run code before toolchange"
+msgstr "Code ausführen vor Werkzeugwechsel"
+
+msgid "Run external command"
+msgstr "Externes Kommando ausführen"
+
+msgid "Run in terminal"
+msgstr "Im Terminal ausführen"
+
+msgid "Run post processor"
+msgstr "Postprozessor ausführen"
+
+msgid "Run the calculator"
+msgstr "Rechner ausführen"
+
+msgid "Run the post processor (%s)"
+msgstr "Postprozessor ausführen (%s)"
+
+msgid "Run the sample"
+msgstr "Beispiel ausführen"
+
+msgid "Running post processor"
+msgstr "Postprozessor ausführen"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid ""
+"SVG import filter\n"
+"\n"
+"Note: Does not currently handle text entities"
+msgstr ""
+"SVG Importfilter\n"
+"\n"
+"Beherrscht keine Texteinträge"
+
+msgid "Safety move"
+msgstr "Sicherheitsfahrt"
+
+msgid "Sample"
+msgstr "Beispiel"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save G-code"
+msgstr "G-Code speichern"
+
+msgid "Save an image with the job file"
+msgstr "Speichere ein Bild mit der Jobdatei"
+
+msgid "Save default tool set"
+msgstr "Standardwerkzeugsatz speichern"
+
+msgid "Save default toolset"
+msgstr "Speichere Standardwerkzeugsatz"
+
+msgid "Save dxf"
+msgstr "DXF speichern"
+
+msgid "Save file"
+msgstr "Datei speichern"
+
+msgid "Save job"
+msgstr "Speichere Job"
+
+msgid "Save job as"
+msgstr "Speichere Job unter"
+
+msgid "Save job as template"
+msgstr "Speichere Job als Vorlage"
+
+msgid "Save license file"
+msgstr "Lizenz Datei speichern"
+
+msgid "Save machine"
+msgstr "Speichere Maschine"
+
+msgid "Save material"
+msgstr "Speichere Material"
+
+msgid "Save nest file"
+msgstr "Speichere Anordnungsdatei"
+
+msgid "Save operation"
+msgstr "Operation speichern"
+
+msgid "Save part"
+msgstr "Speichere Teil"
+
+msgid "Save part as"
+msgstr "Speichere Teil unter"
+
+msgid "Save report"
+msgstr "Bericht speichern"
+
+msgid "Save the current part"
+msgstr "Speichere dieses Teil"
+
+msgid "Save the current part as"
+msgstr "Speichere dieses Teil unter"
+
+msgid "Save the job"
+msgstr "Speichere diesen Job"
+
+msgid "Save the job as"
+msgstr "Speichere diesen Job als"
+
+msgid "Save the job as a template"
+msgstr "Speichere diesen Job als Vorlage"
+
+msgid "Save the tool set"
+msgstr "Speichere Werkzeugsatz"
+
+msgid "Save the tool set as the default"
+msgstr "Speichere Werkzeugsatz als Standard"
+
+msgid "Save tools"
+msgstr "Werkzeuge speichern"
+
+msgid "Save toolset as"
+msgstr "Speichere Werkzeugsatz unter"
+
+msgid "Save/load"
+msgstr "Speichern/Laden"
+
+msgid "Scaling"
+msgstr "Skalierung"
+
+msgid "Segment end"
+msgstr "Segementende"
+
+msgid "Select all"
+msgstr "Alles auswählen"
+
+msgid "Select all closed contours"
+msgstr "Wähle alle geschlossenen Konturen aus"
+
+msgid "Select all holes"
+msgstr "Wähle alle Löcher aus"
+
+msgid "Select all inside contours"
+msgstr "Wähle alle Innenkonturen aus"
+
+msgid "Select all open contours"
+msgstr "Wähle alle offenen Konturen aus"
+
+msgid "Select all outside contours"
+msgstr "Wähle alle Außenkonturen aus"
+
+msgid "Select part and duplicates"
+msgstr "Selektiere Teil und Duplikate"
+
+msgid "Select the directories to use"
+msgstr "Wähle den zu benutzenden Ordner"
+
+msgid "Select the first alignment point"
+msgstr "Wähle ersten Ausrichtungspunkt aus"
+
+msgid "Select the second alignment point"
+msgstr "Wähle den zweiten Ausrichtungspunkt"
+
+msgid "Select your machine type"
+msgstr "Maschinentyp auswählen"
+
+msgid "Select your preferred units"
+msgstr "Wähle deine bevorzugten Einheiten aus"
+
+msgid "Send data"
+msgstr "Sende Daten"
+
+msgid "Sequence number"
+msgstr "Sequenznummer"
+
+msgid "Serial port"
+msgstr "Serielle Schnittstelle"
+
+msgid "Set '%s' not found"
+msgstr "Satz '%s' nicht gefunden"
+
+msgid "Set a post processor variable"
+msgstr "Setzte eine Postprozessorvariable"
+
+msgid "Set variable "
+msgstr "Setze Variable "
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Setup wizard"
+msgstr "Einstellungsassistent"
+
+msgid "Shape"
+msgstr "Figuren"
+
+msgid "Shape cutting plugin\n"
+msgstr "Figuren Schneiden Erweiterung\n"
+
+msgid "Sheet %i"
+msgstr "Seite %i"
+
+msgid "Shortest path"
+msgstr "Kürzester Pfad"
+
+msgid "Show all tools"
+msgstr "Alle Werkzeuge anzeigen"
+
+msgid "Show as dots"
+msgstr "Darstellung mit Punkten"
+
+msgid "Show circles"
+msgstr "Kreise anzeigen"
+
+msgid "Show direction arrows"
+msgstr "Richtungspfeile anzeigen"
+
+msgid "Show grid"
+msgstr "Raster anzeigen"
+
+msgid "Show info about this application"
+msgstr "Zeige Informationen über diese Applikation"
+
+msgid "Show input paths"
+msgstr "Zeichnungspfade anzeigen"
+
+msgid "Show licence"
+msgstr "Lizenzabkommen anzeigen"
+
+msgid "Show machine and work"
+msgstr "Maschine und Werkstück anzeigen"
+
+msgid "Show notes when the job is opened"
+msgstr "Notizen bei geöffnetem Job anzeigen"
+
+msgid "Show path ends"
+msgstr "Konturenden anzeigen"
+
+msgid "Show rapids"
+msgstr "Eilgänge anzeigen"
+
+msgid "Show rule names in g-code"
+msgstr "Regelnamen im G-Code anzeigen"
+
+msgid "Show rulers"
+msgstr "Darstellung mit Lineal"
+
+msgid "Show segment ends"
+msgstr "Segmentenden anzeigen"
+
+msgid "Show start points"
+msgstr "Startpunkte anzeigen"
+
+msgid "Show the job on a second display"
+msgstr "Zeige den Job auf einer zweiten Anzeige"
+
+msgid "Show the log window"
+msgstr "Log-Fenster anzeigen"
+
+msgid "Show the setup wizard"
+msgstr "Einstellungsassistenten anzeigen"
+
+msgid "Show tool paths"
+msgstr "Werkzeugpfade anzeigen"
+
+msgid "Show true width"
+msgstr "Wahre Breite anzeigen"
+
+msgid "Signal Eding CNC when post processor is run"
+msgstr "Informiere Eding CNC nachdem der Postprozessor gelaufen ist"
+
+msgid "Signal LinuxCNC when post processor is run"
+msgstr "Informiere LinuxCNC nachdem der Postprozessor gelaufen ist"
+
+msgid "Signal Mach3 when post processor is run"
+msgstr "Informiere MACH3 nachdem der Postprozessor gelaufen ist"
+
+msgid "Sim"
+msgstr "Sim"
+
+msgid "Simulation"
+msgstr "Simulation"
+
+msgid "Single move"
+msgstr "Einzelbewegung"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Smaller than"
+msgstr "Kleiner als"
+
+msgid "Snap to grid"
+msgstr "Fange am Raster"
+
+msgid "Software"
+msgstr "Software"
+
+msgid ""
+"Some duplicates in this job were mirrored differently to their parent.\n"
+"This is no longer allowed so they have been converted to copies"
+msgstr ""
+"Einige Duplikate in diesem Job sind anders gespiegelt als im Ursprungsteil.\n"
+"Dies ist nicht mehr erlaubt, so dass sie in Kopien konvertiert wurden."
+
+msgid "Some features were too small to machine."
+msgstr "Einige Features sind zum Bearbeiten zu klein."
+
+msgid ""
+"Some other operations depend on this one. They will be deleted as well.\n"
+"Do you want to continue?"
+msgstr ""
+"Einige andere Operationen basieren auf dieser. Diese werden dann ach "
+"gelöscht.\n"
+"Möchten Sie fortfahren?"
+
+msgid ""
+"Some parts in the nest do not exist in this job\n"
+"They will be ignored"
+msgstr ""
+"Einige Teile in der Anordnung existieren in diesem Job nicht\n"
+"Sie werden ignoriert"
+
+msgid ""
+"Some paths are too short to ramp.\n"
+"They will be plunged."
+msgstr ""
+"Einige Pfade sind zu kurz um sie per Rampe anzufahren.\n"
+"Bei diesen wird eingetaucht."
+
+msgid ""
+"Some paths were not generated correctly. There could be a problem with the "
+"drawing."
+msgstr ""
+"Einige Pfade wurden nicht richtig erzeugt. Es könnte ein Problem mit der "
+"Zeichnung vorliegen."
+
+msgid "Some tabs are too close together. The tabs have ben merged."
+msgstr "Einige Haltestege sind zu dich beieinander. Sie wurden verbunden."
+
+msgid ""
+"Some tool paths were not generated correctly.\n"
+"Please report this as a bug."
+msgstr ""
+"Einige Werkzeugpfade wurden nicht richtig erstellt.\n"
+"Bitte berichten Sie diesen Fehler."
+
+msgid "Sorting vectors"
+msgstr "Sortiere Vektoren"
+
+msgid "Source part"
+msgstr "Ursprungsteil"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "Spindle CCW"
+msgstr "Spindel GUZS"
+
+msgid "Spindle CW"
+msgstr "Spindel UZS"
+
+msgid "Spindle direction"
+msgstr "Spindelrichtung"
+
+msgid "Spindle rotation"
+msgstr "Drehrichtung Spindel"
+
+msgid "Spindle speed"
+msgstr "Spindeldrehzahl"
+
+msgid "Spiral pocket"
+msgstr "Spiraltasche"
+
+msgid "Stack"
+msgstr "Stapel"
+
+msgid "Start a new job"
+msgstr "Starte einen neuen Job"
+
+msgid "Start a new part"
+msgstr "Erstelle ein neues Teil"
+
+msgid "Start at the centre of circles smaller than"
+msgstr "Starte im Mittelpunkt von Kreisen kleiner als"
+
+msgid "Start code"
+msgstr "Start Code"
+
+msgid "Start delay"
+msgstr "Start Verzögerung"
+
+msgid "Start depth"
+msgstr "Starttiefe"
+
+msgid "Start from"
+msgstr "Starte von"
+
+msgid "Start point"
+msgstr "Start Punkt"
+
+msgid "Start point size"
+msgstr "Startpunktgröße"
+
+msgid "Start point step size"
+msgstr "Startpunktschrittgröße"
+
+msgid "Start point tool clearance"
+msgstr "Startpunkt Werkzeugabstand"
+
+msgid "Start points"
+msgstr "Startpunkte"
+
+msgid "Start position"
+msgstr "Startposition"
+
+msgid "Starting help..."
+msgstr "Starte Hilfe..."
+
+msgid "Step &in"
+msgstr "Schritt &hinein"
+
+msgid "Step &over"
+msgstr "Schritt ü&berspringen"
+
+msgid "Step Size"
+msgstr "Schrittgröße"
+
+msgid "Step in"
+msgstr "Schritt hinein"
+
+msgid "Step o&ut"
+msgstr "Schritt h&eraus"
+
+msgid "Step over"
+msgstr "Bahnüberlappung"
+
+msgid "Step size"
+msgstr "Schrittgröße"
+
+msgid "Stop bits"
+msgstr "Stopbits"
+
+msgid "Stop delay"
+msgstr "Stopverzögerung"
+
+msgid "Stop extruding before end"
+msgstr "Stoppe Ausstoßen vor dem Ende"
+
+msgid "Support.zip"
+msgstr "Support.zip"
+
+msgid "Swivel depth"
+msgstr "Tiefe Drehpunkt"
+
+msgid "System default language"
+msgstr "Standard Systemsprache"
+
+msgid "TPI"
+msgstr "TPI"
+
+msgid "Tab size"
+msgstr "Haltesteggröße"
+
+msgid "Table display"
+msgstr "Maschinentisch"
+
+msgid "Tabs"
+msgstr "Haltesteg"
+
+msgid "Tabs on inside cuts"
+msgstr "Stege auf Innenkonturen"
+
+msgid "Tangent"
+msgstr "Tangential"
+
+msgid "Tap"
+msgstr "Gewindeschneiden"
+
+msgid "Tapping head"
+msgstr "Gewindeautomat"
+
+msgid "Template"
+msgstr "Vorlage"
+
+msgid "Text"
+msgstr "Text"
+
+msgid ""
+"Text Creation plugin\n"
+"\n"
+"Inserts text into your drawing.\n"
+"Uses Autocad SHX fonts"
+msgstr ""
+"Texterstellungs-Erweiterung\n"
+"\n"
+"Fügt Text ihrer Zeichnung hinzu.\n"
+"Nutzt Autocad SHX Zeichensätze"
+
+msgid "That name is already in use. Please try again"
+msgstr "Dieser Name ist bereits in Benutzung. Wahlen sie einen anderen"
+
+msgid "The custom profile has sharp corners. All corners must be rounded"
+msgstr ""
+"Das Benutzerprofil hat spitze Ecken. Alle Ecken müssen verrundet werden"
+
+msgid "The custom tube profile does not exist"
+msgstr "Das benutzerdefinierte Rohrprofil existiert nicht"
+
+msgid ""
+"The debugger is running on old code.\n"
+"Save the file to use your changes."
+msgstr ""
+"Der Debugger führt alten Code aus.\n"
+"Speichern Sie die Datei um die Änderungen zu übernehmen."
+
+msgid "The default tool set does not contain rule %s\n"
+msgstr "Der Standardwerkzeugsatz enthält nicht die Regel %s\n"
+
+msgid "The default tool set does not contain tool %i\n"
+msgstr "Der Standardwerkzeugsatz enthält nicht das Werkzeug %i\n"
+
+msgid "The file was uploaded successfully"
+msgstr "Die Datei wurde erfolgreich hochgeladen"
+
+msgid "The job was not loaded."
+msgstr "Der Job wurde nicht geladen."
+
+msgid "The machine move sequence will be:\n"
+msgstr "Die Maschinenbewegungssequenz:\n"
+
+msgid "The maximum error introduced when simplifying drawings."
+msgstr ""
+"Der maximale Fehler wurde bei der Vereinfachung der Zeichnung eingebracht."
+
+msgid ""
+"The nest file does not match the job file.\n"
+"The nest may be incomplete or inaccurate.\n"
+"\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Die Anordnungsdatei passt nicht zur Jobdatei.\n"
+"Die Anordnung ist unvollständig oder unzureichend.\n"
+"\n"
+"Wollen Sie wirklich fortfahren?"
+
+msgid "The new generation of CAM."
+msgstr "Die neue CAM-Generation."
+
+msgid ""
+"The part cannot be aligned to this point.\n"
+"Check your dimensions and try again."
+msgstr ""
+"Das Teil kann an diesem Punkt nicht ausgerichtet werden.\n"
+"Überprüfe Einheiten und versuche erneut."
+
+msgid "The quick brown fox"
+msgstr "The quick brown fox"
+
+msgid ""
+"The tabs were not cut because they are below cut depth.\n"
+"Reduce the material thickness or increase the cut depth."
+msgstr ""
+"Die Haltestege werden nicht geschnitten, weil sie unter der Schnitttiefe "
+"liegen.\n"
+"Reduzieren Sie die Materialdicke oder erhöhen Sie die Schneidetiefe."
+
+msgid "The tool may not be able to cut this deep"
+msgstr "Das Werkzeug könnte ungeeignet für diese Schnitttiefe sein"
+
+msgid "The tool will hit the table"
+msgstr "Das Werkzeug wird den Tisch berühren"
+
+msgid "Thickness"
+msgstr "Dicke"
+
+msgid "Thickness of material"
+msgstr "Materialdicke"
+
+msgid ""
+"This code snippet name is already in use\n"
+"You cannot have two code snippets with the same name."
+msgstr ""
+"Dieser Codeschnipsel-Name ist bereits in Gebrauch\n"
+"Zwei Codeschnipsel können nicht den gleichen Namen haben."
+
+msgid "This cutter will not fit in the available space."
+msgstr "Das Werkzeug passt in in den zur Verfügung stehenden Platz."
+
+msgid ""
+"This drawing contains overlapping outlines.\n"
+"The duplicates have been removed."
+msgstr ""
+"Diese Zeichnung enthält überlappende Konturen.\n"
+"Duplikate wurden entfernt."
+
+msgid ""
+"This file exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"Die Datei existiert bereits.\n"
+"Wollen Sie sie überschreiben?"
+
+msgid "This file format does not support %s"
+msgstr "Dieses Dateiformat unterstützt %s nicht"
+
+msgid "This file no longer exists"
+msgstr "Diese Datei ist nicht mehr vorhanden"
+
+msgid "This is the default drill hole size range"
+msgstr "Dies ist der Standardbohrlochbereich"
+
+msgid "This layer does not exist"
+msgstr "Diese Lage existiert nicht"
+
+msgid "This name is already in use"
+msgstr "Dieser Name ist bereits in Benutzung"
+
+msgid ""
+"This name is already in use.\n"
+"Please use a different name"
+msgstr ""
+"Dieser Name ist bereits in Benutzung.\\n\n"
+"Bitte anderen Namen wählen"
+
+msgid ""
+"This operation is set to automatically optimise paths.\n"
+"Changing the order will disable optimisation.\n"
+"Do you want to continue?"
+msgstr ""
+"Diese Operation ist auf automatische Pfadoptimierung eingestellt.\n"
+"Eine Veränderung der Reihenfolge wird die Optimierung abschalten.\n"
+"Wollen Sie forfahren?"
+
+msgid "This plugin failed to load: "
+msgstr "Diese Erweiterung konnte nicht geladen werden: "
+
+msgid ""
+"This plugin has thrown an error:\n"
+"%s\n"
+"Do you want to edit the macro?"
+msgstr ""
+"Diese Erweiterung hat einen Fehler gemeldet:\n"
+"%s\n"
+"Wollen Sie das Makro bearbeiten?"
+
+msgid ""
+"This post has thrown an error:\n"
+"%s\n"
+"Do you want to edit the post?"
+msgstr ""
+"Der Post hat einen Fehler gemeldet:\n"
+"%s\n"
+"Wollen Sie den Post bearbeiten?"
+
+msgid ""
+"This post must be converted to the new format.\n"
+" The conversion is automatic but you should check the code carefully"
+msgstr ""
+"Dieser Post muss in das neue Format konvertiert werden.\n"
+"Diese Konvertierung erfolgt automatisch, aber Sie sollten den Code "
+"sorgfältig prüfen."
+
+msgid "This product is unregistered"
+msgstr "Dieses Produkt ist nicht registriert"
+
+msgid "This set has no active rules"
+msgstr "Dieser Satz hat keine aktiven Regeln"
+
+msgid "This tool does not exist"
+msgstr "Dieses Werkzeug existiert nicht"
+
+msgid ""
+"This tool number is already in use.\n"
+"Please select a different number"
+msgstr ""
+"Diese Werkzeugnummer ist bereits in Benutzung.\n"
+"Bitte wählen Sie eine freie Nummer"
+
+msgid ""
+"This tool number is is already in use.\n"
+"Please select a different number. "
+msgstr ""
+"Diese Werkzeugnummer ist bereits vergeben.\n"
+"Wählen Sie bitte eine andere Nummer. "
+
+msgid ""
+"This will delete your current tools and operations.\n"
+"Do you want to continue?"
+msgstr ""
+"Dies wird Ihre bestehenden Werkzeuge und Operationen löschen.\n"
+"Wollen Sie fortfahren?"
+
+msgid ""
+"This will erase your existing job.\n"
+"Do you want to continue?"
+msgstr ""
+"Dies wir ihren aktuellen Job löschen.\n"
+"Wollen Sie fortfahren?"
+
+msgid "Thread depth"
+msgstr "Gewindetiefe"
+
+msgid "Thread diameter"
+msgstr "Gewindedurchmesser"
+
+msgid "Thread mill"
+msgstr "Gewindefräsen"
+
+msgid "Thread pitch"
+msgstr "Gewindesteigung"
+
+msgid "Threading"
+msgstr "Gewinde"
+
+msgid "Tighter than"
+msgstr "Dichter als"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "Tip diameter"
+msgstr "Schneidendurchmesser"
+
+msgid "Tool"
+msgstr "Werkzeug"
+
+msgid "Tool %i does not exist"
+msgstr "Werkzeug %i existiert nicht"
+
+msgid "Tool bar"
+msgstr "Werkzeugleiste"
+
+msgid "Tool change"
+msgstr "Werkzeugwechsel"
+
+msgid "Tool change position"
+msgstr "Werkzeugwechselposition"
+
+msgid "Tool change time"
+msgstr "Werkzeugwechselzeit"
+
+msgid "Tool length offset"
+msgstr "Werkzeuglängenkorrektur"
+
+msgid "Tool not found"
+msgstr "Werkzeug nicht gefunden"
+
+msgid "Tool number"
+msgstr "Werkzeugnummer"
+
+msgid "Tool table"
+msgstr "Werkzeugtabelle"
+
+msgid "Toolbars"
+msgstr "Werkzeugleisten"
+
+msgid "Tools"
+msgstr "Werkzeug"
+
+msgid "Top of spoil board"
+msgstr "Oberkante Unterlage"
+
+msgid "Top of table"
+msgstr "Oberkante Tisch"
+
+msgid "Top of work"
+msgstr "Oberseite Werkstück"
+
+msgid "Torch configuration"
+msgstr "Brennerkonfiguration"
+
+msgid "Torch on"
+msgstr "Brenner an"
+
+msgid "Trailing zeros"
+msgstr "Angehängte Nullen"
+
+msgid "Triangle"
+msgstr "Dreieck"
+
+msgid "Tutorials"
+msgstr "Tutorials"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Unable to execute command"
+msgstr "Kann Kommando nicht ausführen"
+
+msgid "Unable to find code snippet"
+msgstr "Kann Codeschnipsel nicht finden"
+
+msgid "Unable to find post %s"
+msgstr "Kann Post %s nicht finden"
+
+msgid "Unable to open file"
+msgstr "Kann Datei nicht öffnen"
+
+msgid ""
+"Unable to open file\n"
+"Is it opened by another application?"
+msgstr ""
+"Kann Datei nicht öffnen\n"
+"Ist sie von einem anderen Programm geöffnet?"
+
+msgid "Unable to open output file "
+msgstr "Konnte Ausgabedatei nicht öffnen "
+
+msgid "Unable to open port"
+msgstr "Kann Schnittstelle nicht öffnen"
+
+msgid ""
+"Unable to read from the file.\n"
+"The data is corrupt"
+msgstr ""
+"Kann Datei nicht lesen.\n"
+"Die Daten sind beschädigt"
+
+msgid ""
+"Unable to write file.\n"
+"Is it write protected?"
+msgstr ""
+"Datei kann nicht geschrieben werden..\n"
+"Ist sie schreibgeschützt?"
+
+msgid "Undefined layer"
+msgstr "Undefinierte Lage"
+
+msgid "Underfeed"
+msgstr "Vorschubreduzierung"
+
+msgid "Undo"
+msgstr "Rückgängig"
+
+msgid "Undo the last action"
+msgstr "Letzte Aktion rückgängig machen"
+
+msgid "Units"
+msgstr "Einheiten"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Unlock"
+msgstr "Entriegeln"
+
+msgid "Unlock all"
+msgstr "Alle freigeben"
+
+msgid "Unlock part and duplicates"
+msgstr "Freigabe von Teilen und Duplikaten"
+
+msgid "Unselect all"
+msgstr "Alles abwählen"
+
+msgid "Untitled"
+msgstr "Namenlos"
+
+msgid "Unusable: The part must contain only one closed outline"
+msgstr "Unbenutzbar: Das Teil darf nur eine geschlossene Außenkontur haben"
+
+msgid "Unused"
+msgstr "Unbenutzt"
+
+msgid "Update operations"
+msgstr "Aktualisiere Operationen"
+
+msgid "Update operations when loading a tool set"
+msgstr "Operationen aktualisieren, wenn ein Werkzeugsatz geladen wird"
+
+msgid "Use X"
+msgstr "Benutze X"
+
+msgid "Use X position"
+msgstr "Benutze X-Position"
+
+msgid "Use Y"
+msgstr "Benutze Y"
+
+msgid "Use Y position"
+msgstr "Benutze Y-Position"
+
+msgid "Use Z"
+msgstr "Benutze Z"
+
+msgid "Use Z position"
+msgstr "Verwende Z-Position"
+
+msgid "Use black scheme"
+msgstr "Schwarzes Schema benutzen"
+
+msgid "Use bottom left coordinates"
+msgstr "Unten links Koordinaten benutzen"
+
+msgid "Use code snippet"
+msgstr "Benutze Codeschnipsel"
+
+msgid "Use colours as layer names"
+msgstr "Benutze Farben als Lagenname"
+
+msgid "Use drawing"
+msgstr "Benutze Zeichnung"
+
+msgid "Use drawing name as part name"
+msgstr "Benutze Zeichnungsnamen als Teilenamen"
+
+msgid "Use fast rubberband graphics"
+msgstr "Schnelle Gummibandgrafik benutzen"
+
+msgid "Use feed"
+msgstr "Benutze Vorschub"
+
+msgid "Use feed rate"
+msgstr "Benutze Vorschub"
+
+msgid "Use layer"
+msgstr "Benutze Lage"
+
+msgid "Use only the default tool set (some operations may not work)"
+msgstr ""
+"Nur den Standardwerkzeugsatz verwenden (einige Funktionen funktionieren "
+"evtl. nicht)"
+
+msgid "Use only the job file's tool set"
+msgstr "Nur den Job Werkzeugsatz verwenden"
+
+msgid "Use operation leadin/leadout"
+msgstr "Benutze die Anfahren/Wegfahren-Funktion"
+
+msgid "Use points for drilling"
+msgstr "Benutze Punkte für das Bohren"
+
+msgid "Use the last drawing directory"
+msgstr "Benutze dem letzten Zeichnungsordner"
+
+msgid "Use the same folder as the job file"
+msgstr "Benutze gleichen Ordner wie für die Job-Datei"
+
+msgid "Use white scheme"
+msgstr "Weißes Schema benutzen"
+
+msgid "V"
+msgstr "V"
+
+msgid "V angle"
+msgstr "V-Winkel"
+
+msgid "V carve"
+msgstr "V-Gravur"
+
+msgid "V cutter"
+msgstr "V-Fräser"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Variable"
+msgstr "Variable"
+
+msgid "Variable monitor"
+msgstr "Variablenmonitor"
+
+msgid "Variable name"
+msgstr "Variablenname"
+
+msgid "Variables"
+msgstr "Variablen"
+
+msgid "Vertical line"
+msgstr "Vertikale Linie"
+
+msgid "View"
+msgstr "Ansicht"
+
+msgid "View file"
+msgstr "Datei anzeigen"
+
+msgid "View toolpaths"
+msgstr "Werkzeugpfade anzeigen"
+
+msgid "WARNING: Cutter will hit the table! Cut depth has been reduced to "
+msgstr "WARNUNG: Fräser wird den Tisch berühren. Schnitttiefe reduziert auf "
+
+msgid "WARNING: part %s has no active operations"
+msgstr "WARNUNG: Teil %s hat keine aktiven Operationen"
+
+msgid "Wait for command to finish"
+msgstr "Warte auf die Fertigstellung des Kommandos"
+
+msgid "Waiting"
+msgstr "wartend"
+
+msgid "Waiting for MyNesting"
+msgstr "Warte auf MyNesting"
+
+msgid "Waiting for NestFab"
+msgstr "Warte auf NestFab"
+
+msgid "Wall thickness"
+msgstr "Wandstärke"
+
+msgid "Warning: "
+msgstr "Warnung: "
+
+msgid "Waterjet"
+msgstr "Wasserstrahl"
+
+msgid ""
+"We are very sorry but %s has encountered an internal error. It would be very "
+"helpful if you could send a debug report so we can try to find out what went "
+"wrong"
+msgstr ""
+"Es tut und leid, aber %s hat einen internen Fehler erzeugt. Es wäre "
+"hilfreich wenn Sie uns einen Debugreport schicken könnten, damit wir die "
+"Ursache ergründen können"
+
+msgid "Web thickness"
+msgstr "Rippendicke"
+
+msgid "Welcome to..."
+msgstr "Willkommen zu..."
+
+msgid "Wiggle"
+msgstr "Schlängeln"
+
+msgid "Wiggle length"
+msgstr "Schlängellänge"
+
+msgid "Wiggle size"
+msgstr "Schlängelgröße"
+
+msgid "Wire"
+msgstr "Draht"
+
+msgid "Wire cut"
+msgstr "Drahtschnitt"
+
+msgid "Wire cutter"
+msgstr "Drahtschnittwerkzeug"
+
+msgid "Wire cutting"
+msgstr "Drahtschneiden"
+
+msgid "Work"
+msgstr "Werkstück"
+
+msgid "Work type"
+msgstr "Anwendungstyp"
+
+msgid "Working envelope"
+msgstr "Arbeitsbereich"
+
+msgid "X"
+msgstr "X"
+
+msgid "X coordinate of bottom left corner"
+msgstr "X-Koordinate der unteren linke Ecke"
+
+msgid "X position"
+msgstr "X-Position"
+
+msgid "X size"
+msgstr "X-Größe"
+
+msgid "X%s Y%s"
+msgstr "X%s Y%s"
+
+msgid "X,Y to %.3f, %.3f\n"
+msgstr "X,Y nach %.3f, %.3f\n"
+
+msgid "X1"
+msgstr "X1"
+
+msgid "X2"
+msgstr "X2"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Y coordinate of bottom left corner"
+msgstr "Y-Koordinate der unteren linke Ecke"
+
+msgid "Y position"
+msgstr "Y-Position"
+
+msgid "Y size"
+msgstr "Y-Größe"
+
+msgid "Y1"
+msgstr "Y1"
+
+msgid "Y2"
+msgstr "Y2"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You cannot add two identical buttons"
+msgstr "Sie können nicht 2 identische Knöpfe hinzufügen"
+
+msgid ""
+"You cannot delete this operation as it belongs to:\n"
+"%s"
+msgstr ""
+"Sie können diese Operation nicht löschen weil sie zu:\n"
+"%s gehört"
+
+msgid ""
+"You cannot place outlines on a duplicated part.\n"
+"Do you want to use the original part?"
+msgstr ""
+"Sie können keine Konturen auf duplizierten Teilen platzieren.\n"
+"Wollen Sie das Originalteil benutzen?"
+
+msgid ""
+"You have modified the code in the editor.\n"
+"\n"
+"Are you sure you want to run the post processor\n"
+"and overwrite the changes?"
+msgstr ""
+"Sie haben den Code im Editor modifiziert.\n"
+"\n"
+"Wollen Sie den Postprozessor wirklich ausführen?\n"
+"und die Änderugen überschreiben?"
+
+msgid ""
+"You have opened a file of type '%s' with the '%s' input filter. Are you sure "
+"you meant to do this?\n"
+"Select 'No' to open the file with the %s filter."
+msgstr ""
+"Sie habe eine Datei des Typs'%s' mit dem'%s' Eingabefilter geöffnet. Sind "
+"sie sich sicher das sie das wollten?\n"
+"Wähle 'Nein' und die Datei mit diesem Fileter%s zu öffnen."
+
+msgid ""
+"You have tried to load a multipart job.\n"
+"Only part 1 will be loaded."
+msgstr ""
+"Sie haben versucht einen Mehrfach Job zu laden.\n"
+"Nur Teil 1 wird geladen werden."
+
+msgid "You must have at least one tool in the toolbar"
+msgstr "Es muss mindestens ein Werkzeug in der Werkzeugleiste sein"
+
+msgid ""
+"You must restart the program\n"
+"for this change to take effect"
+msgstr ""
+"Sie müssen das Programm neustarten\n"
+"um die Änderungen wirksam zu machen"
+
+msgid "You need to restart for the changes to take effect"
+msgstr "Neustart erforderlich um Änderungen umzusetzen"
+
+msgid "You need to select a template"
+msgstr "Sie müssen eine Vorlage auswählen"
+
+msgid "You need to select at least one machine type"
+msgstr "Sie müssen mindestens einen Maschinentyp auswählen"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Z Move"
+msgstr "Z-Bewegung"
+
+msgid "Z position"
+msgstr "Z-Position"
+
+msgid "Z to %.3f\n"
+msgstr "Z nach %.3f\n"
+
+msgid "Z zero"
+msgstr "Z-Nullpunkt"
+
+msgid "Zigzag pocket"
+msgstr "Zickzack Tasche"
+
+msgid "Zoom"
+msgstr "Zoome"
+
+msgid "Zoom in"
+msgstr "Zoome hinein"
+
+msgid "Zoom out"
+msgstr "Zoome heraus"
+
+msgid "Zoom to fit job"
+msgstr "Zoome auf Jobgröße"
+
+msgid "Zoom to fit machine"
+msgstr "Zoome auf Maschinengröße"
+
+msgid "Zoom to fit material"
+msgstr "Zoome auf Materialgröße"
+
+msgid "Zoom to fit part"
+msgstr "Zoome auf Teilegröße"
+
+msgid "Zoom window"
+msgstr "Zoome Fenster"
+
+msgid "[EMPTY]"
+msgstr "[LEER]"
+
+msgid "and "
+msgstr "und "
+
+msgid "and 1 cut of "
+msgstr "und 1 Durchgang von "
+
+msgid "at"
+msgstr "mit"
+
+msgid "calculator"
+msgstr "Rechner"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "deg"
+msgstr "deg"
+
+msgid "degrees"
+msgstr "Grad"
+
+msgid "diameter"
+msgstr "Durchmesser"
+
+msgid "do nothing"
+msgstr "untätig"
+
+msgid "feed"
+msgstr "Vorschub"
+
+msgid "feet"
+msgstr "fuss"
+
+msgid "foot"
+msgstr "foot"
+
+msgid "function %s line %d"
+msgstr "function %s line %d"
+
+msgid "h"
+msgstr "h"
+
+msgid "in"
+msgstr "in"
+
+msgid "inch"
+msgstr "inch"
+
+msgid "inch/min"
+msgstr "inch/min"
+
+msgid "inch/sec"
+msgstr "inch/sec"
+
+msgid "inches/min"
+msgstr "inches/min"
+
+msgid "ipm"
+msgstr "ipm"
+
+msgid "ips"
+msgstr "ips"
+
+msgid "kerf"
+msgstr "Schnittbreite"
+
+msgid "line %d"
+msgstr "line %d"
+
+msgid "m"
+msgstr "m"
+
+msgid "m/min"
+msgstr "m/min"
+
+msgid "m/sec"
+msgstr "m/sec"
+
+msgid "mil"
+msgstr "mil"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "mm/min"
+msgstr "mm/min"
+
+msgid "mm/sec"
+msgstr "mm/sec"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "of %i"
+msgstr "von %i"
+
+msgid "offset"
+msgstr "versetze"
+
+msgid "optimisation"
+msgstr "Optimierung"
+
+msgid "output %s"
+msgstr "Ausgabe %s"
+
+msgid "rad"
+msgstr "rad"
+
+msgid "radians"
+msgstr "radians"
+
+msgid "relative"
+msgstr "relativ"
+
+msgid "rpm"
+msgstr "U/min"
+
+msgid "rps"
+msgstr "U/s"
+
+msgid "s"
+msgstr "s"
+
+msgid "set %s to %s"
+msgstr "setze %s auf %s"
+
+msgid "set feed to 100%"
+msgstr "setze auf 100%"
+
+msgid "starting at "
+msgstr "starte bei "
+
+msgid "temporary"
+msgstr "temporär"
+
+msgid "then output %s"
+msgstr "dann gebe %s aus"
+
+msgid "thou"
+msgstr "dennoch"
+
+msgid "to"
+msgstr "bis"
+
+msgid ""
+"wxLua calculator sample based on the calc sample written by Marco "
+"Ghislanzoni.\n"
+"\n"
+msgstr ""
+"wxLua Beispielrechner basierend auf einen Rechnerbeispiel geschrieben von  "
+"Marco Ghislanzoni.\n"
+"\n"
+
+msgid "{Code snippet not found}"
+msgstr "{Codeschnipsel nicht gefunden}"
+
+msgid "{Layer %s  not found}"
+msgstr "{Lage %s nicht gefunden}"
+
+msgid "{No code}"
+msgstr "{Kein Code}"
+
+msgid "{No moves defined}"
+msgstr "{Keine Bewegungen definiert}"
+
+msgid "{No variable set}"
+msgstr "{Keine Variable gesetzt}"
+
+msgid "{Tool %i not found}"
+msgstr "{Werkzeug %i nicht gefunden}"
+
+msgid "{Unable to display}"
+msgstr "{Anzeige nicht möglich}"

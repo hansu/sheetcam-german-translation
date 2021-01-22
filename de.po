@@ -1,0 +1,3505 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wxWidgets-2.5.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-24 09:56+0200\n"
+"PO-Revision-Date: 2021-01-22 15:37+0100\n"
+"Last-Translator: Christian Buck <chbuck@gmail.com>\n"
+"Language-Team: wxWidgets Team <wx-dev@wxwidgets.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "\t%s: %s\n"
+msgstr "\t%s: %s\n"
+
+msgid ""
+"\n"
+"Please send this report to the program maintainer, thank you!\n"
+msgstr ""
+"\n"
+"Bitte senden Sie diesen Bericht an den Programmautor. Vielen Dank!\n"
+
+msgid " "
+msgstr " "
+
+msgid "              Thank you and we're sorry for the inconvenience!\n"
+msgstr ""
+"              Vielen Dank, und wir entschuldigen uns für die "
+"Unannehmlichkeiten.\n"
+
+msgid " (error %ld: %s)"
+msgstr " (Fehler %ld: %s)"
+
+msgid " - "
+msgstr " - "
+
+msgid " Preview"
+msgstr " Vorschau"
+
+msgid "#10 Envelope, 4 1/8 x 9 1/2 in"
+msgstr "#10 Umschlag, 4 1/8 x 9 1/2 Zoll"
+
+msgid "#11 Envelope, 4 1/2 x 10 3/8 in"
+msgstr "#11 Umschlag, 4 1/2 x 10 3/8 Zoll"
+
+msgid "#12 Envelope, 4 3/4 x 11 in"
+msgstr "#12 Umschlag, 4 3/4 x 11 Zoll"
+
+msgid "#14 Envelope, 5 x 11 1/2 in"
+msgstr "#14 Umschlag, 5 x 11 1/2 Zoll"
+
+msgid "#9 Envelope, 3 7/8 x 8 7/8 in"
+msgstr "#9 Umschlag, 3 7/8 x 8 7/8 Zoll"
+
+msgid "#define %s must be an integer."
+msgstr "#define %s muss ein Integer sein"
+
+msgid "%i of %i"
+msgstr "%i von %i"
+
+msgid "%s (or %s)"
+msgstr " %s (oder %s)"
+
+msgid "%s Error"
+msgstr "%s Fehler"
+
+msgid "%s Information"
+msgstr "%s Information"
+
+msgid "%s Warning"
+msgstr "%s Warnung"
+
+msgid "%s files (%s)|%s"
+msgstr "%s Dateien (%s)|%s"
+
+msgid "%s message"
+msgstr "%s Nachricht"
+
+msgid "%s not a bitmap resource specification."
+msgstr "%s gibt keine Quelle für eine Bitmap-Graphik an."
+
+msgid "%s not an icon resource specification."
+msgstr "%s gibt keine Quelle für eine Icon-Graphik an."
+
+msgid "%s: ill-formed resource file syntax."
+msgstr "%s: inkorrekte Syntax der Ressourcendatei."
+
+msgid "&About..."
+msgstr "Übe&r..."
+
+msgid "&Actual Size"
+msgstr "&Aktuelle Größe"
+
+msgid "&Apply"
+msgstr "Übernehmen"
+
+msgid "&Arrange Icons"
+msgstr "Icons anordnen"
+
+msgid "&Back"
+msgstr "&Zurück"
+
+msgid "&Bold"
+msgstr "&Fett"
+
+msgid "&Cancel"
+msgstr "Ab&bruch"
+
+msgid "&Cascade"
+msgstr "Kaskadieren"
+
+msgid "&Clear"
+msgstr "&Löschen"
+
+msgid "&Close"
+msgstr "&Schließen"
+
+msgid "&Copy"
+msgstr "&Kopieren"
+
+msgid "&Debug report preview:"
+msgstr "Vorschau des Fehlerberichts:"
+
+msgid "&Delete"
+msgstr "Löschen"
+
+msgid "&Details"
+msgstr "&Einzelheiten"
+
+msgid "&Down"
+msgstr "&Runter"
+
+msgid "&File"
+msgstr "&Datei"
+
+msgid "&Find"
+msgstr "&Suchen"
+
+msgid "&Finish"
+msgstr "&Fertigstellen"
+
+msgid "&Font family:"
+msgstr "&Schriftart:"
+
+msgid "&Forward"
+msgstr "&Vorwärts"
+
+msgid "&Goto..."
+msgstr "Gehe zu ..."
+
+msgid "&Help"
+msgstr "&Hilfe"
+
+msgid "&Home"
+msgstr "&Start"
+
+msgid "&Index"
+msgstr "&Index"
+
+msgid "&Italic"
+msgstr "&Kursiv"
+
+msgid "&Log"
+msgstr "&Log"
+
+msgid "&Move"
+msgstr "&Bewegen"
+
+msgid "&New"
+msgstr "&Neu"
+
+msgid "&Next"
+msgstr "&Weiter"
+
+msgid "&Next >"
+msgstr "&Weiter >"
+
+msgid "&Next Tip"
+msgstr "&Nächster Tip"
+
+msgid "&No"
+msgstr "&Nein"
+
+msgid "&Notes:"
+msgstr "Bemerkungen:"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "&Open"
+msgstr "&Öffnen"
+
+msgid "&Open..."
+msgstr "&Öffnen..."
+
+msgid "&Paste"
+msgstr "Einfügen"
+
+msgid "&Point size:"
+msgstr "Schriftgröße in &Punkt:"
+
+msgid "&Preferences"
+msgstr "&Einstellungen"
+
+msgid "&Previous"
+msgstr "Zurück"
+
+msgid "&Print"
+msgstr "&Drucken"
+
+msgid "&Print..."
+msgstr "Drucken..."
+
+msgid "&Properties"
+msgstr "&Eigenschaften"
+
+msgid "&Quit"
+msgstr "&Beenden"
+
+msgid "&Redo"
+msgstr "&Wiederholen"
+
+msgid "&Redo "
+msgstr "&Wiederholen "
+
+msgid "&Replace"
+msgstr "&Ersetzen"
+
+msgid "&Restore"
+msgstr "&Wiederherstellen"
+
+msgid "&Save"
+msgstr "&Sichern"
+
+msgid "&Save..."
+msgstr "&Sichern..."
+
+msgid "&Show tips at startup"
+msgstr "&Tipps beim Programmstart zeigen"
+
+msgid "&Size"
+msgstr "&Größe"
+
+msgid "&Stop"
+msgstr "&Stop"
+
+msgid "&Style:"
+msgstr "&Stil:"
+
+msgid "&Underline"
+msgstr "&Unterstrichen"
+
+msgid "&Undo"
+msgstr "&Rückgängig"
+
+msgid "&Undo "
+msgstr "&Rückgängig "
+
+msgid "&Unindent"
+msgstr "&Einrücken"
+
+msgid "&Up"
+msgstr "&Hoch"
+
+msgid "&Weight:"
+msgstr "&Dicke:"
+
+msgid "&Window"
+msgstr "&Fenster"
+
+msgid "&Yes"
+msgstr "&Ja"
+
+msgid "'%s' has extra '..', ignored."
+msgstr "'%s' hat extra '..', ignoriert."
+
+msgid "'%s' is invalid"
+msgstr "'%s' ist ungültig"
+
+msgid "'%s' is not a correct numeric value for option '%s'."
+msgstr "'%s' ist kein gültiger numerischer Wert für Option '%s'."
+
+msgid "'%s' is not a valid message catalog."
+msgstr "'%s' ist kein gültiger Nachrichtenkatalog."
+
+msgid "'%s' is probably a binary buffer."
+msgstr "'%s' ist vermutlich ein Binärpuffer."
+
+msgid "'%s' should be numeric."
+msgstr "'%s' sollte numerisch sein."
+
+msgid "'%s' should only contain ASCII characters."
+msgstr "'%s' sollte ausschließlich ASCII Zeichen enthalten."
+
+msgid "'%s' should only contain alphabetic characters."
+msgstr "'%s' sollte nur alphabetische Zeichen enthalten."
+
+msgid "'%s' should only contain alphabetic or numeric characters."
+msgstr "'%s' sollte nur alphanumerische Zeichen enthalten."
+
+msgid "(Help)"
+msgstr "(Hilfe)"
+
+msgid "(bookmarks)"
+msgstr "(Lesezeichen)"
+
+msgid ""
+", expected static, #include or #define\n"
+"while parsing resource."
+msgstr ""
+", Erwartete static, #include or #define\n"
+"beim Parsen der Ressource."
+
+msgid "10 x 11 in"
+msgstr "10 x 11 Zoll"
+
+msgid "10 x 14 in"
+msgstr "10 x 14 Zoll"
+
+msgid "11 x 17 in"
+msgstr "11 x 17 Zoll"
+
+msgid "12 x 11 in"
+msgstr "12 x 11 Zoll"
+
+msgid "15 x 11 in"
+msgstr "15 x 11 Zoll"
+
+msgid "6 3/4 Envelope, 3 5/8 x 6 1/2 in"
+msgstr "6 3/4 Umschlag, 3 5/8 x 6 1/2 Zoll"
+
+msgid "9 x 11 in"
+msgstr "9 x 11 Zoll"
+
+msgid ": file does not exist!"
+msgstr ": Datei existiert nicht!"
+
+msgid ": unknown charset"
+msgstr ": unbekannter Zeichensatz"
+
+msgid ": unknown encoding"
+msgstr ": unbekannte Kodierung"
+
+msgid "< &Back"
+msgstr "< &Zurück"
+
+msgid "<<"
+msgstr "<<"
+
+msgid "<DIR>"
+msgstr "<VERZEICHNIS>"
+
+msgid "<DRIVE>"
+msgstr "<LAUFWERK>"
+
+msgid "<LINK>"
+msgstr "<LINK>"
+
+msgid "<b><i>Bold italic face.</i></b><br>"
+msgstr "<b><i>Fette kursive Schrift</i></b><br>"
+
+msgid "<b><i>bold italic <u>underlined</u></i></b><br>"
+msgstr "<b><i>fett kursiv <u>unterstrichen</u></i></b><br>"
+
+msgid "<b>Bold face.</b> "
+msgstr "<b>Fette Schrift.</b> "
+
+msgid "<i>Italic face.</i> "
+msgstr "<i>Kursive Schrift.</i> "
+
+msgid ">>"
+msgstr ">>"
+
+msgid ">>|"
+msgstr ">>|"
+
+msgid "A debug report has been generated in the directory\n"
+msgstr "Ein Fehlerbericht wurde erstellt im Verzeichnis\n"
+
+msgid "A non empty collection must consist of 'element' nodes"
+msgstr "Eine nicht leere Sammlung muss aus 'element'-Knoten bestehen"
+
+msgid "A2 420 x 594 mm"
+msgstr "A2 420 x 594 mm"
+
+msgid "A3 Extra 322 x 445 mm"
+msgstr "A3 Extra 322 x 445 mm"
+
+msgid "A3 Extra Transverse 322 x 445 mm"
+msgstr "A3 Extra Quer 322 x 445 mm"
+
+msgid "A3 Rotated 420 x 297 mm"
+msgstr "A3 Rotiert 420 x 297 mm"
+
+msgid "A3 Transverse 297 x 420 mm"
+msgstr "A3 Quer 297 x 420 mm"
+
+msgid "A3 sheet, 297 x 420 mm"
+msgstr "A3 Blatt, 297 x 420 mm"
+
+msgid "A4 Extra 9.27 x 12.69 in"
+msgstr "A4 Extra 9.27 x 12.69 Zoll"
+
+msgid "A4 Plus 210 x 330 mm"
+msgstr "A4 Plus 210 x 330 mm"
+
+msgid "A4 Rotated 297 x 210 mm"
+msgstr "A4 Rotiert 297 x 210 mm"
+
+msgid "A4 Transverse 210 x 297 mm"
+msgstr "A4 Quer 210 x 297 mm"
+
+msgid "A4 sheet, 210 x 297 mm"
+msgstr "A4 Blatt, 210 x 297 mm"
+
+msgid "A4 small sheet, 210 x 297 mm"
+msgstr "A4 klein Blatt, 210 x 297 mm"
+
+msgid "A5 Extra 174 x 235 mm"
+msgstr "A5 Extra 174 x 235 mm"
+
+msgid "A5 Rotated 210 x 148 mm"
+msgstr "A5 Rotiert 210 x 148 mm"
+
+msgid "A5 Transverse 148 x 210 mm"
+msgstr "A5 Quer 148 x 210 mm"
+
+msgid "A5 sheet, 148 x 210 mm"
+msgstr "A4 Blatt, 148 x 210 mm"
+
+msgid "A6 105 x 148 mm"
+msgstr "A6 105 x 148 mm"
+
+msgid "A6 Rotated 148 x 105 mm"
+msgstr "A6 Rotiert 148 x 105 mm"
+
+msgid "ABCDEFGabcdefg12345"
+msgstr "ABCDEFGabcdefg12345ÄÖÜäöüß"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Add current page to bookmarks"
+msgstr "Aktuelle HTLM-Seite den Lesezeichen hinzufügen"
+
+msgid "Add to custom colours"
+msgstr "Zu Benutzerfarben hinzufügen"
+
+msgid "AddToPropertyCollection called on a generic accessor"
+msgstr "AddToPropertyCollection aufgerufen für einen allgemeinen accessor"
+
+msgid "AddToPropertyCollection called w/o valid adder"
+msgstr "AddToPropertyCollection aufgerufen ohne gültigen adder"
+
+msgid "Adding book %s"
+msgstr "Buch %s wird hinzugefügt"
+
+msgid "Align Left"
+msgstr "Linksbündig"
+
+msgid "Align Right"
+msgstr "Rechtsbündig"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All files (%s)|%s"
+msgstr "Alle Dateien (%s)|%s"
+
+msgid "All files (*)|*"
+msgstr "Alle Dateien (*)|*"
+
+msgid "All files (*.*)|*"
+msgstr "Alle Dateien (*.\")|*"
+
+msgid "All files (*.*)|*.*"
+msgstr "Alle Dateien (*.\")|*.\""
+
+msgid "Already Registered Object passed to SetObjectClassInfo"
+msgstr "Ein bereits registriertes Objekt wurde an SetObjectClassInfo übergeben"
+
+msgid "Already dialling ISP."
+msgstr "Wähle bereits ISP."
+
+msgid "Append log to file '%s' (choosing [No] will overwrite it)?"
+msgstr "An Logdatei '%s' anhängen ([Nein] wird sie ersetzen)?"
+
+msgid "Arabic (ISO-8859-6)"
+msgstr "Arabisch (ISO-8859-6)"
+
+msgid "Archive doesnt contain #SYSTEM file"
+msgstr "Archiv enthält keine #SYSTEM datei"
+
+msgid "Attributes"
+msgstr "Eigenschaften"
+
+msgid "B4 (ISO) 250 x 353 mm"
+msgstr "B4 (ISO) 250 x 353 mm"
+
+msgid "B4 (JIS) Rotated 364 x 257 mm"
+msgstr "B4 (JIS) Rotiert 364 x 257 mm"
+
+msgid "B4 Envelope, 250 x 353 mm"
+msgstr "B4 Umschlag, 250 x 353 mm"
+
+msgid "B4 sheet, 250 x 354 mm"
+msgstr "B4 Blatt, 250 x 354 mm"
+
+msgid "B5 (ISO) Extra 201 x 276 mm"
+msgstr "B5 (ISO) Extra 201 x 276 mm"
+
+msgid "B5 (JIS) Rotated 257 x 182 mm"
+msgstr "B5 (JIS) Rotiert 257 x 182 mm"
+
+msgid "B5 (JIS) Transverse 182 x 257 mm"
+msgstr "B5 (JIS) Quer 182 x 257 mm"
+
+msgid "B5 Envelope, 176 x 250 mm"
+msgstr "B5 Umschlag, 176 x 250 mm"
+
+msgid "B5 sheet, 182 x 257 millimeter"
+msgstr "B5 Blatt, 182 x 257 mm"
+
+msgid "B6 (JIS) 128 x 182 mm"
+msgstr "B6 (JIS) 128 x 182 mm"
+
+msgid "B6 (JIS) Rotated 182 x 128 mm"
+msgstr "B6 (JIS) Rotiert 182 x 128 mm"
+
+msgid "B6 Envelope, 176 x 125 mm"
+msgstr "B6 Umschlag, 176 x 125 mm"
+
+msgid "BMP: Couldn't allocate memory."
+msgstr "BMP: Speicheranforderung gescheitert."
+
+msgid "BMP: Couldn't save invalid image."
+msgstr "BMP: Konnte ungültiges Bild nicht speichern."
+
+msgid "BMP: Couldn't write RGB color map."
+msgstr "BMP: Konnte RGB Farbtabelle nicht speichern."
+
+msgid "BMP: Couldn't write data."
+msgstr "BMP: Konnte Daten nicht speichern."
+
+msgid "BMP: Couldn't write the file (Bitmap) header."
+msgstr "BMP: Dateikopf (Bitmap) konnte nicht geschrieben werden."
+
+msgid "BMP: Couldn't write the file (BitmapInfo) header."
+msgstr "BMP: Dateikopf (BitmapInfo) konnte nicht geschrieben werden."
+
+msgid "BMP: wxImage doesn't have own wxPalette."
+msgstr "BMP: wxImage hat keine eigene wxPalette."
+
+msgid "Baltic (ISO-8859-13)"
+msgstr "Baltisch (ISO-8859-13)"
+
+msgid "Baltic (old) (ISO-8859-4)"
+msgstr "Baltisch (alt) (ISO-8859-4)"
+
+msgid "Bitmap resource specification %s not found."
+msgstr "Ressourcenspezifikation %s für Bitmap nicht gefunden."
+
+msgid "Bold"
+msgstr "Fett"
+
+msgid "Bottom margin (mm):"
+msgstr "Unterer Rand (mm)"
+
+msgid "C sheet, 17 x 22 in"
+msgstr "C Blatt, 17 x 22 Zoll"
+
+msgid "C&lear"
+msgstr "&Löschen"
+
+msgid "C&olour:"
+msgstr "&Farbe: "
+
+msgid "C3 Envelope, 324 x 458 mm"
+msgstr "C3 Umschlag, 324 x 458 mm"
+
+msgid "C4 Envelope, 229 x 324 mm"
+msgstr "C4 Umschlag, 229 x 324 mm"
+
+msgid "C5 Envelope, 162 x 229 mm"
+msgstr "C5 Umschlag, 162 x 229 mm"
+
+msgid "C6 Envelope, 114 x 162 mm"
+msgstr "C6 Umschlag, 114 x 162 mm"
+
+msgid "C65 Envelope, 114 x 229 mm"
+msgstr "C65 Umschlag, 114 x 229 mm"
+
+msgid "CHM handler currently supports only local files!"
+msgstr "CHM Handler unterstützt derzeit nur lokale Dateien!"
+
+msgid "Can not create mutex."
+msgstr "Kann Mutex nicht anlegen."
+
+msgid "Can not enumerate files '%s'"
+msgstr "Kann Dateien '%s' nicht auflisten"
+
+msgid "Can not enumerate files in directory '%s'"
+msgstr "Kann Dateien in Verzeichnis '%s' nicht auflisten"
+
+msgid "Can not resume thread %lu"
+msgstr "Kann Thread %lu nicht fortsetzen."
+
+msgid "Can not resume thread %x"
+msgstr "Kann Thread %x nicht fortsetzen."
+
+msgid "Can not start thread: error writing TLS."
+msgstr "Kann Thread nicht starten: Fehler beim  Beschreiben des TLS."
+
+msgid "Can not suspend thread %lu"
+msgstr "Kann Thread %lu nicht anhalten."
+
+msgid "Can not suspend thread %x"
+msgstr "Kann Thread %x nicht anhalten."
+
+msgid "Can not wait for thread termination"
+msgstr "Kann nicht auf Threadende warten"
+
+msgid "Can't &Undo "
+msgstr "Kann nicht rückgängig machen "
+
+msgid "Can't check image format of file '%s': file does not exist."
+msgstr "Kann Bildformat nicht überprüfen bei Datei '%s': Datei nicht vorhanden."
+
+msgid "Can't close registry key '%s'"
+msgstr "Kann Registrierungs-Schlüssel '%s' nicht schließen."
+
+msgid "Can't copy values of unsupported type %d."
+msgstr "Kann Inhalte des nicht unterstützten Typs %d nicht kopieren."
+
+msgid "Can't create registry key '%s'"
+msgstr "Kann Registrierungs-Schlüssel '%s' nicht anlegen."
+
+msgid "Can't create thread"
+msgstr "Kann Thread nicht erzeugen"
+
+msgid "Can't create window of class %s"
+msgstr "Kann kein Fenster der Klasse '%s anlegen."
+
+msgid "Can't delete key '%s'"
+msgstr "Kann Schlüssel '%s' nicht löschen"
+
+msgid "Can't delete the INI file '%s'"
+msgstr "Kann INI-Datei '%s' nicht löschen"
+
+msgid "Can't delete value '%s' from key '%s'"
+msgstr "Kann Wert '%s' von Schlüssel '%s' nicht löschen."
+
+msgid "Can't enumerate subkeys of key '%s'"
+msgstr "Kann Unter-Schlüssel von '%s' nicht auflisten"
+
+msgid "Can't enumerate values of key '%s'"
+msgstr "Kann Werte von Schlüssel '%s' nicht auflisten"
+
+msgid "Can't export value of unsupported type %d."
+msgstr "Kann Wert des nicht unterstützten Typs %d nicht kopieren."
+
+msgid "Can't find current position in file '%s'"
+msgstr "Kann aktuelle Position in Datei '%s' nicht finden."
+
+msgid "Can't get info about registry key '%s'"
+msgstr "Kann keine Information über den Registrierungs-Schlüssel '%s' finden"
+
+msgid "Can't initialize zlib deflate stream."
+msgstr "Can't initialize zlib deflate stream."
+
+msgid "Can't initialize zlib inflate stream."
+msgstr "Can't initialize zlib inflate stream."
+
+msgid "Can't load image from file '%s': file does not exist."
+msgstr "Kann Bild aus Datei '%s' nicht laden : Datei ist nicht vorhanden."
+
+msgid "Can't open registry key '%s'"
+msgstr "Kann Registrierungs-Schlüssel '%s' nicht öffnen"
+
+msgid "Can't read from inflate stream: %s"
+msgstr "Kann nicht vom entpackten Datenstrom lesen:%s"
+
+msgid "Can't read inflate stream: unexpected EOF in underlying stream."
+msgstr ""
+"Kann den Entkomprimier-Strom nicht lesen: Unerwartetes EOF im "
+"zugrundeliegenden Strom."
+
+msgid "Can't read value of '%s'"
+msgstr "Kann Wert von '%s' nicht lesen"
+
+msgid "Can't read value of key '%s'"
+msgstr "Kann Wert von Eintrag '%s' nicht lesen"
+
+msgid "Can't save image to file '%s': unknown extension."
+msgstr "Kann Bild nicht aus Datei '%s' laden: Unbekannte Dateiendung."
+
+msgid "Can't save log contents to file."
+msgstr "Kann Logtexte nicht in Datei sichern."
+
+msgid "Can't set thread priority"
+msgstr "Kann Thread-Priorität nicht setzen"
+
+msgid "Can't set value of '%s'"
+msgstr "Kann Wert von '%s' nicht setzen"
+
+msgid "Can't write to deflate stream: %s"
+msgstr "Kann nicht in den gepackten Datenstrom schreiben: %s"
+
+msgid "Cancel"
+msgstr "Abbruch"
+
+msgid "Cannot convert dialog units: dialog unknown."
+msgstr "Kann Dialog-Einheiten nicht konvertieren: Dialog unbekannt."
+
+msgid "Cannot convert from the charset '%s'!"
+msgstr "Kann nicht von Kodierung %s konvertieren!"
+
+msgid "Cannot find active dialup connection: %s"
+msgstr "Kann keine aktive DFÜ-Verbindung finden: %s"
+
+msgid "Cannot find container for unknown control '%s'."
+msgstr "Kann keinen Container für unbekanntes Control '%s' finden."
+
+msgid "Cannot find font node '%s'."
+msgstr "Kann keinen Font-Knoten '%s' finden."
+
+msgid "Cannot find the location of address book file"
+msgstr "Kann Adressbuchdatei nicht finden"
+
+msgid "Cannot get priority range for scheduling policy %d."
+msgstr "Kann Prioritäts 'range' für 'scheduling policy' %d nicht bekommen."
+
+msgid "Cannot get the hostname"
+msgstr "Bekomme den Hostnamen nicht"
+
+msgid "Cannot get the official hostname"
+msgstr "Kann den offiziellen Hostnamen nicht bekommen"
+
+msgid "Cannot hang up - no active dialup connection."
+msgstr "Kann nicht auflegen - keine aktive DFÜ-Verbindung vorhanden."
+
+msgid "Cannot initialize OLE"
+msgstr "Kann OLE nicht initialisieren"
+
+msgid "Cannot initialize SciTech MGL!"
+msgstr "Kann SciTech MGL nicht initialisieren !"
+
+msgid "Cannot initialize display."
+msgstr "Kann das Display nicht initialisieren."
+
+msgid "Cannot load icon from '%s'."
+msgstr "Kann das Icon nicht von \"%s\" laden."
+
+msgid "Cannot load resources from file '%s'."
+msgstr "Kann die Resourcen nicht aus der Datei '%s'  laden."
+
+msgid "Cannot open HTML document: %s"
+msgstr "HTML-Dokument %s kann nicht geöffnet werden"
+
+msgid "Cannot open HTML help book: %s"
+msgstr "HTML-Hilfebuch %s kann nicht geöffnet werden"
+
+msgid "Cannot open contents file: %s"
+msgstr "Kann den Inhalt der Datei %s nicht öffnen!"
+
+msgid "Cannot open file '%s'."
+msgstr "Konnte Datei \"%s\" nicht öffnen"
+
+msgid "Cannot open file for PostScript printing!"
+msgstr "Kann Datei für den Postscriptdruck nicht öffnen!"
+
+msgid "Cannot open index file: %s"
+msgstr "Kann Indexdatei %s nicht öffnen!"
+
+msgid "Cannot parse Plural-Forms:'%s'"
+msgstr "Kann die Plural-Formen: '%s' nicht lesen"
+
+msgid "Cannot parse coordinates from '%s'."
+msgstr "Kann die Koordinaten nicht aus '%s' lesen."
+
+msgid "Cannot parse dimension from '%s'."
+msgstr "Kann die Dimensionen nicht aus '%s' lesen."
+
+msgid "Cannot print empty page."
+msgstr "Leere Seite kann nicht gedruckt werden."
+
+msgid "Cannot read typename from '%s'!"
+msgstr "Kann die Typnamen nicht aus '%s' lesen !"
+
+msgid "Cannot retrieve thread scheduling policy."
+msgstr "Kann Regeln für die Zeitplanung von Threads nicht abrufen."
+
+msgid "Cannot start thread: error writing TLS"
+msgstr "Kann 'Thread' nicht starten : Fehler beim 'TLS' schreiben"
+
+msgid "Cannot wait for thread termination."
+msgstr "Kann nicht auf Beendigung des Threads warten."
+
+msgid "Cant create the thread event queue"
+msgstr "Kann Ereigns-Queue des Threads nicht erzeugen"
+
+msgid "Case sensitive"
+msgstr "Groß-/Kleinschreibung"
+
+msgid "Celtic (ISO-8859-14)"
+msgstr "Keltisch (ISO-8859-14)"
+
+msgid "Centered"
+msgstr "Zentriert"
+
+msgid "Central European (ISO-8859-2)"
+msgstr "Zentraleuropäisch (ISO-8859-2)"
+
+msgid "Choose ISP to dial"
+msgstr "Wähle anzuwählenden ISP"
+
+msgid "Choose colour"
+msgstr "Wähle Farbe"
+
+msgid "Choose font"
+msgstr "Wähle Schriftart"
+
+msgid "Cl&ose"
+msgstr "Schließen"
+
+msgid "Clear the log contents"
+msgstr "Logtexte löschen"
+
+msgid "Click to cancel the font selection."
+msgstr "Klicken um Wahl der Schriftart abzubrechen."
+
+msgid "Click to confirm the font selection."
+msgstr "Klicken um Wahl der Schriftart zu bestätigen."
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Close\tAlt-F4"
+msgstr "Schließen\tAlt-F4"
+
+msgid "Close All"
+msgstr "Alles Schließen"
+
+msgid "Close this window"
+msgstr "Fenster schließen"
+
+msgid "Compressed HTML Help file (*.chm)|*.chm|"
+msgstr "Komprimierte HTML Hilfedatei (*.chm)|*,chm|"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "Config entry name cannot start with '%c'."
+msgstr "Die Bezeichnung des Konfigurations-Eintrags kann nicht mit %c beginnen."
+
+msgid "Confirm"
+msgstr "Bestätigen"
+
+msgid "Confirm registry update"
+msgstr "Aktualisierung der Registry bestätigen"
+
+msgid "Connecting..."
+msgstr "Verbinde..."
+
+msgid "Contents"
+msgstr "Inhalte"
+
+msgid "Conversion to charset '%s' doesn't work."
+msgstr "Konvertierung zum Zeichensatz '%s' funktioniert nicht."
+
+msgid "Copied to clipboard:\"%s\""
+msgstr "In Zwischenablage kopiert:\"%s\""
+
+msgid "Copies:"
+msgstr "Kopien:"
+
+msgid "Could not create temporary file '%s'"
+msgstr "Konnte temporäre Datei %s nicht erzeugen"
+
+msgid "Could not extract %s into %s: %s"
+msgstr "Konnte nicht %s in %s extrahieren: %s"
+
+msgid "Could not find resource include file %s."
+msgstr "Konnte Ressourcendatei %s nicht finden."
+
+msgid "Could not find tab for id"
+msgstr "Konnte Seite für ID nicht finden"
+
+msgid "Could not locate file '%s'."
+msgstr "Konnte Datei %s nicht finden."
+
+msgid ""
+"Could not resolve control class or id '%s'. Use (non-zero) integer instead\n"
+" or provide #define (see manual for caveats)"
+msgstr ""
+"Could not resolve control class or id '%s'. Use (non-zero) integer instead\n"
+" or provide #define (see manual for caveats)"
+
+msgid ""
+"Could not resolve menu id '%s'. Use (non-zero) integer instead\n"
+"or provide #define (see manual for caveats)"
+msgstr ""
+"Konnte Menü-Id '%s' nicht auflösen. Benutzen Sie stattdessen Integer "
+"(ungleich Null)\n"
+"oder ein #define (s.a. Handbuch für mögliche Probleme damit)"
+
+msgid "Could not start document preview."
+msgstr "Kann Druckvorschau nicht starten."
+
+msgid "Could not start printing."
+msgstr "Kann Ausdruck nicht beginnen."
+
+msgid "Could not transfer data to window"
+msgstr "Kann Daten nicht ins Fenster übertragen."
+
+msgid "Could not unlock mutex"
+msgstr "Konnte Mutex nicht freigeben"
+
+msgid "Couldn't acquire a mutex lock"
+msgstr "Konnte Mutex-Sperre nicht bekommen"
+
+msgid "Couldn't add an image to the image list."
+msgstr "Kann Bild nicht zur Liste hinzufügen."
+
+msgid "Couldn't create a timer"
+msgstr "Konnte keinen Timer anlegen."
+
+msgid "Couldn't create cursor."
+msgstr "Konnte Cursor nicht erzeugen."
+
+msgid "Couldn't find symbol '%s' in a dynamic library"
+msgstr "Kann Symbol '%s' in der dynamischen Bibliothek nicht finden"
+
+msgid "Couldn't get the current thread pointer"
+msgstr "Konnte den aktuellen Threadpointer nicht bekommen."
+
+msgid "Couldn't load a PNG image - file is corrupted or not enough memory."
+msgstr ""
+"Konnte PNG-Bild nicht laden - Datei ist beschädigt oder der Speicher reicht "
+"nicht aus."
+
+msgid "Couldn't load sound data from '%s'."
+msgstr "Kann die Klang Daten nicht von '%s' laden."
+
+msgid "Couldn't open audio: %s"
+msgstr "Kann Ton %s nicht öffnen!"
+
+msgid "Couldn't register clipboard format '%s'."
+msgstr "Konnte Zwischenablage-Format '%s' nicht registrieren."
+
+msgid "Couldn't release a mutex"
+msgstr "Konnte einen Mutex nicht freigeben."
+
+msgid "Couldn't retrieve information about list control item %d."
+msgstr "Kann keine Informationen über das ListControl Element %d bekommen."
+
+msgid "Couldn't save PNG image."
+msgstr "Konnte PNG-Bild nicht speichern."
+
+msgid "Couldn't terminate thread"
+msgstr "Kann Thread nicht beenden"
+
+msgid "Create Parameter not found in declared RTTI Parameters"
+msgstr "Create Parameter nicht in den deklarierten RTTI-Parametern gefunden"
+
+msgid "Create directory"
+msgstr "Verzeichnis anlegen"
+
+msgid "Create new directory"
+msgstr "Neues Verzeichnis anlegen"
+
+msgid "Cu&t"
+msgstr "Ausschneiden"
+
+msgid "Current directory:"
+msgstr "Aktuelles Verzeichnis:"
+
+msgid "Cyrillic (ISO-8859-5)"
+msgstr "Kyrillisch (ISO-8859-5)"
+
+msgid "D sheet, 22 x 34 in"
+msgstr "D Blatt, 22 x 34 Zoll"
+
+msgid "DDE poke request failed"
+msgstr "DDE 'poke' Anfrage gescheitert"
+
+msgid "DIB Header: Encoding doesn't match bitdepth."
+msgstr "DIB Header: Kodierung entspricht der Bittiefe nicht."
+
+msgid "DIB Header: Image height > 32767 pixels for file."
+msgstr "DIB Header: Bildhöhe > 32767 pixels."
+
+msgid "DIB Header: Image width > 32767 pixels for file."
+msgstr "DIB Header: Bildbreite > 32767 pixels."
+
+msgid "DIB Header: Unknown bitdepth in file."
+msgstr "DIB Header: Unbekannte Bittiefe."
+
+msgid "DIB Header: Unknown encoding in file."
+msgstr "DIB Header: Unbekannte Kodierung."
+
+msgid "DL Envelope, 110 x 220 mm"
+msgstr "DL Umschlag, 110 x 220 mm"
+
+msgid "Debug report \"%s\""
+msgstr "Fehlerbericht \"%s\""
+
+msgid "Debug report couldn't be created."
+msgstr "Fehlerbericht konnte nicht erstellt werden."
+
+msgid "Debug report generation has failed."
+msgstr "Das Erstellen des Fehlerberichts ist fehlgeschlagen."
+
+msgid "Decorative"
+msgstr "Dekorativ"
+
+msgid "Default encoding"
+msgstr "Standardkodierung"
+
+msgid "Default printer"
+msgstr "Standarddrucker"
+
+msgid "Delete item"
+msgstr "Element löschen"
+
+msgid "Deleted stale lock file '%s'."
+msgstr "Ungenutzte Sperr-Datei '%s' wurde gelöscht."
+
+msgid "Desktop"
+msgstr "Arbeitsoberfläche"
+
+msgid ""
+"Dial up functions are unavailable because the remote access service (RAS) is "
+"not installed on this machine. Please install it."
+msgstr ""
+"DFÜ-Verbindungs-Funktionen stehen nicht zur Verfügung, da der RAS-Dienst "
+"(Remote Access Service) auf dieser Maschine nicht installiert ist. Bitte "
+"installieren."
+
+msgid "Did you know..."
+msgstr "Wussten Sie schon..."
+
+msgid "Directories"
+msgstr "Verzeichnisse"
+
+msgid "Directory '%s' couldn't be created"
+msgstr "Verzeichnis '%s' konnte nicht angelegt werden."
+
+msgid "Directory '%s' doesn't exist!"
+msgstr "Verzeichnis '%s' existiert nicht."
+
+msgid "Directory does not exist"
+msgstr "Verzeichnis existiert nicht"
+
+msgid "Directory doesn't exist."
+msgstr "Verzeichnis existiert nicht"
+
+msgid ""
+"Display all index items that contain given substring. Search is case "
+"insensitive."
+msgstr ""
+"Zeige alle Indexelemente an, die den gegebenen Suchbegriff enthalten. Groß-/"
+"Kleinschreibung wird nicht beachtet."
+
+msgid "Display options dialog"
+msgstr "Einstellungen-Dialog anzeigen"
+
+msgid ""
+"Do you want to overwrite the command used to %s files with extension \"%s"
+"\" ?\n"
+"Current value is \n"
+"%s, \n"
+"New value is \n"
+"%s %1"
+msgstr ""
+"Wollen Sie den Befehl zum %s von Dateien mit der Erweiterung \"%s\" ändern ?\n"
+"Aktueller Wert ist;\n"
+"%s,\n"
+"Neuer Wert ist\n"
+"%s %1"
+
+msgid "Do you want to save changes to document %s?"
+msgstr "Möchten Sie die Änderungen im Dokument %s sichern?"
+
+msgid "Don't Save"
+msgstr "Nicht speichern"
+
+msgid "Done"
+msgstr "fertig"
+
+msgid "Done."
+msgstr "Fertig."
+
+msgid "Double Japanese Postcard Rotated 148 x 200 mm"
+msgstr "Doppelte Japanische Postkarte Rotiert 148 x 200 mm"
+
+msgid "Doubly used id : %d"
+msgstr "ID doppelt verwendet: %d"
+
+msgid "Down"
+msgstr "Herunter"
+
+msgid "E sheet, 34 x 44 in"
+msgstr "E Blatt, 34 x 44 Zoll"
+
+msgid "Edit item"
+msgstr "Element bearbeiten"
+
+msgid "Elapsed time : "
+msgstr "Benötigte Zeit: "
+
+msgid "Enter a page number between %d and %d:"
+msgstr "Geben Sie eine Zahl zwischen %d und %d ein:"
+
+msgid "Enter command to open file \"%s\":"
+msgstr "Befehl zum Öffnen von Datei \"%s\" eingeben:"
+
+msgid "Entries found"
+msgstr "Einträge gefunden"
+
+msgid "Envelope Invite 220 x 220 mm"
+msgstr "Envelope Einladung 220 x 220 mm"
+
+msgid ""
+"Environment variables expansion failed: missing '%c' at position %u in '%s'."
+msgstr ""
+"Auswerten der Umgebungsvariablen schlug fehl. Es fehlt '%c' an Position %u in "
+"'%s'."
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Error creating directory"
+msgstr "Fehler beim Anlegen des Verzeichnisses"
+
+msgid "Error reading config options."
+msgstr "Fehler beim Parsen der Optionen."
+
+msgid "Error saving user configuration data."
+msgstr "Fehler beim Speichern der Benutzer-Optionen."
+
+msgid "Error while waiting on semaphore"
+msgstr "Fehler während des Wartens auf ein Signal"
+
+msgid "Error: "
+msgstr "Fehler: "
+
+msgid "Esperanto (ISO-8859-3)"
+msgstr "Esperanto (ISO-8859-3)"
+
+msgid "Estimated time : "
+msgstr "Geschätzte Zeit : "
+
+msgid "Executable files (*.exe)|*.exe|All files (*.*)|*.*||"
+msgstr "Ausführbare Dateien (*.exe)|*.exe|Alle Dateien (*.*)|*.*||"
+
+msgid "Execution of command '%s' failed"
+msgstr "Befehlsausführung '%s' schlug fehl"
+
+msgid "Execution of command '%s' failed with error: %ul"
+msgstr "Befehlsausführung '%s' schlug fehl mit Fehler: %ul"
+
+msgid "Executive, 7 1/4 x 10 1/2 in"
+msgstr "Executive, 7 1/4 x 10 1/2 Zoll"
+
+msgid "Expected '*' while parsing resource."
+msgstr "Erwartete '*' beim Parsen der Ressource."
+
+msgid "Expected '=' while parsing resource."
+msgstr "Erwartete '=' beim Parsen der Ressource."
+
+msgid "Expected 'char' while parsing resource."
+msgstr "Erwartete 'char' beim Parsen der Ressource."
+
+msgid ""
+"Exporting registry key: file \"%s\" already exists and won't be overwritten."
+msgstr ""
+"Exportiere Registry-Schlüssel: Datei \"%s\" besteht bereits und wird nicht "
+"überschrieben."
+
+msgid "Extended Unix Codepage for Japanese (EUC-JP)"
+msgstr "Erweiterter Unix-Zeichensatz für Japanisch (EUC-JP)"
+
+msgid "Extraction of '%s' into '%s' failed."
+msgstr "Extrahieren von '%s' in '%s' schlug fehl."
+
+msgid "Failed to %s dialup connection: %s"
+msgstr "Fehlerhafte %s DFÜ-Verbindung: %s"
+
+msgid "Failed to access lock file."
+msgstr "Fehler beim Zugriff auf Sperr-Datei."
+
+msgid "Failed to allocated %luKb of memory for bitmap data."
+msgstr "Anforderung von %lu KByte Speicher für Bitmap gescheitert."
+
+msgid "Failed to change video mode"
+msgstr "Änderung des Video-Modus gescheitert"
+
+msgid "Failed to clean up debug report directory \"%s\""
+msgstr "Konnte Fehlerberichtsverzeichnis \"%s\" nicht aufräumen."
+
+msgid "Failed to close file handle"
+msgstr "Konnte Datei-Handle nicht schließen."
+
+msgid "Failed to close lock file '%s'"
+msgstr "Konnte Sperr-Datei '%s' nicht schließen"
+
+msgid "Failed to close the clipboard."
+msgstr "Konnte Zwischenablage nicht schließen."
+
+msgid "Failed to connect: missing username/password."
+msgstr "Verbindung fehlgeschlagen : Es fehlt der Username bzw. das Passwort"
+
+msgid "Failed to connect: no ISP to dial."
+msgstr "Verbindungs-Versuch gescheitert : kein anwählbares ISP."
+
+msgid "Failed to copy registry value '%s'"
+msgstr "Kopieren des Registry-Werts '%s' gescheitert"
+
+msgid "Failed to copy the contents of registry key '%s' to '%s'."
+msgstr "Kopieren des Inhalts des Registry-Schlüssels '%s' nach '%s' gescheitert"
+
+msgid "Failed to copy the file '%s' to '%s'"
+msgstr "Konnte die Datei '%s' nicht nach '%s' kopieren"
+
+msgid "Failed to copy the registry subkey '%s' to '%s'."
+msgstr "Kopieren des Registry-Schlüssels von '%s' in '%s' gescheitert"
+
+msgid "Failed to create DDE string"
+msgstr "Erstellung des DDE-Zeichenkette gescheitert"
+
+msgid "Failed to create MDI parent frame."
+msgstr "Erstellung des MDI-Hauptrahmens gescheitert."
+
+msgid "Failed to create a status bar."
+msgstr "Erstellung der Statusbar gescheitert."
+
+msgid "Failed to create a temporary file name"
+msgstr "Konnte keinen vorübergehenden Dateinamen erstellen."
+
+msgid "Failed to create an anonymous pipe"
+msgstr "Konnte keine anonyme Unix-Pipe erstellen"
+
+msgid "Failed to create connection to server '%s' on topic '%s'"
+msgstr "Aufbau der Verbindung zur Server '%s' 'on topic' '%s' gescheitert"
+
+msgid "Failed to create cursor."
+msgstr "Cursor konnte nicht erzeugt werden"
+
+msgid "Failed to create directory \"%s\""
+msgstr "Konnte das Verzeichnis \"%s\" nicht erzeugen."
+
+msgid ""
+"Failed to create directory '%s'\n"
+"(Do you have the required permissions?)"
+msgstr ""
+"Konnte Verzeichnis '%s' nicht erstellen\n"
+"(Haben Sie die nötigen Zugriffsrechte?)"
+
+msgid "Failed to create registry entry for '%s' files."
+msgstr "Konnte keinen Registrierungs-Eintrag für '%s'-Dateien erstellen."
+
+msgid "Failed to create the standard find/replace dialog (error code %d)"
+msgstr "Konnte keinen Standard Finden/Ersetzen-Dialog erstellen (Fehler %d)"
+
+msgid "Failed to display HTML document in %s encoding"
+msgstr "Konnte HTML-Dokument nicht in der Kodierung %s anzeigen"
+
+msgid "Failed to empty the clipboard."
+msgstr "Konnte Zwischenablage nicht leeren."
+
+msgid "Failed to enumerate video modes"
+msgstr "Auflisten der Video-Modi gescheitert"
+
+msgid "Failed to establish an advise loop with DDE server"
+msgstr "Aufbau einer 'advise Schleife\" mit dem DDE Server gescheitert"
+
+msgid "Failed to establish dialup connection: %s"
+msgstr "Aufbau der DFÜ-Verbindung gescheitert : %s"
+
+msgid "Failed to execute '%s'\n"
+msgstr "Kann '%s' nicht ausführen\n"
+
+msgid "Failed to execute curl, please install it in PATH."
+msgstr "Konnte curl nicht starten, bitte im PATH installieren."
+
+msgid ""
+"Failed to find XBM resource %s.\n"
+"Forgot to use wxResourceLoadBitmapData?"
+msgstr ""
+"Konnte XBM-Ressource %s nicht finden.\n"
+"Vergessen, wxResourceLoadBitmapData zu benutzen?"
+
+msgid ""
+"Failed to find XBM resource %s.\n"
+"Forgot to use wxResourceLoadIconData?"
+msgstr ""
+"Konnte XBM-Ressource %s nicht finden.\n"
+"Vergessen, wxResourceLoadIconData zu benutzen?"
+
+msgid ""
+"Failed to find XPM resource %s.\n"
+"Forgot to use wxResourceLoadBitmapData?"
+msgstr ""
+"Konnte XBM-Ressource %s nicht finden.\n"
+"Vergessen, wxResourceLoadBitmapData zu benutzen?"
+
+msgid "Failed to get ISP names: %s"
+msgstr "Konnte ISP Namen '%s' nicht ermitteln"
+
+msgid "Failed to get clipboard data."
+msgstr "Konnte Daten nicht von der Zwischenablage holen."
+
+msgid "Failed to get data from the clipboard"
+msgstr "Konnte Daten nicht aus der Zwischenablage kopieren"
+
+msgid "Failed to get the local system time"
+msgstr "Versuch, örtliche Systemzeit zu bekommen, gescheitert."
+
+msgid "Failed to get the working directory"
+msgstr "Konnte Arbeits-Verzeichnis nicht ermitteln"
+
+msgid "Failed to initialize GUI: no built-in themes found."
+msgstr "Konnte GUI nicht initialisieren: kein Thema gefunden."
+
+msgid "Failed to initialize MS HTML Help."
+msgstr "Konnte MS HTML-Hilfe nicht initialisieren."
+
+msgid "Failed to initialize OpenGL"
+msgstr "Konnte OpenGL nicht initialisieren"
+
+msgid "Failed to inspect the lock file '%s'"
+msgstr "Konnte die Sperr-Datei '%s' nicht lesen"
+
+msgid ""
+"Failed to join a thread, potential memory leak detected - please restart the "
+"program"
+msgstr ""
+"Thread-Verbindung gescheitert. Dies ist ein mögliches Speicherleck - Bitte "
+"Programm neu starten"
+
+msgid "Failed to kill process %d"
+msgstr "Konnte Prozess %d nicht abbrechen"
+
+msgid "Failed to load image %d from file '%s'."
+msgstr "Konnte das Bild %d aus der Datei '%s' nicht laden."
+
+msgid "Failed to load metafile from file \"%s\"."
+msgstr "Konnte Metadatei aus Datei \"%s\" nicht laden."
+
+msgid "Failed to load mpr.dll."
+msgstr "Konnte mpr.dll nicht laden."
+
+msgid "Failed to load shared library '%s'"
+msgstr "Laden der DLL '%s' gescheitert"
+
+msgid "Failed to load shared library '%s' Error '%s'"
+msgstr "Laden der DLL '%s' gescheitert: Fehler '%s'"
+
+msgid "Failed to lock the lock file '%s'"
+msgstr "Konnte die Sperr-Datei '%s' nicht sperren"
+
+msgid "Failed to modify file times for '%s'"
+msgstr "Konnte Zugriffszeit von Datei '%s' nicht ändern"
+
+msgid "Failed to open '%s' for %s"
+msgstr "Konnte '%s' nicht für %s öffnen."
+
+msgid "Failed to open CHM archive '%s'."
+msgstr "CHM-Archiv '%s' lässt sich nicht öffnen."
+
+msgid "Failed to open temporary file."
+msgstr "Konnte vorübergehende Datei nicht öffnen."
+
+msgid "Failed to open the clipboard."
+msgstr "Konnte Zwischenablage nicht öffnen."
+
+msgid "Failed to put data on the clipboard"
+msgstr "Versuch, Daten in der Zwischenablage abzulegen, gescheitert"
+
+msgid "Failed to read PID from lock file."
+msgstr "Konnte keine PID von Sperr-Datei lesen."
+
+msgid "Failed to redirect child process input/output"
+msgstr "Umleitung des Ein/Ausgabe des Unterprozesses gescheitert"
+
+msgid "Failed to redirect the child process IO"
+msgstr "Umleitung des Ein/Ausgabe des Unterprozesses gescheitert"
+
+msgid "Failed to register DDE server '%s'"
+msgstr "Versuch, DDE-Server '%s' zu registrieren, gescheitert"
+
+msgid "Failed to register OpenGL window class."
+msgstr "Konnte OpenGL Fensterklasse nicht registrieren."
+
+msgid "Failed to remember the encoding for the charset '%s'."
+msgstr ""
+"Versuch gescheitert, an die Kodierung für den Zeichensatz '%s' zu erinnern."
+
+msgid "Failed to remove debug report file \"%s\""
+msgstr "Konnte Fehlerberichtsdatei \"%s\" nicht entfernen."
+
+msgid "Failed to remove lock file '%s'"
+msgstr "Konnte  Sperr-Datei '%s' nicht löschen."
+
+msgid "Failed to remove stale lock file '%s'."
+msgstr "Konnte unbenutzte Sperr-Datei '%s' nicht entfernen."
+
+msgid "Failed to rename registry value '%s' to '%s'."
+msgstr "Umbenennen des Registrieungswertes '%s' in '%s' gescheitert"
+
+msgid "Failed to rename the registry key '%s' to '%s'."
+msgstr "Umbenennen des Registrieungsschlüssels von '%s' in '%s' gescheitert"
+
+msgid "Failed to retrieve data from the clipboard."
+msgstr "Konnte Daten von der Zwischenablage nicht bekommen."
+
+msgid "Failed to retrieve file times for '%s'"
+msgstr "Konnte Zugriffszeit von Datei '%s' nicht ermitteln"
+
+msgid "Failed to retrieve text of RAS error message"
+msgstr "Versuch, den Inhalt der RAS-Fehlernachricht zu holen, gescheitert"
+
+msgid "Failed to retrieve the supported clipboard formats"
+msgstr "Konnte die von der Zwischenablage unterstützten Formate nicht ermitteln"
+
+msgid "Failed to save the bitmap image to file \"%s\"."
+msgstr "Das Bitmap-Bild konnte nicht in der Datei \"%s\" geschrieben werden."
+
+msgid "Failed to send DDE advise notification"
+msgstr "Versuch gescheitert, eine DDE-Benachrichtigung zu schicken"
+
+msgid "Failed to set FTP transfer mode to %s."
+msgstr "Konnte den FTP-Transfermodus nicht auf '%s' setzen."
+
+msgid "Failed to set clipboard data."
+msgstr "Konnte Dateien nicht in die Zwischenablage kopieren."
+
+msgid "Failed to set permissions on lock file '%s'"
+msgstr "Konnte die Zugriffsrechte für Datei '%s' nicht setzen"
+
+msgid "Failed to set temporary file permissions"
+msgstr "Konnte die Zugriffsrechte der vorübergehenden Datei nicht setzen"
+
+msgid "Failed to set thread priority %d."
+msgstr "Versuch gescheitert, die Thread-Priorität %d zu setzten."
+
+msgid "Failed to store image '%s' to memory VFS!"
+msgstr "Versuch, das Bild '%s' im VFS-Speicher zu laden, gescheitert!"
+
+msgid "Failed to terminate a thread."
+msgstr "Versuch, den Thread zu beenden, gescheitert."
+
+msgid "Failed to terminate the advise loop with DDE server"
+msgstr "Versuch gescheitert, die 'advise Schleife mit DDE-Server zu beenden."
+
+msgid "Failed to terminate the dialup connection: %s"
+msgstr "Versuch gescheitert, die DFÜ-Verbindung zu beenden: %s"
+
+msgid "Failed to touch the file '%s'"
+msgstr "Konnte die Datei '%s' nicht 'berühren'"
+
+msgid "Failed to unlock lock file '%s'"
+msgstr "Konnte die Sperrung von Datei '%s' nicht aufheben"
+
+msgid "Failed to unregister DDE server '%s'"
+msgstr "Versuch gescheitert, den DDE-Server '%s' zu entregistrieren."
+
+msgid "Failed to update user configuration file."
+msgstr "Kann Benutzer-Konfigurations-Datei nicht aktualisieren."
+
+msgid "Failed to upload the debug report (error code %d)."
+msgstr "Konnte den Fehlerbericht nicht hochladen (Fehlercode %d)."
+
+msgid "Failed to write to lock file '%s'"
+msgstr "Konnte Sperr-Datei '%s' nicht schreiben"
+
+msgid "Fatal error"
+msgstr "Nicht-behebbarer Fehler"
+
+msgid "Fatal error: "
+msgstr "Nicht-behebbarer Fehler: "
+
+msgid "File"
+msgstr "Datei"
+
+msgid "File %s does not exist."
+msgstr "Datei '%s' existiert nicht."
+
+msgid "File '%s' already exists, do you really want to overwrite it?"
+msgstr "Datei '%s' existiert bereits, möchten Sie sie wirklich überschreiben?"
+
+msgid ""
+"File '%s' already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Datei '%s' existiert bereits.\n"
+"Möchten Sie sie wirklich überschreiben?"
+
+msgid "File couldn't be loaded."
+msgstr "Datei konnte nicht geladen werden."
+
+msgid "File error"
+msgstr "Dateifehler"
+
+msgid "File name exists already."
+msgstr "Dateiname bereits vorhanden"
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "Files (%s)"
+msgstr "Dateien (%s)"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Find"
+msgstr "Suchen"
+
+msgid "Fixed font:"
+msgstr "Fixed font:"
+
+msgid "Fixed size face.<br> <b>bold</b> <i>italic</i> "
+msgstr "Schrift fester Breite.<br> <b>fett</b> <i>kursiv</i> "
+
+msgid "Folio, 8 1/2 x 13 in"
+msgstr "Folio, 8 1/2 x 13 Zoll"
+
+msgid "Font size:"
+msgstr "Font Größe:"
+
+msgid "Fork failed"
+msgstr "'Fork' gescheitert"
+
+msgid "Forward hrefs are not supported"
+msgstr "Forward hrefs werden nicht unterstützt"
+
+msgid "Found "
+msgstr "Gefunden"
+
+msgid "Found %i matches"
+msgstr "Suchbegriff %i mal gefunden"
+
+msgid "From:"
+msgstr "Von:"
+
+msgid "GIF: Invalid gif index."
+msgstr "GIF: Ungültiger Index."
+
+msgid "GIF: data stream seems to be truncated."
+msgstr "GIF: Datei scheint unvollständig zu sein."
+
+msgid "GIF: error in GIF image format."
+msgstr "GIF: Fehler im GIF-Bildformat."
+
+msgid "GIF: not enough memory."
+msgstr "GIF: nicht genug Speicher."
+
+msgid "GIF: unknown error!!!"
+msgstr "GIF: unbekannter Fehler!"
+
+msgid "GTK+ theme"
+msgstr "GTK+ Thema"
+
+msgid "Generic PostScript"
+msgstr "Generisches PostScript"
+
+msgid "German Legal Fanfold, 8 1/2 x 13 in"
+msgstr "German Legal Endlospapier, 21,59 x 33,02 cm"
+
+msgid "German Std Fanfold, 8 1/2 x 12 in"
+msgstr "German Std Endlospapier, 8 1/2 x 12 Zoll"
+
+msgid "GetProperty called w/o valid getter"
+msgstr "GetProperty aufgerufen ohne gültigen getter"
+
+msgid "GetPropertyCollection called on a generic accessor"
+msgstr "GetPropertyCollection aufgerufen für einen allgemeinen accessor"
+
+msgid "GetPropertyCollection called w/o valid collection getter"
+msgstr "GetPropertyCollection aufgerufen ohne gültigen Collection getter"
+
+msgid "Go back"
+msgstr "Vorherige HTML-Seite zeigen"
+
+msgid "Go forward"
+msgstr "Nächste HTLM Seite zeigen"
+
+msgid "Go one level up in document hierarchy"
+msgstr "In die nächste Dokumentebene gehen"
+
+msgid "Go to home directory"
+msgstr "Gehe zum Home-Verzeichnis"
+
+msgid "Go to parent directory"
+msgstr "Gehe zum 'Parent'-Verzeichnis"
+
+msgid "Goto Page"
+msgstr "Gehe zur Seite"
+
+msgid "Greek (ISO-8859-7)"
+msgstr "Griechisch (ISO-8859-7)"
+
+msgid "Gzip not supported by this version of zlib"
+msgstr "Gzip wird nicht für diese zlib Version unterstützt"
+
+msgid "HTML Help Project (*.hhp)|*.hhp|"
+msgstr "HTML-Hilfe-Projekt (*.hhp)|*.hhp|"
+
+msgid "HTML anchor %s does not exist."
+msgstr "HTML-Anker %s existiert nicht."
+
+msgid "HTML files (*.html;*.htm)|*.html;*.htm|"
+msgstr "HTML-Dateien (*.html;*.htm)|*.html;*.htm|"
+
+msgid "Hebrew (ISO-8859-8)"
+msgstr "Hebräisch (ISO-8859-8)"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Help Browser Options"
+msgstr "Hilfe zu den Browser-Einstellungen"
+
+msgid "Help Index"
+msgstr "Hilfeindex"
+
+msgid "Help Printing"
+msgstr "Hilfe drucken"
+
+msgid "Help Topics"
+msgstr "Hilfe-Themen"
+
+msgid "Help books (*.htb)|*.htb|Help books (*.zip)|*.zip|"
+msgstr "Hilfe-Bücher (*.htb)|*.htb|Hilfe-Bücher (*.zip)|*.zip|"
+
+msgid "Help: %s"
+msgstr "Hilfe: %s"
+
+msgid "Home"
+msgstr "Start"
+
+msgid "Home directory"
+msgstr "Benutzerverzeichnis"
+
+msgid "I64"
+msgstr "I64"
+
+msgid "ICO: Error in reading mask DIB."
+msgstr "ICO: Fehler beim Lesen der DIB Maske."
+
+msgid "ICO: Error writing the image file!"
+msgstr "ICO: Schreibfehler beim Sichern."
+
+msgid "ICO: Image too tall for an icon."
+msgstr "ICO: Bild zu groß für ein Icon."
+
+msgid "ICO: Image too wide for an icon."
+msgstr "ICO: Bild zu breit für ein Icon."
+
+msgid "ICO: Invalid icon index."
+msgstr "ICO: Ungültiger Icon-Index."
+
+msgid "IFF: data stream seems to be truncated."
+msgstr "IFF: Datei scheint unvollständig zu sein."
+
+msgid "IFF: error in IFF image format."
+msgstr "IFF: Fehler im IFF Bildformat."
+
+msgid "IFF: not enough memory."
+msgstr "IFF: nicht genug Speicher."
+
+msgid "IFF: unknown error!!!"
+msgstr "IFF: unbekannter Fehler!"
+
+msgid "Icon resource specification %s not found."
+msgstr "Ressourcenspezifikation %s des Icons nicht gefunden."
+
+msgid ""
+"If you have any additional information pertaining to this bug\n"
+"report, please enter it here and it will be joined to it:"
+msgstr ""
+"Falls Sie weitere Informationen betreffend diesen Fehlerberichtes haben, "
+"tragen Sie sie bitte hier ein, um sie zum Bericht hinzuzufügen:"
+
+msgid ""
+"If you wish to suppress this debug report completely, please choose the "
+"\"Cancel\" button,\n"
+"but be warned that it may hinder improving the program, so if\n"
+"at all possible please do continue with the report generation.\n"
+msgstr ""
+"Falls Sie diesen Fehlerbericht vollständig unterdrücken möchten, drücken Sie "
+"bitte \"Abbrechen\".\n"
+"Bedenken Sie aber bitte, dass dies eventuell die Verbesserung des Programms "
+"behindern kann,\n"
+"nach Möglichkeit sollten Sie also den Fehlerbericht erstellen.\n"
+
+msgid "Ignoring value \"%s\" of the key \"%s\"."
+msgstr "Ignoriere Wert \"%s\" von Schlüssel \"%s\"."
+
+msgid "Ill-formed resource file syntax."
+msgstr "Nicht wohlgeformte Syntax für Ressourcendatei."
+
+msgid "Illegal Object Class (Non-wxEvtHandler) as Event Source"
+msgstr "Ungültige Objekt-Klasse (nicht wxEvtHandler) als Event-Quelle"
+
+msgid "Illegal Parameter Count for ConstructObject Method"
+msgstr "Ungültige Anzahl Parameter für ConstructObject-Methode"
+
+msgid "Illegal Parameter Count for Create Method"
+msgstr "Ungültige Anzahl Parameter für Create-Methode"
+
+msgid "Illegal directory name."
+msgstr "Ungültiger Verzeichnisname"
+
+msgid "Illegal file specification."
+msgstr "Ungültige Dateiangabe"
+
+msgid "Image and mask have different sizes."
+msgstr "Bild und Bildmaske haben verschiedene Größen."
+
+msgid ""
+"Impossible to create a rich edit control, using simple text control instead. "
+"Please reinstall riched32.dll"
+msgstr ""
+"Versuch eine 'rich edit control' zu erstellen gescheitert, verwende "
+"stattdessen ein einfaches Text-Control. Bitte 'riched32.dll' neu installieren"
+
+msgid "Impossible to get child process input"
+msgstr "Es war nicht möglich, die Eingabe des Unterprozesses zu verarbeiten"
+
+msgid "Impossible to get permissions for file '%s'"
+msgstr "Konnte nicht die Zugriffsrechte der Datei '%s' ermitteln"
+
+msgid "Impossible to overwrite the file '%s'"
+msgstr "Versuch, die Datei '%s' zu überschreiben, gescheitert"
+
+msgid "Impossible to set permissions for the file '%s'"
+msgstr "Konnte die Zugriffsrechte für Datei '%s' nicht setzen"
+
+msgid "Indent"
+msgstr "Einrücken"
+
+msgid "Index"
+msgstr "Hilfe-Index"
+
+msgid "Indian (ISO-8859-12)"
+msgstr "Indisch (ISO-8859-12)"
+
+msgid "Initialization failed in post init, aborting."
+msgstr "Initialisierung in \"post init\" fehlgeschlagen, breche ab."
+
+msgid "Internal error, illegal wxCustomTypeInfo"
+msgstr "interner Fehler (ungültige wxCustomTypeinfo)"
+
+msgid "Invalid TIFF image index."
+msgstr "Ungültiger Index des TIFF-Bilds."
+
+msgid "Invalid XRC resource '%s': doesn't have root node 'resource'."
+msgstr "Ungültige XRC-Resource '%s': Kein Wurzel-Knoten 'resource'."
+
+msgid "Invalid display mode specification '%s'."
+msgstr "Ungültige Angabe '%s' des Displays."
+
+msgid "Invalid geometry specification '%s'"
+msgstr "Ungültige Angabe '%s' der Fenstergröße"
+
+msgid "Invalid lock file '%s'."
+msgstr "Ungültige Sperr-Datei '%s'."
+
+msgid "Invalid or Null Object ID passed to GetObjectClassInfo"
+msgstr "Ungültige oder Null Objekt-ID an GetObjectClassInfo übergeben"
+
+msgid "Invalid or Null Object ID passed to HasObjectClassInfo"
+msgstr "\"Ungültige oder Null Objekt-ID an HasObjectClassInfo übergeben\""
+
+msgid "Invalid regular expression '%s': %s"
+msgstr "Ungültiger regulärer Ausdruck '%s': %s"
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "Italy Envelope, 110 x 230 mm"
+msgstr "Italy Umschlag, 110 x 230 mm"
+
+msgid "JPEG: Couldn't load - file is probably corrupted."
+msgstr "JPEG: Lesefehler - Datei ist vermutlich beschädigt."
+
+msgid "JPEG: Couldn't save image."
+msgstr "JPEG: Konnte Bild nicht sichern."
+
+msgid "Japanese Double Postcard 200 x 148 mm"
+msgstr "Japanische Doppelte Postkarte 200 x 148 mm"
+
+msgid "Japanese Envelope Chou #3"
+msgstr "Japanischer Briefumschlag Chou #3"
+
+msgid "Japanese Envelope Chou #3 Rotated"
+msgstr "Japanischer Briefumschlag Chou #3 Rotiert"
+
+msgid "Japanese Envelope Chou #4"
+msgstr "Japanischer Briefumschlag Chou #4"
+
+msgid "Japanese Envelope Chou #4 Rotated"
+msgstr "Japanischer Briefumschlag Chou #4 Rotiert"
+
+msgid "Japanese Envelope Kaku #2"
+msgstr "Japanischer Briefumschlag Kaku #2"
+
+msgid "Japanese Envelope Kaku #2 Rotated"
+msgstr "Japanischer Briefumschlag Kaku #2 Rotiert"
+
+msgid "Japanese Envelope Kaku #3"
+msgstr "Japanischer Briefumschlag Kaku #3"
+
+msgid "Japanese Envelope Kaku #3 Rotated"
+msgstr "Japanischer Briefumschlag Kaku #3 Rotiert"
+
+msgid "Japanese Envelope You #4"
+msgstr "Japanischer Briefumschlag You #4"
+
+msgid "Japanese Envelope You #4 Rotated"
+msgstr "Japanischer Briefumschlag You #4 Rotiert"
+
+msgid "Japanese Postcard 100 x 148 mm"
+msgstr "Japanische Postkarte 100 x 148 mm"
+
+msgid "Japanese Postcard Rotated 148 x 100 mm"
+msgstr "Japanische Postkarte Rotiert 100 x 148 mm"
+
+msgid "Justified"
+msgstr "Bündig"
+
+msgid "KOI8-R"
+msgstr "KOI8-R"
+
+msgid "KOI8-U"
+msgstr "KOI8-U"
+
+msgid "Landscape"
+msgstr "Querformat"
+
+msgid "Ledger, 17 x 11 in"
+msgstr "Ledger, 17 x 11 Zoll"
+
+msgid "Left margin (mm):"
+msgstr "Linker Rand (mm):"
+
+msgid "Legal Extra 9 1/2 x 15 in"
+msgstr "Legal Extra 9 1/2 x 15 Zoll"
+
+msgid "Legal, 8 1/2 x 14 in"
+msgstr "Legal, 8 1/2 x 14 Zoll"
+
+msgid "Letter Extra 9 1/2 x 12 in"
+msgstr "Letter Extra 9 1/2 x 12 Zoll"
+
+msgid "Letter Extra Transverse 9.275 x 12 in"
+msgstr "Brief Extra Quer 9.275 x 12 Zoll"
+
+msgid "Letter Plus 8 1/2 x 12.69 in"
+msgstr "Brief Plus 8 1/2 x 12.69 Zoll"
+
+msgid "Letter Rotated 11 x 8 1/2 in"
+msgstr "Brief Rotiert 11 x 8 1/2 Zoll"
+
+msgid "Letter Small, 8 1/2 x 11 in"
+msgstr "Letter Small, 8 1/2 x 11 Zoll"
+
+msgid "Letter Transverse 8 1/2 x 11 in"
+msgstr "Brief Quer 8 1/2 x 11 Zoll"
+
+msgid "Letter, 8 1/2 x 11 in"
+msgstr "Letter, 8 1/2 x 11 Zoll"
+
+msgid "Light"
+msgstr "Dünn"
+
+msgid "Link contained '//', converted to absolute link."
+msgstr "Verweis enthielt '//', in absoluten Link umgewandelt."
+
+msgid "Load %s file"
+msgstr "%s-Datei laden"
+
+msgid "Loading : "
+msgstr "Laden: "
+
+msgid "Lock file '%s' has incorrect owner."
+msgstr "Sperr-Datei '%s' hat falschen Besitzer."
+
+msgid "Lock file '%s' has incorrect permissions."
+msgstr "Sperr-Datei '%s' hat falsche Zugriffsrechte."
+
+msgid "Log saved to the file '%s'."
+msgstr "Logtext in Datei '%s' gesichert."
+
+msgid "Long Conversions not supported"
+msgstr "Umwandlung in long wird nicht unterstützt"
+
+msgid "MDI child"
+msgstr "MDI child"
+
+msgid ""
+"MS HTML Help functions are unavailable because the MS HTML Help library is "
+"not installed on this machine. Please install it."
+msgstr ""
+"Die MS HTML-Hilfe funktioniert nicht, da die MS-HTML-Hilfe-Bibliothek nicht "
+"installiert ist. Bitte installieren Sie sie."
+
+msgid "Ma&ximize"
+msgstr "Ma&ximieren"
+
+msgid "Match case"
+msgstr "Groß- und Kleinschreibung beachten"
+
+msgid "Memory VFS already contains file '%s'!"
+msgstr "VFS-Speicher beinhaltet bereits der Datei '%s'!"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Metal theme"
+msgstr "Metal-Thema"
+
+msgid "Mi&nimize"
+msgstr "Mi&nimieren"
+
+msgid "Mode %ix%i-%i not available."
+msgstr "Darstellung %is%i-%i ist nicht vorhanden"
+
+msgid "Modern"
+msgstr "Modern"
+
+msgid "Modified"
+msgstr "Geändert"
+
+msgid "Module \"%s\" initialization failed"
+msgstr "Initialisierung von Modul \"%s\" fehlgeschlagen."
+
+msgid "Monarch Envelope, 3 7/8 x 7 1/2 in"
+msgstr "Monarch Envelope, 3 7/8 x 7 1/2 Zoll"
+
+msgid "Move down"
+msgstr "Abwärts verschieben"
+
+msgid "Move up"
+msgstr "Nach oben"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "New directory"
+msgstr "Verzeichnis anlegen"
+
+msgid "New item"
+msgstr "Neues &Element"
+
+msgid "NewName"
+msgstr "NeuerName"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Next page"
+msgstr "Nächste HTLM Seite zeigen"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No XBM facility available!"
+msgstr "Keine Möglickeit mit XBM umzugehen!"
+
+msgid "No XPM icon facility available!"
+msgstr "Keine Möglichkeit mit XPM Icons umzugehen!"
+
+msgid "No entries found."
+msgstr "Keine Einträge gefunden."
+
+msgid ""
+"No font for displaying text in encoding '%s' found,\n"
+"but an alternative encoding '%s' is available.\n"
+"Do you want to use this encoding (otherwise you will have to choose another "
+"one)?"
+msgstr ""
+"Kein Font für die Kodierung '%s' gefunden,\n"
+"es ist aber eine Alternative '%s' verfügbar.\n"
+"Möchten Sie diesen Font für diese Kodierung wählen\n"
+"(sonst müssen Sie einen anderen auswählen)?"
+
+msgid ""
+"No font for displaying text in encoding '%s' found.\n"
+"Would you like to select a font to be used for this encoding\n"
+"(otherwise the text in this encoding will not be shown correctly)?"
+msgstr ""
+"Kein Font für die Kodierung '%s' gefunden,\n"
+"Möchten Sie einen Font für diese Kodierung wählen\n"
+"(sonst wird der Text mit dieser Kodierung nicht richtig angezeigt)?"
+
+msgid "No handler found for XML node '%s', class '%s'!"
+msgstr "XML-Knoten '%s', Klasse '%s' kann nicht bearbeitet werden !\""
+
+msgid "No handler found for image type."
+msgstr "Dieses Bild-Format wird nicht unterstützt"
+
+msgid "No image handler for type %d defined."
+msgstr "Bild-Format %d wurde nicht definiert."
+
+msgid "No image handler for type %s defined."
+msgstr "Bild-Format %s wurde nicht definiert."
+
+msgid "No matching page found yet"
+msgstr "Passende Seite noch nicht gefunden"
+
+msgid "No sound"
+msgstr "Kein Ton"
+
+msgid "No unused colour in image being masked."
+msgstr "Keine unbenutzte Farbe wurde im Bild unterdrückt."
+
+msgid "No unused colour in image."
+msgstr "Keine unbenutzte Farbe im Bild."
+
+msgid "Nordic (ISO-8859-10)"
+msgstr "Nordisch (ISO-8859-10)"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Normal face<br>and <u>underlined</u>. "
+msgstr "Normaler Zeichensatz<br> und <u>unterstrichen</u> "
+
+msgid "Normal font:"
+msgstr "Normal Font:"
+
+msgid "Note, 8 1/2 x 11 in"
+msgstr "Note, 8 1/2 x 11 Zoll"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Objects must have an id attribute"
+msgstr "Objekte müssen ein ID-Attribut haben."
+
+msgid "Open File"
+msgstr "Datei öffnen"
+
+msgid "Open HTML document"
+msgstr "Öffne HTML Dokument"
+
+msgid "Open file \"%s\""
+msgstr "Öffne Datei \"%s\""
+
+msgid "Operation not permitted."
+msgstr "Ausführung nicht erlaubt"
+
+msgid "Option '%s' requires a value, '=' expected."
+msgstr "Option '%s' erwartet einen Wert, '=' erwartet."
+
+msgid "Option '%s' requires a value."
+msgstr "Option '%s' erwartet einen Wert."
+
+msgid "Option '%s': '%s' cannot be converted to a date."
+msgstr "Option '%s': '%s' kann nicht in eine Datum umgesetzt werden."
+
+msgid "Options"
+msgstr "Einstellungen"
+
+msgid "Orientation"
+msgstr "Orientierung"
+
+msgid "PCX: couldn't allocate memory"
+msgstr "PCX: Speicheranforderung gescheitert"
+
+msgid "PCX: image format unsupported"
+msgstr "PCX: Bildformat wird nicht unterstützt"
+
+msgid "PCX: invalid image"
+msgstr "PCX: ungültiges Bild"
+
+msgid "PCX: this is not a PCX file."
+msgstr "PCX: dies ist keine PCX Datei."
+
+msgid "PCX: unknown error !!!"
+msgstr "PCX: unbekannter Fehler !!!"
+
+msgid "PCX: version number too low"
+msgstr "PCX: Versionsnummer zu niedrig"
+
+msgid "PNM: Couldn't allocate memory."
+msgstr "PNM: Speicheranforderung gescheitert."
+
+msgid "PNM: File format is not recognized."
+msgstr "PNM: Datei-Format wurde nicht erkannt."
+
+msgid "PNM: File seems truncated."
+msgstr "PNM: Datei wurde abgeschnitten."
+
+msgid "PRC 16K 146 x 215 mm"
+msgstr "PRC 16K 146 x 215 mm"
+
+msgid "PRC 16K Rotated"
+msgstr "PRC 16K Rotiert"
+
+msgid "PRC 32K 97 x 151 mm"
+msgstr "PRC 32K 97 x 151 mm"
+
+msgid "PRC 32K Rotated"
+msgstr "PRC 32K Rotiert"
+
+msgid "PRC 32K(Big) 97 x 151 mm"
+msgstr "PRC 32K(Groß) 97 x 151 mm"
+
+msgid "PRC 32K(Big) Rotated"
+msgstr "PRC 32K(Groß) Rotiert"
+
+msgid "PRC Envelope #1 102 x 165 mm"
+msgstr "PRC Umschlag #1 102 x 165 mm"
+
+msgid "PRC Envelope #1 Rotated 165 x 102 mm"
+msgstr "PRC Umschlag #1 Rotated 165 x 102 mm"
+
+msgid "PRC Envelope #10 324 x 458 mm"
+msgstr "PRC Umschlag #10 324 x 458 mm"
+
+msgid "PRC Envelope #10 Rotated 458 x 324 mm"
+msgstr "PRC Umschlag #10 Rotiert 458 x 324 mm"
+
+msgid "PRC Envelope #2 102 x 176 mm"
+msgstr "PRC Umschlag #2 102 x 176 mm"
+
+msgid "PRC Envelope #2 Rotated 176 x 102 mm"
+msgstr "PRC Umschlag #2 Rotiert 176 x 102 mm"
+
+msgid "PRC Envelope #3 125 x 176 mm"
+msgstr "PRC Umschlag #3 125 x 176 mm"
+
+msgid "PRC Envelope #3 Rotated 176 x 125 mm"
+msgstr "PRC Umschlag #3 Rotiert 176 x 125 mm"
+
+msgid "PRC Envelope #4 110 x 208 mm"
+msgstr "PRC Umschlag #4 110 x 208 mm"
+
+msgid "PRC Envelope #4 Rotated 208 x 110 mm"
+msgstr "PRC Umschlag #4 Rotiert 208 x 110 mm"
+
+msgid "PRC Envelope #5 110 x 220 mm"
+msgstr "PRC Umschlag #5 110 x 220 mm"
+
+msgid "PRC Envelope #5 Rotated 220 x 110 mm"
+msgstr "PRC Umschlag #5 Rotiert 220 x 110 mm"
+
+msgid "PRC Envelope #6 120 x 230 mm"
+msgstr "PRC Umschlag #6 120 x 230 mm"
+
+msgid "PRC Envelope #6 Rotated 230 x 120 mm"
+msgstr "PRC Umschlag #6 Rotiert 230 x 120 mm"
+
+msgid "PRC Envelope #7 160 x 230 mm"
+msgstr "PRC Umschlag #7 160 x 230 mm"
+
+msgid "PRC Envelope #7 Rotated 230 x 160 mm"
+msgstr "PRC Umschlag #7 Rotiert 230 x 160 mm"
+
+msgid "PRC Envelope #8 120 x 309 mm"
+msgstr "PRC Umschlag #8 120 x 309 mm"
+
+msgid "PRC Envelope #8 Rotated 309 x 120 mm"
+msgstr "PRC Umschlag #8 Rotiert 309 x 120 mm"
+
+msgid "PRC Envelope #9 229 x 324 mm"
+msgstr "PRC Umschlag #9 229 x 324 mm"
+
+msgid "PRC Envelope #9 Rotated 324 x 229 mm"
+msgstr "PRC Umschlag #9 Rotiert 324 x 229 mm"
+
+msgid "Page %d"
+msgstr "Seite %d"
+
+msgid "Page %d of %d"
+msgstr "Seite %d aus %d"
+
+msgid "Page Setup"
+msgstr "Seiten-Einstellungen"
+
+msgid "Page setup"
+msgstr "Seiteneinstellungen"
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "Paper Size"
+msgstr "Papierformat"
+
+msgid "Paper size"
+msgstr "Papierformat"
+
+msgid "Passing a already registered object to SetObject"
+msgstr "Ein bereits registriertes Objekt wurde an SetObject übergeben"
+
+msgid "Passing a already registered object to SetObjectName"
+msgstr "Ein bereits registriertes Objekt wurde an SetObjectname übergeben"
+
+msgid "Passing an unkown object to GetObject"
+msgstr "Ein unbekanntes Objekt wurde an GetObject übergeben\""
+
+msgid "Permissions"
+msgstr "Zugriffsrechte"
+
+msgid "Pipe creation failed"
+msgstr "Konnte keine Pipe anlegen"
+
+msgid "Please choose a valid font."
+msgstr "Bitte wählen Sie einen gültigen Font."
+
+msgid "Please choose an existing file."
+msgstr "Bitte wählen Sie eine bestehende Datei."
+
+msgid "Please choose the page to display:"
+msgstr "Bitte wählen Sie die darzustellende Seite:"
+
+msgid "Please choose which ISP do you want to connect to"
+msgstr "Bitte gewünschte ISP-Verbindung auswählen"
+
+msgid ""
+"Please install a newer version of comctl32.dll\n"
+"(at least version 4.70 is required but you have %d.%02d)\n"
+"or this program won't operate correctly."
+msgstr ""
+"Bitte installieren Sie eine neuere Version von comctl32.dll\n"
+"(mindestens Version 4.70 wird benötigt, aber Sie haben nur\n"
+"Version %d.%02d)."
+
+msgid "Please wait while printing\n"
+msgstr "Bitte warten Sie während des Druckens\n"
+
+msgid "Portrait"
+msgstr "Hochformat"
+
+msgid "PostScript file"
+msgstr "PostScript-Datei"
+
+msgid "Preview:"
+msgstr "Vorschau:"
+
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+msgid "Print"
+msgstr "Drucken"
+
+msgid "Print Preview"
+msgstr "Druckvorschau"
+
+msgid "Print Preview Failure"
+msgstr "Fehler bei der Druckvorschau"
+
+msgid "Print Range"
+msgstr "Seitenbereich"
+
+msgid "Print Setup"
+msgstr "Druckereinstellungen"
+
+msgid "Print in colour"
+msgstr "Farbig drucken"
+
+msgid "Print previe&w"
+msgstr "Druck&vorschau"
+
+msgid "Print preview"
+msgstr "Druck&vorschau"
+
+msgid "Print spooling"
+msgstr "Druckersteuerung"
+
+msgid "Print this page"
+msgstr "Diese Seite Drucken"
+
+msgid "Print to File"
+msgstr "In Datei drucken"
+
+msgid "Printer"
+msgstr "Drucker"
+
+msgid "Printer command:"
+msgstr "Druckbefehl:"
+
+msgid "Printer options"
+msgstr "Drucker-Einstellungen"
+
+msgid "Printer options:"
+msgstr "Drucker-Einstellungen:"
+
+msgid "Printer..."
+msgstr "Drucker..."
+
+msgid "Printer:"
+msgstr "Drucker:"
+
+msgid "Printing "
+msgstr "Drucken von "
+
+msgid "Printing Error"
+msgstr "Fehler beim Drucken"
+
+msgid "Printing page %d..."
+msgstr "Drucke Seite %d..."
+
+msgid "Printing..."
+msgstr "Drucke..."
+
+msgid ""
+"Processing debug report has failed, leaving the files in \"%s\" directory."
+msgstr ""
+"Bearbeitung des Fehlerberichts fehlgeschlagen, belasse die Dateien im Ornder "
+"\"%s\"."
+
+msgid "Program aborted."
+msgstr "Programm abgebrochen."
+
+msgid "Quarto, 215 x 275 mm"
+msgstr "Quarto, 215 x 275 mm"
+
+msgid "Question"
+msgstr "Frage"
+
+msgid "Read error on file '%s'"
+msgstr "Lesefehler in Datei '%s'"
+
+msgid "Ready"
+msgstr "Bereit"
+
+msgid "Referenced object node with ref=\"%s\" not found!"
+msgstr "Der angesprochene Objekt-Knoten mit ref=\"%s\" wurde nicht gefunden !"
+
+msgid "Refresh"
+msgstr "Aktualisiere"
+
+msgid "Registry key '%s' already exists."
+msgstr "Registrierungs-Schlüssel '%s' bereits vorhanden."
+
+msgid "Registry key '%s' does not exist, cannot rename it."
+msgstr ""
+"Registriersschlüssel '%s' existiert nicht, Umbenennung daher nicht möglich."
+
+msgid ""
+"Registry key '%s' is needed for normal system operation,\n"
+"deleting it will leave your system in unusable state:\n"
+"operation aborted."
+msgstr ""
+"Registrierungs-Schlüssel '%s' wird vom System benötigt,\n"
+"durch seine Entfernung wird das System unbrauchbar:\n"
+"Abbruch."
+
+msgid "Registry value '%s' already exists."
+msgstr "Registrierungs-Wert '%s' bereits vorhanden."
+
+msgid "Relevant entries:"
+msgstr "Relevante Einträge:"
+
+msgid "Remaining time : "
+msgstr "Verbleibende Zeit : "
+
+msgid "Remove"
+msgstr "Entferne"
+
+msgid "Remove current page from bookmarks"
+msgstr "Aktuelle HTLM-Seite als Lesezeichen entfernen"
+
+msgid "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
+msgstr ""
+"Renderer \"%s\" hat eine ungültige Version %d.%d und kann nicht geladen "
+"werden."
+
+msgid "Rep&lace"
+msgstr "&Ersetzen"
+
+msgid "Replace &all"
+msgstr "Alle &ersetzen"
+
+msgid "Replace with:"
+msgstr "Ersetzen durch:"
+
+msgid "Resource files must have same version number!"
+msgstr "Resource-Datei muss die gleiche Versionsnummer haben!"
+
+msgid "Revert to Saved"
+msgstr "Rückgängig auf Gespeichertes."
+
+msgid "Right margin (mm):"
+msgstr "Rechter Rand (mm):"
+
+msgid "Roman"
+msgstr "Roman"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save %s file"
+msgstr "Datei %s speichern"
+
+msgid "Save &As..."
+msgstr "&Speichern unter..."
+
+msgid "Save as"
+msgstr "Sichern als"
+
+msgid "Save log contents to file"
+msgstr "Logtexte in Datei speichern"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid ""
+"Search contents of help book(s) for all occurences of the text you typed above"
+msgstr "Alle Hilfebücher nach eingegebenem Begriff durchsuchen."
+
+msgid "Search direction"
+msgstr "Suchrichtung"
+
+msgid "Search for:"
+msgstr "Suchen nach:"
+
+msgid "Search in all books"
+msgstr "Alle Bücher durchsuchen"
+
+msgid "Searching..."
+msgstr "Suchen..."
+
+msgid "Sections"
+msgstr "Abschnitte"
+
+msgid "Seek error on file '%s'"
+msgstr "Suchfehler in Datei '%s'"
+
+msgid "Seek error on file '%s' (large files not supported by stdio)"
+msgstr ""
+"Positionierungsfehler bei Datei \"%s\" (große Dateien werden nicht von stdio "
+"unterstützt)."
+
+msgid "Select &All"
+msgstr "Alles auswählen"
+
+msgid "Select a document template"
+msgstr "Dokument-Vorlage wählen"
+
+msgid "Select a document view"
+msgstr "Dokument-Anzeige ('View') wählen"
+
+msgid "Select a file"
+msgstr "Datei wählen"
+
+msgid "Selection"
+msgstr "Auswahl"
+
+msgid "Separator expected after the option '%s'."
+msgstr "Trennungszeichen nach der Option '%s' erwartet."
+
+msgid "SetProperty called w/o valid setter"
+msgstr "SetProperty aufgerufen ohne gültigen Setter"
+
+msgid "Setup..."
+msgstr "Einstellungen..."
+
+msgid "Several active dialup connections found, choosing one randomly."
+msgstr "Mehrere aktive DFÜ-Verbindungen gefunden, wähle einer davon aus."
+
+msgid "Show all"
+msgstr "Alles zeigen"
+
+msgid "Show all items in index"
+msgstr "Alle Themen im Index anzeigen"
+
+msgid "Show hidden directories"
+msgstr "Versteckte Verzeichnisse anzeigen"
+
+msgid "Show/hide navigation panel"
+msgstr "Suchbaum Ein-/Ausschalten"
+
+msgid "Shows the font preview."
+msgstr "Zeigt die Schriftvorschau."
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Skip"
+msgstr "Überspringen"
+
+msgid "Slant"
+msgstr "Geneigt"
+
+msgid "Sorry, could not open this file for saving."
+msgstr "Bedauere, diese Datei konnte zur Sicherung nicht geöffnet werden."
+
+msgid "Sorry, could not open this file."
+msgstr "Bedauere, diese Datei konnte nicht geöffnet werden."
+
+msgid "Sorry, could not save this file."
+msgstr "Bedauere, diese Datei konnte nicht gesichert werden."
+
+msgid "Sorry, not enough memory to create a preview."
+msgstr "Nicht genug Speicher für Voransicht."
+
+msgid "Sorry, print preview needs a printer to be installed."
+msgstr "Tut mir leid: Die Druck-Vorschau benötigt einen installierten Drucker"
+
+msgid "Sorry, the format for this file is unknown."
+msgstr "Bedauere, das Format dieser Datei ist unbekannt."
+
+msgid "Sound data are in unsupported format."
+msgstr "Klang Daten haben ein nicht unterstütztes Format."
+
+msgid "Sound file '%s' is in unsupported format."
+msgstr "Klang Datei '%s' besitzt ein nicht unterstütztes Format."
+
+msgid "Statement, 5 1/2 x 8 1/2 in"
+msgstr "Statement, 5 1/2 x 8 1/2 Zoll"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Status: "
+msgstr "Status: "
+
+msgid "Streaming delegates for not already streamed objects not yet supported"
+msgstr ""
+"Streaming delegates sind noch nicht unterstützt, wenn es sich nicht bereits "
+"um streaming objects handelt"
+
+msgid "String To Colour : Incorrect colour specification : %s"
+msgstr "StringTo Colour: Falsche Farb-Angabe '%s'"
+
+msgid "String conversions not supported"
+msgstr "Umwandlung in String wird nicht unterstützt"
+
+msgid "Subclass '%s' not found for resource '%s', not subclassing!"
+msgstr ""
+"Unterklasse '%s' für Resource '%s' nicht gefunden, keine Unterklasse "
+"erstellt !"
+
+msgid "SuperA/SuperA/A4 227 x 356 mm"
+msgstr "SuperA/SuperA/A4 227 x 356 mm"
+
+msgid "SuperB/SuperB/A3 305 x 487 mm"
+msgstr "SuperB/SuperB/A3 305 x 487 mm"
+
+msgid "Swiss"
+msgstr "Swiss"
+
+msgid "TIFF library error."
+msgstr "Fehler in TIFF-Bibliothek."
+
+msgid "TIFF library warning."
+msgstr "Warnung in TIFF-Bibliothek."
+
+msgid "TIFF: Couldn't allocate memory."
+msgstr "TIFF: Speicheranforderung gescheitert."
+
+msgid "TIFF: Error loading image."
+msgstr "TIFF: Fehler beim Laden des Bildes."
+
+msgid "TIFF: Error reading image."
+msgstr "TIFF: Fehler beim Lesen des Bildes."
+
+msgid "TIFF: Error saving image."
+msgstr "TIFF: Schreibfehler beim Sichern."
+
+msgid "TIFF: Error writing image."
+msgstr "TIFF: Schreibfehler beim Sichern."
+
+msgid "Tabloid Extra 11.69 x 18 in"
+msgstr "Tabloid Extra 11.69 x 18 Zoll"
+
+msgid "Tabloid, 11 x 17 in"
+msgstr "Tabloid, 11 x 17 Zoll"
+
+msgid "Teletype"
+msgstr "Schreibmaschine"
+
+msgid "Templates"
+msgstr "Vorlagen"
+
+msgid "Thai (ISO-8859-11)"
+msgstr "Thai (ISO-8859-11)"
+
+msgid "The FTP server doesn't support passive mode."
+msgstr "Der FTP-Server unterstützt den passiven Transfermodus nicht."
+
+msgid "The FTP server doesn't support the PORT command."
+msgstr "Der FTP-Server unterstützt nicht das PORT Kommando."
+
+msgid ""
+"The charset '%s' is unknown. You may select\n"
+"another charset to replace it with or choose\n"
+"[Cancel] if it cannot be replaced"
+msgstr ""
+"Die Zeichensatz '%s' ist nicht bekannt. Wählen Sie \n"
+"einen Ersatzzeichensatz oder 'Abbruch', \n"
+"falls er nicht ersetzt werden kann."
+
+msgid "The clipboard format '%d' doesn't exist."
+msgstr "Das Format '%d' für die Zwischenablage existiert nicht."
+
+msgid ""
+"The directory '%s' does not exist\n"
+"Create it now?"
+msgstr ""
+"Verzeichnis '%s' existiert nicht.\n"
+"Soll es erstellt werden ?"
+
+msgid ""
+"The file '%s' couldn't be opened.\n"
+"It has been removed from the most recently used files list."
+msgstr ""
+"Die Datei '%s' konnte nicht geöffnet werden.\n"
+"Sie wurde aus der Liste kürzlich verwendeter Dateien entfernt."
+
+msgid ""
+"The file '%s' doesn't exist and couldn't be opened.\n"
+"It has been removed from the most recently used files list."
+msgstr ""
+"Die Datei '%s' existiert nicht und konnte nicht geöffnet werden.\n"
+"Sie wurde aus der Liste kürzlich verwendeter Dateien entfernt."
+
+msgid "The font colour."
+msgstr "Die Schriftfarbe."
+
+msgid "The font family."
+msgstr "Die Schriftart."
+
+msgid "The font point size."
+msgstr "Die Schriftgröße in Punkten."
+
+msgid "The font style."
+msgstr "Die Schriftschitt."
+
+msgid "The font weight."
+msgstr "Die Schriftdicke."
+
+msgid "The path '%s' contains too many \"..\"!"
+msgstr "Der Pfad '%s' enthält zu viele \"..\"."
+
+msgid ""
+"The report contains the files listed below. If any of these files contain "
+"private information,\n"
+"please uncheck them and they will be removed from the report.\n"
+msgstr ""
+"Der Fehlerbericht enthält die unten aufgelisteten Dateien. Bitte stellen Sie "
+"sicher, dass alle Dateien,\n"
+" die vertrauliche Informationen enthalten, nicht ausgewählt sind; sie werden "
+"dann aus dem Fehlerbericht entfernt.\n"
+
+msgid "The required parameter '%s' was not specified."
+msgstr "Der benötigte Parameter '%s' wurde nicht angegeben."
+
+msgid "The text couldn't be saved."
+msgstr "Der Text konnte nicht gesichert werden."
+
+msgid "The value for the option '%s' must be specified."
+msgstr "Der Wert für die Option '%s' muss angegeben werden"
+
+msgid ""
+"The version of remote access service (RAS) installed on this machine is "
+"tooold, please upgrade (the following required function is missing: %s)."
+msgstr ""
+"Der installierte RAS-Dienst Version ist zu alt, bitte auf den neusten Stand "
+"bringen (folgende Funktion fehlt: %s)."
+
+msgid ""
+"There was a problem during page setup: you may need to set a default printer."
+msgstr ""
+"Es gab ein Problem bei der Seiteneinrichtung: eventuell müssen Sie einen\n"
+"Standarddrucker einrichten."
+
+msgid ""
+"This system doesn't support date picker control, please upgrade your version "
+"of comctl32.dll"
+msgstr ""
+"Dieses System unterstützt nicht die Komponente zur Darstellung der "
+"Datumsauswahl. Installieren Sie bitte eine neuere Version der comctl32.dll."
+
+msgid ""
+"Thread module initialization failed: can not store value in thread local "
+"storage"
+msgstr ""
+"Thread-Modul-Initialisierung gescheitert: Kann den Wert nicht im lokalen "
+"Speicherbereich des Thread gespeichert werden"
+
+msgid "Thread module initialization failed: failed to create thread key"
+msgstr ""
+"Thread-Modul-Initialisierung gescheitert: Thread-Schlüssel konnte nicht "
+"erstellt werden"
+
+msgid ""
+"Thread module initialization failed: impossible to allocate index in thread "
+"local storage"
+msgstr ""
+"Thread-Modul-Initialisierung gescheitert: Index konnte nicht im lokalen "
+"Speicherbereich des Thread allokiert werden"
+
+msgid "Thread priority setting is ignored."
+msgstr "Thread Prioritätseinstellung wird ignoriert"
+
+msgid "Tile &Horizontally"
+msgstr "Horizontal anordnen"
+
+msgid "Tile &Vertically"
+msgstr "Vertikal anordnen"
+
+msgid "Timeout while waiting for FTP server to connect, try passive mode."
+msgstr ""
+"Timeout beim Warten auf eine Verbindung zum FTP-Server, versuchen Sie "
+"passiven Modus."
+
+msgid "Timer creation failed."
+msgstr "Konnte Zeitgeber nicht anlegen"
+
+msgid "Tip of the Day"
+msgstr "Tipp des Tages"
+
+msgid "Tips not available, sorry!"
+msgstr "Bedauere, Tipps stehen nicht zur Verfügung"
+
+msgid "To:"
+msgstr "Bis:"
+
+msgid "Too many colours in PNG, the image may be slightly blurred."
+msgstr "Zu viele Farben in PNG; das Bild wird vielleicht verschmiert angezeigt."
+
+msgid "Top margin (mm):"
+msgstr "Oberer Rand (mm):"
+
+msgid "Trying to remove file '%s' from memory VFS, but it is not loaded!"
+msgstr ""
+"Beim Versuch, die Datei '%s' aus dem VFS-Speicher zu entfernen, wurde "
+"festgestellt, daß sie gar nicht geladen war!"
+
+msgid "Trying to solve a NULL hostname: giving up"
+msgstr "Beim Versuch, einen  NULL-Hostnamen aufzulösen, gebe ich auf"
+
+msgid "Turkish (ISO-8859-9)"
+msgstr "Türkisch (ISO-8859-9)"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Type must have enum - long conversion"
+msgstr "Typ muss eine enum-long Umwandlung haben"
+
+msgid "US Std Fanfold, 14 7/8 x 11 in"
+msgstr "US Std Endlospapier, 14 7/8 x 11 Zoll"
+
+msgid "Unable to open requested HTML document: %s"
+msgstr "Das angeforderte HTML-Dokument konnte nicht geöffnet werden: %s"
+
+msgid "Unable to play sound asynchronously."
+msgstr "Der Klang kann nicht asynchron abgespielt werden."
+
+msgid "Undelete"
+msgstr "Löschen rückgängig machen"
+
+msgid "Unexpected end of file while parsing resource."
+msgstr "Unerwartetes Dateiende beim Parsen der Ressource."
+
+msgid "Unexpected parameter '%s'"
+msgstr "Unerwarteter Parameter '%s'"
+
+msgid "Unicode 16 bit (UTF-16)"
+msgstr "Unicode 16 bit (UTF-16)"
+
+msgid "Unicode 16 bit Big Endian (UTF-16BE)"
+msgstr "Unicode 16 Bit Big Endian (UTF-16BE)"
+
+msgid "Unicode 16 bit Little Endian (UTF-16LE)"
+msgstr "Unicode 16 Bit Little Endian (UTF-16LE)"
+
+msgid "Unicode 32 bit (UTF-32)"
+msgstr "Unicode 32 Bit (UTF-32)"
+
+msgid "Unicode 32 bit Big Endian (UTF-32BE)"
+msgstr "Unicode 32 Bit Big Endian (UTF-32BE)"
+
+msgid "Unicode 32 bit Little Endian (UTF-32LE)"
+msgstr "Unicode 32 Bit Little Endian (UTF-32LE)"
+
+msgid "Unicode 7 bit (UTF-7)"
+msgstr "Unicode 7 bit (UTF-7)"
+
+msgid "Unicode 8 bit (UTF-8)"
+msgstr "Unicode 8 bit (UTF-8)"
+
+msgid "Unknown DDE error %08x"
+msgstr "Unbekannter DDE-Fehler %08x"
+
+msgid "Unknown Object passed to GetObjectClassInfo"
+msgstr "Unbekanntes Objekt an GetObjectClassInfo übergeben"
+
+msgid "Unknown dynamic library error"
+msgstr "Unbekannter Fehler bei der Behandlung von dynamischer Bibliothek."
+
+msgid "Unknown encoding (%d)"
+msgstr "Unbekannte Kodierung (%d)"
+
+msgid "Unknown long option '%s'"
+msgstr "Unbekannte 'long'-Option '%s'"
+
+msgid "Unknown option '%s'"
+msgstr "Unbekannte Option '%s'"
+
+msgid "Unknown style flag "
+msgstr "Unbekanntes Flag für den Stil "
+
+msgid "Unkown Property %s"
+msgstr "Unbekannte Eigenschaften %s"
+
+msgid "Unmatched '{' in an entry for mime type %s."
+msgstr "Unzutreffendes '{'-Zeichen in einem Eintrag des MIME-Typs %s."
+
+msgid "Unnamed command"
+msgstr "Unbenanntes Kommando"
+
+msgid "Unrecognized style %s while parsing resource."
+msgstr "Unbekannter Stil %s beim Parsen der Ressource."
+
+msgid "Unsupported clipboard format."
+msgstr "Nicht unterstütztes Format in der Zwischenablage."
+
+msgid "Unsupported theme '%s'."
+msgstr "Unbekanntes Thema '%s'."
+
+msgid "Up"
+msgstr "Hoch"
+
+msgid "Usage: %s"
+msgstr "Verwendung: %s"
+
+msgid "Validation conflict"
+msgstr "Verifizierungs Konflikt"
+
+msgid "Video Output"
+msgstr "Video-Ausgabe"
+
+msgid "View files as a detailed view"
+msgstr "Dateien mit Details anzeigen"
+
+msgid "View files as a list view"
+msgstr "Dateien als Liste anzeigen"
+
+msgid "Views"
+msgstr "Darstellung"
+
+msgid "Waiting for subprocess termination failed"
+msgstr "Wartezeit für das Ende eines Subprozesses abgelaufen"
+
+msgid "Warning"
+msgstr "Warnung"
+
+msgid "Warning: "
+msgstr "Warnung: "
+
+msgid "Warning: attempt to remove HTML tag handler from empty stack."
+msgstr ""
+"Warnung: Es wurde versucht, einen 'HTML-Tag-Handler' von einem leeren Stack "
+"zu entfernen."
+
+msgid "Western European (ISO-8859-1)"
+msgstr "Westeuropäisch (ISO-8859-1)"
+
+msgid "Western European with Euro (ISO-8859-15)"
+msgstr "Westeuropäisch mit Euro (ISO-8859-15)"
+
+msgid "Whether the font is underlined."
+msgstr "Ob der Schrifttyp unterstrichen ist."
+
+msgid "Whole word"
+msgstr "Ganzes Wort"
+
+msgid "Whole words only"
+msgstr "Nur ganze Worte"
+
+msgid "Win32 theme"
+msgstr "Win32 Thema"
+
+msgid "Win32s on Windows 3.1"
+msgstr "Win32s on Windows 3.1"
+
+msgid "Windows 2000 (build %lu"
+msgstr "Windows 2000 (build %lu"
+
+msgid "Windows 95"
+msgstr "Windows 95"
+
+msgid "Windows 95 OSR2"
+msgstr "Windows 95 OSR2"
+
+msgid "Windows 98"
+msgstr "Windows 98"
+
+msgid "Windows 98 SE"
+msgstr "Windows 98 SE"
+
+msgid "Windows 9x (%d.%d)"
+msgstr "Windows 9x (%d.%d)"
+
+msgid "Windows Arabic (CP 1256)"
+msgstr "Windows Arabisch (CP 1256)"
+
+msgid "Windows Baltic (CP 1257)"
+msgstr "Windows Baltisch (CP 1257)"
+
+msgid "Windows Central European (CP 1250)"
+msgstr "Windows Zentral Europäisch (CP 1250)"
+
+msgid "Windows Chinese Simplified (CP 936)"
+msgstr "Windows Vereinfachtes Chinesisch (CP 936)"
+
+msgid "Windows Chinese Traditional (CP 950)"
+msgstr "Windows Traditionelles Chinesisch (CP 950)"
+
+msgid "Windows Cyrillic (CP 1251)"
+msgstr "Windows Kyrillisch (CP 1251)"
+
+msgid "Windows Greek (CP 1253)"
+msgstr "Windows Griechisch (CP 1253)"
+
+msgid "Windows Hebrew (CP 1255)"
+msgstr "Windows Hebräisch (CP 1255)"
+
+msgid "Windows Japanese (CP 932)"
+msgstr "Windows Japanisch (CP 932)"
+
+msgid "Windows Korean (CP 949)"
+msgstr "Windows Koreanisch (CP 949)"
+
+msgid "Windows ME"
+msgstr "Windows ME"
+
+msgid "Windows NT %lu.%lu (build %lu"
+msgstr "Windows NT %lu.%lu (build %lu"
+
+msgid "Windows Server 2003 (build %lu"
+msgstr "Windows Server 2003 (build %lu"
+
+msgid "Windows Thai (CP 874)"
+msgstr "Windows Thailändisch (CP 874)"
+
+msgid "Windows Turkish (CP 1254)"
+msgstr "Windows Türkisch (CP 1254)"
+
+msgid "Windows Western European (CP 1252)"
+msgstr "Windows West Europäisch (CP 1252)"
+
+msgid "Windows XP (build %lu"
+msgstr "Windows XP (build %lu"
+
+msgid "Windows/DOS OEM (CP 437)"
+msgstr "Windows/DOS OEM (CP 437)"
+
+msgid "Write error on file '%s'"
+msgstr "Schreibfehler bei Datei '%s'"
+
+msgid "XML parsing error: '%s' at line %d"
+msgstr "Fehler beim Lesen des XML: '%s' in Zeile %d"
+
+msgid "XPM: Malformed pixel data!"
+msgstr "XPM: Pixel-Daten in falscher Form !"
+
+msgid "XRC resource '%s' (class '%s') not found!"
+msgstr "XRC Resource '%s' (Klasse '%s') nicht gefunden !"
+
+msgid "XRC resource: Cannot create bitmap from '%s'."
+msgstr "XRC Resource: Kann aus '%s' keine Bitmap erstellen."
+
+msgid "XRC resource: Incorrect colour specification '%s' for property '%s'."
+msgstr "XRC Resource: Falsche Farb-Angabe '%s' für Eigenschaft '%s'."
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You cannot add a new directory to this section."
+msgstr "Sie können hier kein neues Verzeichnis anlegen."
+
+msgid "Zoom &In"
+msgstr "Ver&größern"
+
+msgid "Zoom &Out"
+msgstr "Ver&kleinern"
+
+msgid "Zoom to &Fit"
+msgstr "&Passende Grösse"
+
+msgid "[EMPTY]"
+msgstr "[leer]"
+
+msgid "a DDEML application has created a prolonged race condition."
+msgstr "Eine DDEML-Anwendung hat eine 'prolonged race condition' ausgeloest."
+
+msgid ""
+"a DDEML function was called without first calling the DdeInitialize "
+"function,\n"
+"or an invalid instance identifier\n"
+"was passed to a DDEML function."
+msgstr ""
+"Eine DDEML-Funktion wurde aufgerufen, ohne vorher die Deinitialisierungs- "
+"Funktion aufzurufen,\n"
+"oder ein ungültiger 'instance identifier'\n"
+"wurde an eine DDEML-Funktion übergeben."
+
+msgid "a client's attempt to establish a conversation has failed."
+msgstr ""
+"Der Versuch eines Clients, eine Verbindung herzustellen, ist gescheitert."
+
+msgid "a memory allocation failed."
+msgstr "Eine Speicheranforderung ist gescheitert."
+
+msgid "a parameter failed to be validated by the DDEML."
+msgstr "Ein Parameter wurde von DDEML nicht verifiziert."
+
+msgid "a request for a synchronous advise transaction has timed out."
+msgstr ""
+"Eine Anfrage für eine 'synchronous advise transaction' ist gescheitert (time-"
+"out)"
+
+msgid "a request for a synchronous data transaction has timed out."
+msgstr ""
+"Eine Anfrage für eine 'synchronous data transaction' ist gescheitert (time-"
+"out)"
+
+msgid "a request for a synchronous execute transaction has timed out."
+msgstr ""
+"Eine Anfrage für eine 'synchronous execute transaction' ist gescheitert (time-"
+"out)"
+
+msgid "a request for a synchronous poke transaction has timed out."
+msgstr ""
+"Eine Anfrage für eine 'synchronous poke transaction' ist gescheitert (time-"
+"out)"
+
+msgid "a request to end an advise transaction has timed out."
+msgstr ""
+"Eine Anfrage, eine 'advise transaction' zu beenden ist, gescheitert (time-out)"
+
+msgid ""
+"a server-side transaction was attempted on a conversation\n"
+"that was terminated by the client, or the server\n"
+"terminated before completing a transaction."
+msgstr ""
+"Ein Verbindungs-Versuch vom Server\n"
+"wurde vom Client abgebrochen, oder der Server\n"
+"terminierte bevor die Transaktion vollständig beendet wurde."
+
+msgid "a transaction failed."
+msgstr "Eine Transaktion ist gescheitert."
+
+msgid "alt"
+msgstr "alt"
+
+msgid ""
+"an application initialized as APPCLASS_MONITOR has\n"
+"attempted to perform a DDE transaction,\n"
+"or an application initialized as APPCMD_CLIENTONLY has \n"
+"attempted to perform server transactions."
+msgstr ""
+"Eine Anwendung, die als ein 'APPCLASS_MONITOR' gestartet wurde, \n"
+"versuchte eine DDE-Transaktion auszuführen,\n"
+"oder eine Anwendung, die als ein 'APPCMD_CLIENTONLY' gestartet wurde, \n"
+"versuchte eine Server-Transaktion auszuführen."
+
+msgid "an internal call to the PostMessage function has failed. "
+msgstr "Ein interner Aufruf zur 'PostMessage'-Funktion ist gescheitert. "
+
+msgid "an internal error has occurred in the DDEML."
+msgstr "Ein interne Fehler ist im DDMEL aufgetreten."
+
+msgid ""
+"an invalid transaction identifier was passed to a DDEML function.\n"
+"Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
+"the transaction identifier for that callback is no longer valid."
+msgstr ""
+"Eine ungültige Transaktions-Identifizierung wurde an eine DDEML-Funktion "
+"übergeben.\n"
+"Sobald die Anwendung aus einem 'XTYP_XACT_COMPLETE'-Callback zurückgekehrt "
+"ist,\n"
+"ist die Transaktions-Identifizierung für dieses Callback nicht mehr gültig."
+
+msgid "assuming this is a multi-part zip concatenated"
+msgstr "Nehme mehrteiliges, konkateniertes Zip an."
+
+msgid "attempt to change immutable key '%s' ignored."
+msgstr "Versuch, Eintrag '%s' zu ändern, verweigert. Ist nicht schreibbar."
+
+msgid "bad arguments to library function"
+msgstr "Falsche Argumente für die Bibliotheks-Funktion"
+
+msgid "bad signature"
+msgstr "Falsche Unterschrift"
+
+msgid "bad zipfile offset to entry"
+msgstr "Falsches Offset zum Einsprung in der Zipdatei."
+
+msgid "binary"
+msgstr "binär"
+
+msgid "bold"
+msgstr "fett"
+
+msgid "buffer is too small for Windows directory."
+msgstr "Puffer zu klein für Windowsverzeichnis."
+
+msgid "can't close file '%s'"
+msgstr "Kann Datei '%s' nicht schließen"
+
+msgid "can't close file descriptor %d"
+msgstr "Kann Dateibeschreibung '%d' nicht schließen"
+
+msgid "can't commit changes to file '%s'"
+msgstr "Kann Änderungen in Datei '%s' nicht sichern."
+
+msgid "can't create file '%s'"
+msgstr "Kann Datei '%s' nicht anlegen."
+
+msgid "can't delete user configuration file '%s'"
+msgstr "Kann  Konfigurations-Datei '%s' nicht löschen."
+
+msgid "can't determine if the end of file is reached on descriptor %d"
+msgstr "Kann auf Dateibeschreibung '%d' das Dateiende nicht Feststellen"
+
+msgid "can't execute '%s'"
+msgstr "Kann '%s' nicht ausführen"
+
+msgid "can't find central directory in zip"
+msgstr "Kann Zentralverzeichnis im Zip nicht finden."
+
+msgid "can't find length of file on file descriptor %d"
+msgstr "Kann auf Dateibeschreibung '%d' die Dateilänge nicht finden"
+
+msgid "can't find user's HOME, using current directory."
+msgstr "Kann Benutzerverzeichnis nicht finden, verwende aktuelles Verzeichnis."
+
+msgid "can't flush file descriptor %d"
+msgstr "Kann auf die Dateibeschreibung '%d' nicht entladen"
+
+msgid "can't get seek position on file descriptor %d"
+msgstr "Kann auf die Dateibeschreibung %d nicht positionieren"
+
+msgid "can't load any font, aborting"
+msgstr "Kann keine Fonts mehr laden, Abbruch"
+
+msgid "can't open file '%s'"
+msgstr "Kann Datei '%s' nicht öffnen"
+
+msgid "can't open global configuration file '%s'."
+msgstr "Kann globale Konfigurations-Datei '%s' nicht öffnen."
+
+msgid "can't open user configuration file '%s'."
+msgstr "Kann Konfigurations-Datei '%s' nicht öffnen."
+
+msgid "can't open user configuration file."
+msgstr "Kann Benutzer-Konfigurations-Datei nicht öffnen."
+
+msgid "can't re-initialize zlib deflate stream"
+msgstr "Kann den zlib deflate-stream nicht reinitialisieren,"
+
+msgid "can't re-initialize zlib inflate stream"
+msgstr "Kann den zlib inflate-stream nicht reinitialisieren,"
+
+msgid "can't read from file descriptor %d"
+msgstr "Kann Dateibeschreibung '%d' nicht lesen"
+
+msgid "can't remove file '%s'"
+msgstr "Kann Datei '%s' nicht löschen."
+
+msgid "can't remove temporary file '%s'"
+msgstr "Kann Temporärdatei '%s' nicht löschen"
+
+msgid "can't seek on file descriptor %d"
+msgstr "Kann auf die Dateibeschreibung '%d' nicht suchen"
+
+msgid "can't write buffer '%s' to disk."
+msgstr "Kann den Puffer '%s' nicht schreiben."
+
+msgid "can't write to file descriptor %d"
+msgstr "Kann Dateibeschreibung '%d' nicht schreiben"
+
+msgid "can't write user configuration file."
+msgstr "Kann Benutzer-Konfigurations-Datei nicht schreiben."
+
+msgid "catalog file for domain '%s' not found."
+msgstr "Nachrichtenkatalog für Sprachbereich '%s' nicht gefunden."
+
+msgid "checksum error"
+msgstr "Prüfsummen-Fehler"
+
+msgid "compression error"
+msgstr "Fehler beim Komprimieren"
+
+msgid "conversion to 8-bit encoding failed"
+msgstr "Umwandlung in 8-Bit Codierung fehlgeschlagen"
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "date"
+msgstr "Datum"
+
+msgid "decompression error"
+msgstr "Fehler beim Entktpacken"
+
+msgid "default"
+msgstr "Standard"
+
+msgid "delegate has no type info"
+msgstr "Delegate hat keine Typ-Info"
+
+msgid "dump of the process state (binary)"
+msgstr "Dump des bearbeiteten Zustands (binär)"
+
+msgid "eighteenth"
+msgstr "achtzehnte"
+
+msgid "eighth"
+msgstr "achte"
+
+msgid "eleventh"
+msgstr "elfte"
+
+msgid "entry '%s' appears more than once in group '%s'"
+msgstr "Eintrag '%s' erscheint in Gruppe '%s' mehrfach"
+
+msgid "error in data format"
+msgstr "Fehler im Datenformat"
+
+msgid "error opening '%s'"
+msgstr "Fehler beim Öffnen von '%s'"
+
+msgid "error opening file"
+msgstr "Fehler beim Öffnen der Datei"
+
+msgid "error reading zip central directory"
+msgstr "Fehler beim Lesen des Zentralverzeichnisses im Zip"
+
+msgid "error reading zip local header"
+msgstr "Fehler beim Lesen des lokalen Headers in Zipdatei."
+
+msgid "error writing zip entry '%s': bad crc or length"
+msgstr ""
+"Fehler beim Schreiben von Zip-Eintrag '%s': Falsche Prüfsumme oder Länge."
+
+msgid "establish"
+msgstr "Verbunden"
+
+msgid "failed to flush the file '%s'"
+msgstr "Versuch, die Datei '%s' zu entladen, gescheitert"
+
+msgid "fifteenth"
+msgstr "fünfzehnte"
+
+msgid "fifth"
+msgstr "fünfte"
+
+msgid "file '%s', line %d: '%s' ignored after group header."
+msgstr "Datei '%s', Zeile %d: '%s' hinter Gruppenkopf ignoriert."
+
+msgid "file '%s', line %d: '=' expected."
+msgstr "Datei '%s', Zeile %d: '=' erwartet."
+
+msgid "file '%s', line %d: key '%s' was first found at line %d."
+msgstr "Datei '%s', Zeile %d: Eintrag '%s' taucht erstmals in Zeile %d auf."
+
+msgid "file '%s', line %d: value for immutable key '%s' ignored."
+msgstr "Datei '%s', Zeile %d: Wert für nicht-änderbaren Eintrag '%s' ignoriert."
+
+msgid "file '%s': unexpected character %c at line %d."
+msgstr "Datei '%s': unerwartetes Zeichen %c in Zeile %d."
+
+msgid "first"
+msgstr "erste"
+
+msgid "font size"
+msgstr "Font Größe:"
+
+msgid "fourteenth"
+msgstr "vierzehnte"
+
+msgid "fourth"
+msgstr "vierte"
+
+msgid "generate verbose log messages"
+msgstr "ausführliche Log-Nachrichten erstellen"
+
+msgid "incorrect event handler string, missing dot"
+msgstr "Event-Handler-String falsch, Punkt fehlt"
+
+msgid "initiate"
+msgstr "einleiten"
+
+msgid "invalid eof() return value."
+msgstr "ungültiger 'eof()'-Rückgabewert."
+
+msgid "invalid message box return value"
+msgstr "ungültiger 'message box'-Rückgabewert."
+
+msgid "invalid zip file"
+msgstr "Ungültige Zip-Datei."
+
+msgid "italic"
+msgstr "kursiv"
+
+msgid "light"
+msgstr "dünn"
+
+msgid "locale '%s' can not be set."
+msgstr "Lokale Umgebung '%s' kann nicht gesetzt werden."
+
+msgid "looking for catalog '%s' in path '%s'."
+msgstr "Suche Nachrichtenkatalog '%s' in Pfad '%s'."
+
+msgid "midnight"
+msgstr "Mitternacht"
+
+msgid "nineteenth"
+msgstr "neunzehnte"
+
+msgid "ninth"
+msgstr "neunte"
+
+msgid "no DDE error."
+msgstr "kein DDE-Fehler"
+
+msgid "no error"
+msgstr "kein Fehler"
+
+msgid "noname"
+msgstr "namenlos"
+
+msgid "noon"
+msgstr "mittags"
+
+msgid "num"
+msgstr "num"
+
+msgid "objects cannot have XML Text Nodes"
+msgstr "Objekte können keine XML-Text-Knoten haben"
+
+msgid "out of memory"
+msgstr "nicht genug Speicher."
+
+msgid "process context description"
+msgstr "Bearbeite Kontextbeschreibung."
+
+msgid "read error"
+msgstr "Lesefehler"
+
+msgid "reading"
+msgstr "Lesen"
+
+msgid "reading zip stream (entry %s): bad crc"
+msgstr "Beim Lesen von Zipstream (Eintrag %s): Falsche Prüfsumme."
+
+msgid "reading zip stream (entry %s): bad length"
+msgstr "Beim Lesen von Zipstream (Eintrag %s): Falsche Länge."
+
+msgid "reentrancy problem."
+msgstr "Probleme beim Wiedereintreten"
+
+msgid "second"
+msgstr "zweite"
+
+msgid "seek error"
+msgstr "Seek-Fehler"
+
+msgid "seventeenth"
+msgstr "siebzehnte"
+
+msgid "seventh"
+msgstr "siebte"
+
+msgid "shift"
+msgstr "Umschalt"
+
+msgid "show this help message"
+msgstr "Zeige diesen Hilfstext"
+
+msgid "sixteenth"
+msgstr "sechzehnte"
+
+msgid "sixth"
+msgstr "sechste"
+
+msgid "specify display mode to use (e.g. 640x480-16)"
+msgstr "Geben Sie eine zu verwendende Bildschirmauflösung ein (Z.B. 640x48-16)"
+
+msgid "specify the theme to use"
+msgstr "geben Sie das zu benutzende Thema an"
+
+msgid "stored file length not in Zip header"
+msgstr "Länger der mit 'store' gespeicherten Datei nicht im Zip-Header."
+
+msgid "str"
+msgstr "str"
+
+msgid "tenth"
+msgstr "zehnte"
+
+msgid "the response to the transaction caused the DDE_FBUSY bit to be set."
+msgstr "das Ergebnis zur Transaktion hat der 'DDE_FBUSY'-Bit gesetzt."
+
+msgid "third"
+msgstr "dritte"
+
+msgid "thirteenth"
+msgstr "dreizehnte"
+
+msgid "tiff module: %s"
+msgstr "Tiff-Modul: %s"
+
+msgid "today"
+msgstr "heute"
+
+msgid "tomorrow"
+msgstr "morgen"
+
+msgid "twelfth"
+msgstr "zwölfte"
+
+msgid "twentieth"
+msgstr "zwanzigste"
+
+msgid "underlined"
+msgstr "unterstrichen"
+
+msgid "unexpected \" at position %d in '%s'."
+msgstr "unerwartetes \" an Position %d in '%s'."
+
+msgid "unknown"
+msgstr "unbekannt"
+
+msgid "unknown class %s"
+msgstr "Unbekannte Klasse %s"
+
+msgid "unknown error"
+msgstr "unbekannter Fehler"
+
+msgid "unknown error (error code %08x)."
+msgstr "unbekannter Fehler (Fehlercode %08x)."
+
+msgid "unknown line terminator"
+msgstr "Unbekanntes Zeilenende"
+
+msgid "unknown seek origin"
+msgstr "Unbekannte Suchposition"
+
+msgid "unknown-%d"
+msgstr "unbekannt-%d"
+
+msgid "unnamed"
+msgstr "Unbenannt"
+
+msgid "unnamed%d"
+msgstr "Unbenannt%d"
+
+msgid "unsupported Zip compression method"
+msgstr "Nicht unterstütztes Zip-Kompressionsformat."
+
+msgid "using catalog '%s' from '%s'."
+msgstr "Verwende Nachrichtenkatalog '%s' von '%s'."
+
+msgid "write error"
+msgstr "Schreibfehler"
+
+msgid "writing"
+msgstr "Schreiben"
+
+msgid "wxGetTimeOfDay failed."
+msgstr "wxGetTimeOfDay gescheitert."
+
+msgid "wxSocket: invalid signature in ReadMsg."
+msgstr "wxSocket: ungültige Signatur in ReadMsg."
+
+msgid "wxSocket: unknown event!."
+msgstr "wxSocket: unbekanntes Ereignis!."
+
+msgid "wxWidgets could not open display for '%s': exiting."
+msgstr "wxWidgets konnte 'open display' nicht ausführen für '%s': Abbruch."
+
+msgid "wxWidgets could not open display. Exiting."
+msgstr "wxWidgets konnte Display nicht öffnen: Abbruch."
+
+msgid "yesterday"
+msgstr "Gestern"
+
+msgid "zlib error %d"
+msgstr " zlib-Fehler %d"
+
+msgid "|<<"
+msgstr "|<<"
