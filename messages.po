@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-17 07:53+0100\n"
-"PO-Revision-Date: 2021-01-22 19:31+0100\n"
+"PO-Revision-Date: 2021-01-27 17:31+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -188,7 +188,7 @@ msgid "&Mode"
 msgstr "&Modus"
 
 msgid "&Move to"
-msgstr "&Gehe zu"
+msgstr "&Position anfahren"
 
 msgid "&New"
 msgstr "&Neu"
@@ -806,7 +806,7 @@ msgid "Create a new Vire cutting operation"
 msgstr "Neue Drahtschnittwerkzeugoperation erstellen"
 
 msgid "Create a new code snippet"
-msgstr "Neuen Codeschnipsel erstellen"
+msgstr "Codeschnipsel erstellen"
 
 msgid "Create a new contour operation"
 msgstr "Neue Konturoperation erstellen"
@@ -848,7 +848,7 @@ msgid "Create a new raster engraving operation"
 msgstr "Erstelle eine neue Rastergravur Operation"
 
 msgid "Create a new rotary tool"
-msgstr "Neues spanendes Werkzeug erstellen"
+msgstr "Neues Werkzeug erstellen"
 
 msgid "Create a new spiral pocket operation"
 msgstr "Neue Spiraltaschen Operation erstellen"
@@ -1256,7 +1256,7 @@ msgid "End sequence"
 msgstr "Ende Ablauf"
 
 msgid "Enter a name for the new bar"
-msgstr "Name für neuen Werkzeugleiste eingeben"
+msgstr "Name für neue Werkzeugleiste eingeben"
 
 msgid "Enter a name for the rule set"
 msgstr "Namen für Regelsatz eingeben"
@@ -1378,7 +1378,7 @@ msgid "Finish allowance"
 msgstr "Schlichtaufmaß"
 
 msgid "Finish depth"
-msgstr "Zieltiefe"
+msgstr "Endtiefe"
 
 msgid "Fit to material"
 msgstr "An Material anpassen"
@@ -1495,7 +1495,7 @@ msgid "Highlight"
 msgstr "Hervorhebung"
 
 msgid "Holding tabs"
-msgstr "Halte Stege"
+msgstr "Haltestege"
 
 msgid "Horizontal"
 msgstr "Horizontal"
@@ -1540,7 +1540,7 @@ msgid "Import a drawing into this part"
 msgstr "Importiere eine Zeichnung in dieses Teil"
 
 msgid "Import drawing"
-msgstr "Importiere Zeichnung"
+msgstr "Zeichnung importieren"
 
 msgid "Import drawing into new part"
 msgstr "Zeichnung in neues Teil importieren"
@@ -1589,7 +1589,7 @@ msgid "Insert code "
 msgstr "Code einfügen "
 
 msgid "Insert code into the output file"
-msgstr "Code in Ausgabedatei einfügen"
+msgstr "Code einfügen"
 
 msgid "Insert code snippet "
 msgstr "Codeschnipsel einfügen "
@@ -1628,7 +1628,7 @@ msgid "Job file"
 msgstr "Job-Datei"
 
 msgid "Job file folder"
-msgstr "Jobdatei Ordner"
+msgstr "Job-Datei Ordner"
 
 msgid "Job files"
 msgstr "Job-Dateien"
@@ -1637,7 +1637,7 @@ msgid "Job files(*.job)"
 msgstr "Job-Dateien (*.job)"
 
 msgid "Job image"
-msgstr "Job Bild"
+msgstr "Job-Bild"
 
 msgid "Job options"
 msgstr "Job"
@@ -1649,10 +1649,10 @@ msgid "Job report"
 msgstr "Arbeitsbericht erstellen"
 
 msgid "Job template files"
-msgstr "Job Vorlagedateien"
+msgstr "Job-Vorlagedateien"
 
 msgid "JobTemplate"
-msgstr "Job Vorlage"
+msgstr "Job-Vorlage"
 
 msgid "Joining vertex ends"
 msgstr "Verbinde Scheitelpunktenden"
@@ -1769,7 +1769,7 @@ msgid "Load"
 msgstr "Laden"
 
 msgid "Load default toolset"
-msgstr "Lade Standardwerkzeugsatz"
+msgstr "Standardwerkzeugsatz laden"
 
 msgid "Load machine"
 msgstr "Lade Maschine"
@@ -1793,7 +1793,7 @@ msgid "Load path rule set"
 msgstr "Lade Pfad-Regelsatz"
 
 msgid "Load the default tool set"
-msgstr "Lade den Standardwerkzeugsatz"
+msgstr "Standardwerkzeugsatz laden"
 
 msgid "Load tools"
 msgstr "Lade Werkzeugsatz"
@@ -2014,10 +2014,10 @@ msgid "Move part"
 msgstr "Verschiebe Teil"
 
 msgid "Move to"
-msgstr "Gehe zu"
+msgstr "Position anfahren"
 
 msgid "Move to given coordinate"
-msgstr "Koordinate anfahren"
+msgstr "Position anfahren"
 
 msgid "Move to layer"
 msgstr "Verschiebe auf Lage"
@@ -2059,7 +2059,7 @@ msgid "New &jet cutting tool"
 msgstr "Neue Strahldüse"
 
 msgid "New &rotary tool"
-msgstr "Neues spanendes Werkzeug"
+msgstr "Neues Werkzeug"
 
 msgid "New X position"
 msgstr "Neue X-Position"
@@ -2101,7 +2101,7 @@ msgid "No Offset"
 msgstr "Kein Versatz"
 
 msgid "No Z move prior to toolchange"
-msgstr "Keine Z Bewegung vor dem Werkzeugwechsel"
+msgstr "Keine Z-Bewegung vor dem Werkzeugwechsel"
 
 msgid ""
 "No holes were found.\n"
@@ -2111,7 +2111,7 @@ msgstr ""
 "Überprüfen Sie die min. und max. Lochgröße."
 
 msgid "No move to safe Z after tool change"
-msgstr "Kein Verfahren zur sicheren Z-Höhe nach Werkzeugwechsel"
+msgstr "Kein Verfahren zur Sicherheitshöhe nach Werkzeugwechsel"
 
 msgid ""
 "No paths were generated. The tool may be too big\n"
@@ -2260,7 +2260,7 @@ msgid "Open a template job file"
 msgstr "Öffne eine Job-Datei-Vorlage"
 
 msgid "Open a tool set"
-msgstr "Öffne Werkzeugsatz"
+msgstr "Werkzeugsatz öffnen"
 
 msgid "Open command"
 msgstr "Öffne Kommando"
@@ -2269,10 +2269,10 @@ msgid "Open file"
 msgstr "Datei öffnen"
 
 msgid "Open job"
-msgstr "Öffne Job"
+msgstr "Job öffnen"
 
 msgid "Open job template"
-msgstr "Öffne eine Job Vorlage"
+msgstr "Job-Vorlage öffnen"
 
 msgid "Open license"
 msgstr "Lizenz öffnen"
@@ -2284,7 +2284,7 @@ msgid "Open line width"
 msgstr "Offene Linienbreite"
 
 msgid "Open part"
-msgstr "Öffne Teil"
+msgstr "Teil öffnen"
 
 msgid "Open paths"
 msgstr "Offener Pfad"
@@ -2296,22 +2296,22 @@ msgid "Open settings folder"
 msgstr "Einstellungsordner öffnen"
 
 msgid "Open the cutting rules editor"
-msgstr "Öffne den Schnittregeleditor"
+msgstr "Schnittregeleditor öffnen"
 
 msgid "Open the operation table editor"
 msgstr "Operationstabelle öffnen"
 
 msgid "Open the tool table editor"
-msgstr "Öffne den Werkzeugtabelleneditor"
+msgstr "Werkzeugtabelle öffnen"
 
 msgid "Open toolset"
-msgstr "Öffne Werkzeugsatz"
+msgstr "Werkzeugsatz öffnen"
 
 msgid "Operation"
 msgstr "Prozesse"
 
 msgid "Operation table"
-msgstr "Tabelle der Operationen"
+msgstr "Operationstabelle"
 
 msgid "Operations"
 msgstr "Operationen"
@@ -2660,13 +2660,13 @@ msgid "Recent files"
 msgstr "Aktuelle Dateien"
 
 msgid "Recent job templates"
-msgstr "Aktuelle Job Vorlagen"
+msgstr "Letzte Job-Vorlagen"
 
 msgid "Recent jobs"
-msgstr "Aktuelle Jobs"
+msgstr "Letzte Jobs"
 
 msgid "Recent parts"
-msgstr "Aktuelle Teile"
+msgstr "Letzte Teile"
 
 msgid "Rectangular section"
 msgstr "Rechteckige Sektion"
@@ -2699,7 +2699,7 @@ msgid "Remove duplicate lines"
 msgstr "Entferne doppelte Linien"
 
 msgid "Removing duplicate vectors"
-msgstr "Entferne duplizierte Vektoren"
+msgstr "Entferne doppelte Vektoren"
 
 msgid "Rename"
 msgstr "Umbenennen"
@@ -2732,13 +2732,13 @@ msgid "Reverse open paths"
 msgstr "Kehre offene Pfade um"
 
 msgid "Reverse selection"
-msgstr "Selektion umkehren"
+msgstr "Auswahl umkehren"
 
 msgid "Rigid tap"
 msgstr "Gewindebohrer"
 
 msgid "Rotary cutting (includes milling and routing)"
-msgstr "Spanendes Schneiden (beinhaltet Fräsen und Gravieren)"
+msgstr "Zerspanung (Fräsen, Bohren, Gewindeschneiden und Gravieren)"
 
 msgid "Rotary line drawing"
 msgstr "Rotationslinien Zeichnung"
@@ -2747,7 +2747,7 @@ msgid "Rotary plasma"
 msgstr "Rotary plasma"
 
 msgid "Rotary tool"
-msgstr "Spanendes Werkzeug"
+msgstr "Zerspanungswerkzeug"
 
 msgid "Round pipe"
 msgstr "Runde Düse"
@@ -2816,7 +2816,7 @@ msgid "Save default tool set"
 msgstr "Standardwerkzeugsatz speichern"
 
 msgid "Save default toolset"
-msgstr "Speichere Standardwerkzeugsatz"
+msgstr "Standardwerkzeugsatz speichern"
 
 msgid "Save dxf"
 msgstr "DXF speichern"
@@ -2825,13 +2825,13 @@ msgid "Save file"
 msgstr "Datei speichern"
 
 msgid "Save job"
-msgstr "Speichere Job"
+msgstr "Job speichern"
 
 msgid "Save job as"
-msgstr "Speichere Job unter"
+msgstr "Job speichern unter"
 
 msgid "Save job as template"
-msgstr "Speichere Job als Vorlage"
+msgstr "Job als Vorlage speichern"
 
 msgid "Save license file"
 msgstr "Lizenz Datei speichern"
@@ -2849,10 +2849,10 @@ msgid "Save operation"
 msgstr "Operation speichern"
 
 msgid "Save part"
-msgstr "Speichere Teil"
+msgstr "Teil speichern"
 
 msgid "Save part as"
-msgstr "Speichere Teil unter"
+msgstr "Teil speichern unter"
 
 msgid "Save report"
 msgstr "Bericht speichern"
@@ -2873,16 +2873,16 @@ msgid "Save the job as a template"
 msgstr "Speichere diesen Job als Vorlage"
 
 msgid "Save the tool set"
-msgstr "Speichere Werkzeugsatz"
+msgstr "Werkzeugsatz speichern"
 
 msgid "Save the tool set as the default"
-msgstr "Speichere Werkzeugsatz als Standard"
+msgstr "Werkzeugsatz als Standard spechern"
 
 msgid "Save tools"
 msgstr "Werkzeuge speichern"
 
 msgid "Save toolset as"
-msgstr "Speichere Werkzeugsatz unter"
+msgstr "Werkzeugsatz speichern unter"
 
 msgid "Save/load"
 msgstr "Speichern/Laden"
@@ -2942,7 +2942,7 @@ msgid "Set '%s' not found"
 msgstr "Satz '%s' nicht gefunden"
 
 msgid "Set a post processor variable"
-msgstr "Setzte eine Postprozessorvariable"
+msgstr "Postprozessorvariable setzen"
 
 msgid "Set variable "
 msgstr "Setze Variable "
@@ -3685,7 +3685,7 @@ msgstr "Benutze Lage"
 msgid "Use only the default tool set (some operations may not work)"
 msgstr ""
 "Nur den Standardwerkzeugsatz verwenden (einige Funktionen funktionieren "
-"evtl. nicht)"
+"eventuell nicht)"
 
 msgid "Use only the job file's tool set"
 msgstr "Nur den Job Werkzeugsatz verwenden"
@@ -3940,7 +3940,7 @@ msgid "Z zero"
 msgstr "Z-Nullpunkt"
 
 msgid "Zigzag pocket"
-msgstr "Zickzack Tasche"
+msgstr "Zickzack-Tasche"
 
 msgid "Zoom"
 msgstr "Zoome"
