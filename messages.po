@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-17 07:53+0100\n"
-"PO-Revision-Date: 2021-01-27 17:31+0100\n"
+"PO-Revision-Date: 2021-02-21 20:33+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -525,7 +525,7 @@ msgid "Automatically generate name"
 msgstr "Namen automatisch erzeugen"
 
 msgid "Automatically hide me if there are no problems"
-msgstr "Wenn keine Probleme vorliegen automatisch schließen"
+msgstr "Wenn keine Probleme vorliegen, automatisch schließen"
 
 msgid "Automatically send data"
 msgstr "Automatisches Datensenden"
@@ -580,7 +580,7 @@ msgid "Body diameter"
 msgstr "Schaftdurchmesser"
 
 msgid "Break up manually nested drawing"
-msgstr "Manuell angeordnete Zeichnung aufbrechen"
+msgstr "Manuelle Anordnung aufbrechen"
 
 msgid "Bump increment"
 msgstr "Schrittweitenerhöhung"
@@ -610,7 +610,7 @@ msgid "Can mirror"
 msgstr "Kann spiegeln"
 
 msgid "Cancel"
-msgstr "Abbruch"
+msgstr "Abbrechen"
 
 msgid "Cannot cut on the edge of a flange"
 msgstr "Schneiden auf der Kante eines Auslegers nicht möglich"
@@ -988,7 +988,7 @@ msgid "Deep"
 msgstr "Tiefe"
 
 msgid "Default directories"
-msgstr "Standardverzeichnisse"
+msgstr "Verzeichnisse"
 
 msgid "Default encoding"
 msgstr "Standard Encoding"
@@ -997,7 +997,7 @@ msgid "Default tool %i is a different type to the job file's tool\n"
 msgstr "Standardwerkzeug %i unterscheidet sich vom Jobwerkzeug\n"
 
 msgid "Delete"
-msgstr "Löschen"
+msgstr "Lösche"
 
 msgid "Delete bar"
 msgstr "Lösche Leiste"
@@ -1042,10 +1042,10 @@ msgid "Direction arrow size"
 msgstr "Richtungspfeilgröße"
 
 msgid "Disable"
-msgstr "Deaktiviere"
+msgstr "Deaktivieren"
 
 msgid "Disable all"
-msgstr "Alle Sperren"
+msgstr "Alle deaktivieren"
 
 msgid "Disable hardware graphics acceleration"
 msgstr "Hardware Grafikbeschleunigung deaktivieren"
@@ -1057,7 +1057,7 @@ msgid "Disable overcut"
 msgstr "Ecken ausräumen abschalten"
 
 msgid "Disable part and duplicates"
-msgstr "Deaktiviere Teile und Duplikate"
+msgstr "Teile und Duplikate deaktivieren"
 
 msgid "Disabled"
 msgstr "Deaktiviert"
@@ -1229,13 +1229,13 @@ msgid "Enable"
 msgstr "Aktivieren"
 
 msgid "Enable all"
-msgstr "Alle freigeben"
+msgstr "Alle aktivieren"
 
 msgid "Enable operation"
 msgstr "Aktiviere Operation"
 
 msgid "Enable part and duplicates"
-msgstr "Aktiviere Teile und Duplikate"
+msgstr "Teile und Duplikate aktivieren"
 
 msgid "Enabled"
 msgstr "Aktiviert"
@@ -1640,7 +1640,7 @@ msgid "Job image"
 msgstr "Job-Bild"
 
 msgid "Job options"
-msgstr "Job"
+msgstr "Job-Optionen"
 
 msgid "Job options variable"
 msgstr "Job Optionen Variable"
@@ -1805,13 +1805,13 @@ msgid "Loading job"
 msgstr "Lade Job"
 
 msgid "Lock"
-msgstr "Verriegeln"
+msgstr "Sperren"
 
 msgid "Lock all"
-msgstr "Alle verriegeln"
+msgstr "Alle sperren"
 
 msgid "Lock part and duplicates"
-msgstr "Verriegle Teile und Duplikate"
+msgstr "Teile und Duplikate sperren"
 
 msgid "Lock/enable part"
 msgstr "Verriegeln/Freigeben Teil"
@@ -2564,16 +2564,16 @@ msgid "Post options"
 msgstr "Post-Optionen"
 
 msgid "Post processing completed"
-msgstr "Post-Ausführung abgeschlossen"
+msgstr "Post-Processing abgeschlossen"
 
 msgid "Post processing completed with %i warnings"
-msgstr "Post-Ausführung mit %i Warnungen abgeschlossen"
+msgstr "Post-Processing mit %i Warnungen abgeschlossen"
 
 msgid "Post processing failed"
-msgstr "Post-Ausführung fehlgeschlagen"
+msgstr "Post-Processing fehlgeschlagen"
 
 msgid "Post processing..."
-msgstr "Post-Ausführung..."
+msgstr "Post-Processing..."
 
 msgid "Post processor"
 msgstr "Postprozessor"
@@ -2876,7 +2876,7 @@ msgid "Save the tool set"
 msgstr "Werkzeugsatz speichern"
 
 msgid "Save the tool set as the default"
-msgstr "Werkzeugsatz als Standard spechern"
+msgstr "Werkzeugsatz als Standard speichern"
 
 msgid "Save tools"
 msgstr "Werkzeuge speichern"
@@ -2999,7 +2999,7 @@ msgid "Show path ends"
 msgstr "Konturenden anzeigen"
 
 msgid "Show rapids"
-msgstr "Eilgänge anzeigen"
+msgstr "Eilgangpfade anzeigen"
 
 msgid "Show rule names in g-code"
 msgstr "Regelnamen im G-Code anzeigen"
@@ -3608,13 +3608,13 @@ msgid "Unknown"
 msgstr "Unbekannt"
 
 msgid "Unlock"
-msgstr "Entriegeln"
+msgstr "Freigeben"
 
 msgid "Unlock all"
 msgstr "Alle freigeben"
 
 msgid "Unlock part and duplicates"
-msgstr "Freigabe von Teilen und Duplikaten"
+msgstr "Teile und Duplikate freigeben"
 
 msgid "Unselect all"
 msgstr "Alles abwählen"
