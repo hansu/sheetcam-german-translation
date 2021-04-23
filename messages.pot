@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# POT from TNG Development version 7.1.9
+# POT from TNG Development version 7.1.11
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-31 16:31+0100\n"
+"POT-Creation-Date: 2021-04-21 16:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,7 +58,7 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\AutoTabDialog.cpp:56
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:62
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:78
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2476
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2467
 msgid "Length"
 msgstr ""
 
@@ -67,9 +67,9 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ToolUpdateDialog.cpp:41
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\Units.cpp:539
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\UnitsPanel.cpp:50
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1185
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1825
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2447
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1167
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1807
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2438
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:745
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:799
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:994
@@ -161,8 +161,8 @@ msgid "Fit to material"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\arraydialog.cpp:132
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:707
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:596
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:709
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:598
 msgid "Part spacing"
 msgstr ""
 
@@ -175,8 +175,8 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:99
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\originpanel.cpp:61
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\originpanel.cpp:119
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1327
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1326
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1309
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1325
 #: tmp.cpp:2 tmp.cpp:41 tmp.cpp:1 tmp.cpp:3 tmp.cpp:9 tmp.cpp:14 tmp.cpp:26
 #: tmp.cpp:20
 msgid "X"
@@ -193,8 +193,8 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\originpanel.cpp:123
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\partpospanel.cpp:31
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\partpospanel.cpp:44
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1332
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1332
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1314
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1331
 #: tmp.cpp:5 tmp.cpp:43 tmp.cpp:2 tmp.cpp:3 tmp.cpp:10 tmp.cpp:15 tmp.cpp:27
 #: tmp.cpp:21
 msgid "Y"
@@ -234,13 +234,13 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\AutoTabDialog.cpp:60
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\layers.cpp:75
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4631
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4629
 #: tmp.cpp:6
 msgid "Thickness"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\AutoTabDialog.cpp:66
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4628
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4626
 msgid "Clean up exit ramp"
 msgstr ""
 
@@ -270,8 +270,8 @@ msgid "Tabs on inside cuts"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\AutoTabDialog.cpp:89
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1276
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1901
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1281
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1906
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:637
 msgid "Clear all"
 msgstr ""
@@ -295,7 +295,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\codeeditor.cpp:102
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\LuaEditor.cpp:547
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2730
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2732
 msgid "Do you want to save your changes?"
 msgstr ""
 
@@ -314,7 +314,7 @@ msgid "Code editor"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\codesnippetdialog.cpp:30
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1705
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1687
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\RotaryPlasma\sim.lua:562
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\RotaryPlasma\sims\Jet robot.lua:15
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\RotaryPlasma\sims\Jet.lua:15
@@ -379,18 +379,18 @@ msgid ""
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\configfile.cpp:34
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3335
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3340
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\machinetypepanel.cpp:66
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:1035
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:1041
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:1036
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:1042
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\NestImportDialog.cpp:265
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PreviewDialog.cpp:321
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\CalcThread.cpp:90
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\CalcThread.cpp:98
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2898
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3878
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2889
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3874
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:994
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2871
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2873
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:273
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\vertexes.cpp:2275
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\NestImportDialog.cpp:287
@@ -408,7 +408,7 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\contourdialog.cpp:62
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\plasmadialog.cpp:63
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\pocketdialog.cpp:37
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2479
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2470
 msgid "Overcut corners"
 msgstr ""
 
@@ -449,7 +449,7 @@ msgid "Cut path"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\cutdirpanel.cpp:35
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2462
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2453
 msgid "Cut direction"
 msgstr ""
 
@@ -467,7 +467,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\cutpathpanel.cpp:41
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\nestpanel.cpp:391
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2466
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2457
 msgid "Optimisation"
 msgstr ""
 
@@ -484,13 +484,13 @@ msgid "Optimise now"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\cutpathpanel.cpp:51
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2474
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2465
 msgid "Start position"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\cutpathpanel.cpp:77
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolpanel.cpp:164
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2472
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2463
 msgid "Cutting rules"
 msgstr ""
 
@@ -508,7 +508,7 @@ msgid "Keep parts together"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\cutpathpanel.cpp:84
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4018
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4012
 msgid "Minimise thermal distortion"
 msgstr ""
 
@@ -583,8 +583,8 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolpanel.cpp:177
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolpanel.cpp:201
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolpanel.cpp:368
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3501
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3525
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3504
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3528
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\toolvalues.cpp:88
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\PlasmaTool\PlasmaTool.lua:297
 msgid "Tools"
@@ -602,9 +602,9 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\defaultdirpanel.cpp:86
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\nestdialog.cpp:533
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\nestpanel.cpp:165
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:494
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:777
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:784
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:484
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:767
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:774
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:119
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:111
 msgid "Operation"
@@ -692,7 +692,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\drilldialog.cpp:33
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolpanel.cpp:151
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4491
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4489
 msgid "Drill"
 msgstr ""
 
@@ -741,73 +741,73 @@ msgstr ""
 msgid "[EMPTY]"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:728
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1899
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:732
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1904
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:432
 msgid "Properties"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:732
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2892
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:736
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2897
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:414
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:630
 msgid "Unlock"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:735
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2893
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:739
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2898
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:417
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:633
 msgid "Lock"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:737
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:741
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:422
 msgid "Unlock all"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:738
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:742
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:421
 msgid "Lock all"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:741
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:745
 msgid "Quick cut sequence"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:744
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:748
 msgid "End sequence"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:754
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:758
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:97
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4031
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4025
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation - Copy.cpp:85
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:17
 msgid "Reverse cut direction"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:755
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:759
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:100
 msgid "Reverse cut side"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:756
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:760
 msgid "Corner snap distance"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:760
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:764
 msgid "Copy start points from"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:861
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:866
 msgid "Enter the snap distance"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1268
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1900
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2327
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2881
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1273
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1905
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2332
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2886
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:347
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:419
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PathRulesPanel.cpp:305
@@ -820,157 +820,157 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1269
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1274
 msgid "Line of tabs"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1272
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2861
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:284
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1277
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2866
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:285
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:604
 msgid "Cancel"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1274
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1279
 msgid "Horizontal line"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1275
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1280
 msgid "Vertical line"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1280
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1285
 msgid "Copy tabs from"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1305
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1310
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:539
 msgid "Options"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1468
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1473
 #, c-format
 msgid "Total %i outlines. %i have tabs, %i have 2 or more tabs"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2074
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2079
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\layerselector.cpp:38
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:336
 #: tmp.cpp:4
 msgid "Layer"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2134
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2139
 msgid "From all layers"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2152
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2157
 msgid "From layer "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2257
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2262
 msgid "Move to layer"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2260
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2271
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2265
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2276
 msgid "New layer"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2268
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2273
 msgid "Copy to layer"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2280
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2285
 msgid "Move to part"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2283
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2301
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2288
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2306
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:340
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:851
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:533
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:620
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3306
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3309
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\PluginServer.cpp:1619
 msgid "New part"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2298
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2303
 msgid "Copy to part"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2317
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2507
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2322
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2512
 msgid "Contour properties"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2320
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2911
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2325
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2916
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:33
 msgid "Select all"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2321
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2326
 msgid "Select all open contours"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2322
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2327
 msgid "Select all closed contours"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2323
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2328
 msgid "Select all holes"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2324
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2329
 msgid "Select all outside contours"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2325
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2330
 msgid "Select all inside contours"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2403
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3735
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2408
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3738
 msgid "Part of"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2466
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2471
 #, c-format
 msgid "Number of contours selected: %i"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2490
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2495
 msgid ""
 "\n"
 "from layer "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2493
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2498
 msgid ""
 "\n"
 "from layers:"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2582
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2587
 msgid "Snap to grid"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2583
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2588
 msgid "Full tool paths"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2867
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2872
 msgid "Finish"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2874
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3128
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2879
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3133
 msgid "Set part order"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2878
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2883
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:31
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:33
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:30
@@ -980,124 +980,124 @@ msgstr ""
 msgid "Copy"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2879
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2884
 msgid "Duplicate"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2880
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2885
 msgid "Multiple duplicate"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2884
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2889
 msgid "Array parts"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2889
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2894
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:407
 msgid "Disable"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2890
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2895
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:410
 msgid "Enable"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2912
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2917
 msgid "Select part and duplicates"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2913
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2918
 msgid "Set part position"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2952
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2957
 msgid "Copy of "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3127
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3132
 msgid ""
 "To set the part order, the nesting mode needs to be set to 'Manual "
 "optimisation (keep parts together)'.\n"
 " Do you want to do this and continue?"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3335
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3340
 msgid ""
 "The part cannot be aligned to this point.\n"
 "Check your dimensions and try again."
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3376
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3381
 msgid "Select the first alignment point"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3379
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3384
 msgid "Select the second alignment point"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3398
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3403
 msgid "Abort alignment"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3400
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3406
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3405
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3411
 msgid "Alignment tolerance"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3424
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3429
 msgid "Measure"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3475
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3480
 msgid "End measuring"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3836
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3841
 msgid "View toolpaths"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3837
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3842
 msgid "Edit start points"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3838
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3843
 msgid "Edit tabs"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3839
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3844
 msgid "Edit action points"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3840
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3845
 msgid "Edit contours"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3841
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3846
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\joboptionsdialog.cpp:158
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\nestdialog.cpp:451
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:438
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:694
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:696
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\NestImportDialog.cpp:80
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:583
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:585
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\NestImportDialog.cpp:42
 msgid "Nesting"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3842
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3847
 msgid "Align"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3871
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3876
 msgid "&Mode"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3872
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3877
 msgid "Mode"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\gcodedialog.cpp:23
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolpanel.cpp:162
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1700
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1682
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:1093
 msgid "Code"
 msgstr ""
@@ -1233,7 +1233,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\gotopositionpanel.cpp:41
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:101
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1337
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1319
 #: tmp.cpp:8 tmp.cpp:45 tmp.cpp:3 tmp.cpp:7 tmp.cpp:16 tmp.cpp:28
 msgid "Z"
 msgstr ""
@@ -1243,7 +1243,7 @@ msgid "Use Z"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\griddialog.cpp:44
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1820
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1802
 msgid "Grid size"
 msgstr ""
 
@@ -2008,7 +2008,7 @@ msgid "View"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:538
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:99
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:100
 msgid "&Options"
 msgstr ""
 
@@ -2028,7 +2028,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:563
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:107
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:426
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:416
 msgid "Operations"
 msgstr ""
 
@@ -2062,29 +2062,29 @@ msgstr ""
 msgid "Import drawing into new part"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:891
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:892
 msgid ""
 "Are you sure you want to overwrite\n"
 "the existing tool set?"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:892
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:1497
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:893
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:1498
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Excellon\OptionsPanel.cpp:31
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Gerber\OptionsPanel.cpp:33
 msgid "Save default tool set"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:946
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:947
 msgid "You need to restart for the changes to take effect"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:1497
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:1498
 msgid "Do you want to save the default tool set?"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mergetoolsdialog.cpp:38
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3501
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3504
 msgid "Load tools"
 msgstr ""
 
@@ -2116,7 +2116,7 @@ msgid "Use only the job file's tool set"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:306
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1303
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1285
 msgid "Move to"
 msgstr ""
 
@@ -2126,7 +2126,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:320
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:343
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1339
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1338
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\PointValue.cpp:18
 msgid "Point at a position"
 msgstr ""
@@ -2159,7 +2159,7 @@ msgid "Multiple move"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:355
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1181
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1163
 msgid "Relative"
 msgstr ""
 
@@ -2216,7 +2216,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\NestImportDialog.cpp:229
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\variablepanel.cpp:82
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1777
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1776
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\NestImportDialog.cpp:252
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\NestImportDialog.cpp:248
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\PaintToolEditor.cpp:38
@@ -2404,121 +2404,121 @@ msgstr ""
 msgid "Delete operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:401
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:391
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:19
 msgid "&Contour"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:401
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:391
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:19
 msgid "Create a new contour operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:402
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:392
 msgid "&Pocket"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:402
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:392
 msgid "Create a new pocket operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:403
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4703
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:393
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4701
 msgid "Spiral pocket"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:405
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:395
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\zigzagpocket.cpp:1642
 msgid "Zigzag pocket"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:406
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:396
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5032
 msgid "Face"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:407
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:397
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:21
 msgid "&Plasma cut"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:407
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:397
 msgid "Create a new jet cutting operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:408
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:398
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:23
 msgid "&Tapping"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:408
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:398
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:23
 msgid "Create a new tapping operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:409
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:399
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\tapdialog.cpp:70
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolpanel.cpp:155
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5461
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5467
 msgid "Thread mill"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:410
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:400
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:22
 msgid "&Drilling"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:410
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:400
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:22
 msgid "Create a new drilling operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:411
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:401
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:24
 msgid "&Insert code"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:411
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:401
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:24
 msgid "Insert code into the output file"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:412
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:402
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:25
 msgid "&Set post variable"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:412
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:402
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:25
 msgid "Set a post processor variable"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:413
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:403
 msgid "&Move to"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:413
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:403
 msgid "Move to given coordinate"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:414
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:404
 msgid "Operation table"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:414
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:404
 msgid "Open the operation table editor"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:451
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:441
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\processpanel.cpp:378
 msgid "&Operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:777
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:767
 msgid "Save operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:784
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\operationpanel.cpp:774
 msgid "Load operation"
 msgstr ""
 
@@ -3063,10 +3063,10 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:53
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:69
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:585
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2879
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4226
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6500
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6548
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2870
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4224
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6507
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6555
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Post.cpp:39
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Post.cpp:40
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Post.cpp:41
@@ -3124,13 +3124,13 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\plasmadialog.cpp:57
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:55
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:71
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2886
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2877
 msgid "Arc"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\plasmadialog.cpp:155
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2481
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4012
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2472
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4006
 msgid "Angle threshold"
 msgstr ""
 
@@ -3178,8 +3178,8 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\pocketdialog.cpp:45
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\tapdialog.cpp:32
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2458
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5446
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2449
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5452
 msgid "Climb cut"
 msgstr ""
 
@@ -3408,13 +3408,13 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:57
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:73
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2890
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2881
 msgid "Tangent"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:59
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\starteditpanel.cpp:75
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2894
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2885
 msgid "Perpendicular"
 msgstr ""
 
@@ -3520,12 +3520,12 @@ msgid "Threading"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\tapdialog.cpp:35
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5388
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5394
 msgid "Left hand"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\tapdialog.cpp:69
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5406
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5412
 msgid "Tap"
 msgstr ""
 
@@ -3769,8 +3769,8 @@ msgid "Depth per pass/peck depth"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ToolUpdateDialog.cpp:44
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2449
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4607
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2440
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4605
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:554
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:832
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:987
@@ -3785,7 +3785,7 @@ msgid "Ramp angle"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ToolUpdateDialog.cpp:50
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4222
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4220
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:522
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\RotaryPlasma\sims\Mill.lua:15
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\sim\sims\Mill.lua:16
@@ -4011,7 +4011,7 @@ msgid ""
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\variablepanel.cpp:84
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1560
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1542
 msgid "Value"
 msgstr ""
 
@@ -4034,7 +4034,8 @@ msgstr ""
 msgid "This name is already in use"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\warningpopup.cpp:485
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\warningpopup - Copy.cpp:541
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\warningpopup.cpp:371
 msgid "Double click to fix the problem"
 msgstr ""
 
@@ -4067,7 +4068,7 @@ msgid "Corner 2"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\area.cpp:338
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5450
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5456
 msgid "Inside"
 msgstr ""
 
@@ -4089,7 +4090,7 @@ msgid "Path generation for part'%s' has been aborted."
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\CalcThread.cpp:97
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3307
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3301
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4935
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:1761
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\zigzagpocket.cpp:1736
@@ -4151,7 +4152,7 @@ msgid "Marker"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:24
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2443
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2434
 msgid "Start point"
 msgstr ""
 
@@ -4230,7 +4231,7 @@ msgid ""
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:671
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4313
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4311
 msgid "The tool may not be able to cut this deep"
 msgstr ""
 
@@ -4306,198 +4307,198 @@ msgid ""
 "Increase the ramp angle or remove the tabs on small contours"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1179
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1161
 msgid "Z Move"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1183
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1165
 msgid "Use feed"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1187
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1169
 msgid "Multi move"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1221
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1203
 msgid "ERROR: Cannot have a relative move as the first move"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1307
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1289
 msgid "Rapid to"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1315
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1297
 msgid "{No moves defined}"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1342
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1324
 msgid "relative"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1347
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1329
 msgid "at"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1558
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1540
 msgid "Variable name"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1578
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1560
 msgid "{No variable set}"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1580
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1562
 msgid "Set variable "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1701
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1683
 msgid "Spindle off"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1702
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1684
 msgid "Coolant off"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1703
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1685
 msgid "Force tool change"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1704
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1686
 msgid "Move to safe Z"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1768
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1750
 msgid "Code snippet not found"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1793
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1775
 msgid "{No code}"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1795
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1777
 msgid "Insert code "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1799
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1781
 msgid "Insert code snippet "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1808
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1790
 msgid "Minimum X size"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1810
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1792
 msgid "Minimum Y size"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1812
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1794
 msgid "Maximum X size"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1814
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1796
 msgid "Maximum Y size"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1817
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1799
 msgid "Edge overlap"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1823
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1805
 msgid "Remnants must be rectangular"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2396
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2380
 #, c-format
 msgid "{Layer %s  not found}"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2445
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2436
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Knife\KnifeTool.cpp:10
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:11
 msgid "Cut depth"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2451
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2442
 msgid "Start depth"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2453
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2444
 msgid "Contour method"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2455
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3879
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2446
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3875
 msgid "Inside Offset"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2456
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3880
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2447
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3876
 msgid "Outside Offset"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2457
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3881
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2448
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3877
 msgid "No Offset"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2460
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2451
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:29
 msgid "Finish allowance"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2464
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2455
 msgid "Reverse open paths"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2468
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2459
 msgid "Offset open paths"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2470
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2461
 msgid "Leadins on open paths"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2478
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2469
 msgid "Overcut"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2851
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2842
 msgid ""
 "This operation is set to automatically optimise paths.\n"
 "Changing the order will disable optimisation.\n"
 "Do you want to continue?"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2852
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:2843
 msgid "Start points"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3992
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:3986
 msgid "Deep"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4010
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4004
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Knife\KnifeOperation.cpp:21
 msgid "Loop size"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4014
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4008
 msgid "Loop corners"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4016
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4010
 msgid "Max chain length"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4021
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4015
 msgid "Overcut internal corners"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4022
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4016
 msgid "Corner threshold"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4220
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4218
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:552
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:796
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Excellon\OptionsPanel.cpp:114
@@ -4508,76 +4509,76 @@ msgstr ""
 msgid "Depth per pass"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4224
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4222
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:33
 msgid "Coolant"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4227
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4225
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:36
 #: tmp.cpp:12 tmp.cpp:14
 msgid "Mist"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4228
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4226
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:37
 #: tmp.cpp:13 tmp.cpp:15
 msgid "Flood"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4276
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4274
 msgid "Cut sequence:"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4280
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4278
 msgid "1 cut of "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4283
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4281
 #, c-format
 msgid "%i cuts of "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4297
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4295
 msgid "and 1 cut of "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4303
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4301
 msgid "starting at "
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4342
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4340
 msgid "Min hole size"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4344
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4342
 msgid "Max hole size"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4454
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4452
 msgid "Peck retract"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4464
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4462
 msgid "Peck depth"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4530
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4528
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\toolvalues.h:58
 msgid "Ramp Angle"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4611
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4609
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:835
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\toolvalues.cpp:228
 msgid "Ramp feed"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4634
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4632
 msgid "Square corners"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4691
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4689
 msgid "Step over"
 msgstr ""
 
@@ -4593,48 +4594,48 @@ msgstr ""
 msgid "Use layer"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5444
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5450
 msgid "Thread diameter"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5448
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5454
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\laser\LaserOperation.cpp:27
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\PaintOperation.cpp:35
 msgid "Direction"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5451
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5457
 msgid "Outside"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5452
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5458
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:747
 msgid "Infeed per pass"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5864
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5870
 #, c-format
 msgid ""
 "You cannot delete this operation as it belongs to:\n"
 "%s"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5874
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:5880
 msgid ""
 "Some other operations depend on this one. They will be deleted as well.\n"
 "Do you want to continue?"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6025
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6031
 msgid "Add operation"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6504
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6544
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6511
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6551
 msgid "Current tool"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6527
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:6534
 msgid "No tools available"
 msgstr ""
 
@@ -4652,7 +4653,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:689
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:1023
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2714
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2716
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\PluginServer.cpp:1312
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\PluginServer.cpp:1472
 msgid "Untitled"
@@ -4668,60 +4669,60 @@ msgstr ""
 msgid "Load part data"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2440
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2442
 msgid "Lock/enable part"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2481
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2483
 msgid "Move part"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2737
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2739
 msgid "Save file"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2877
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2879
 msgid ""
 "You have tried to load a multipart job.\n"
 "Only part 1 will be loaded."
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2877
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2879
 msgid "Load part"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2984
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2986
 msgid "Mirrored"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3006
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3008
 msgid ""
 "Some duplicates in this job were mirrored differently to their parent.\n"
 "This is no longer allowed so they have been converted to copies"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3016
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3018
 #, c-format
 msgid "Duplicate %i"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3049
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3107
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3051
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3110
 msgid "Delete part"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3106
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3109
 msgid ""
 "If you delete this part it's\n"
 "duplicates will be deleted as well\n"
 "Do you want to continue?"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3348
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3351
 msgid "Copy of"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3525
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3528
 msgid "Save tools"
 msgstr ""
 
@@ -5072,20 +5073,20 @@ msgstr ""
 msgid "Automatically generate name"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1513
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1512
 #, c-format
 msgid "X%s Y%s"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1599
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1598
 msgid "Yes"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1599
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1598
 msgid "No"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1778
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1777
 msgid "Comment"
 msgstr ""
 
@@ -5710,7 +5711,7 @@ msgid "Use points for drilling"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\dxf\options.lua:27
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:33
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:42
 msgid "Use colours as layer names"
 msgstr ""
 
@@ -6186,6 +6187,7 @@ msgid "Shape cutting plugin\n"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:124
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:536
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\backups\shape.lua~0:492
 #: tmp.cpp:20
 msgid "Shape"
@@ -6193,10 +6195,6 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:360
 msgid " line"
-msgstr ""
-
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:536
-msgid "shape"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\backups\shape.lua~0:325
@@ -6551,6 +6549,18 @@ msgid ""
 "Note: Does not currently handle text entities"
 msgstr ""
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:33
+msgid "90DPI"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:34
+msgid "96DPI"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:36
+msgid "Pixel size"
+msgstr ""
+
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\text\options.lua:42
 msgid ""
 "Text Creation plugin\n"
@@ -6622,7 +6632,7 @@ msgid "Directory"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:121
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:722
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:724
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:115
 msgid "Can mirror"
 msgstr ""
@@ -6632,57 +6642,57 @@ msgstr ""
 msgid "Exporting data"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:702
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:591
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:704
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:593
 msgid "Maximum number of sheets to use"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:711
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:713
 msgid "Edge distance"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:715
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:717
 msgid "Angles"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:718
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:720
 msgid "Any"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:719
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:721
 msgid "90 degrees"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:720
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:722
 msgid "180 degrees"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:790
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:653
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:792
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:655
 msgid "Save nest file"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:793
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:795
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\NestImportDialog.cpp:147
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:656
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:658
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\NestImportDialog.cpp:100
 msgid "Nest"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:804
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:667
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:806
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:669
 msgid ""
 "Unable to open file\n"
 "Is it opened by another application?"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:816
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:679
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:818
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:681
 msgid "Waiting for NestFab"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:819
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:682
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:821
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:684
 msgid "Waiting for MyNesting"
 msgstr ""
 
@@ -6696,7 +6706,7 @@ msgid "Load nest file"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DGNestPro\NestImportDialog.cpp:163
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:188
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:189
 msgid "Unable to open file"
 msgstr ""
 
@@ -6735,7 +6745,7 @@ msgid "DNC"
 msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\maindialog.cpp:35
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:102
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:103
 msgid "&Send data"
 msgstr ""
 
@@ -6743,23 +6753,23 @@ msgstr ""
 msgid "&Configure"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:170
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:171
 msgid "Unable to execute command"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:214
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:215
 msgid "Unable to open port"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:281
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:282
 msgid "Send data"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:334
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:336
 msgid "Open G-code"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:334
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\mainpanel.cpp:336
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\DNC\optionspanel.cpp:276
 msgid "All files|*.*"
 msgstr ""
@@ -7102,8 +7112,8 @@ msgstr ""
 msgid "Laser engrave"
 msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\laser\LaserOperation.cpp:158
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\laser\LaserOperation.cpp:167
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\laser\LaserOperation.cpp:159
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\laser\LaserOperation.cpp:168
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\PaintOperation.cpp:173
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\PaintOperation.cpp:182
 msgid "Line width is less than the kerf width."
@@ -7508,12 +7518,12 @@ msgstr ""
 msgid "Wire cut"
 msgstr ""
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:252
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:268
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:253
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:269
 msgid "Cut route is not complete."
 msgstr ""
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:319
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:320
 msgid "Cut route is impossible."
 msgstr ""
 

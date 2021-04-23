@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-31 16:31+0100\n"
-"PO-Revision-Date: 2021-04-23 15:55+0100\n"
+"POT-Creation-Date: 2021-04-21 16:30+0100\n"
+"PO-Revision-Date: 2021-04-23 15:59+0200\n"
 "Last-Translator: Hans <hansunzner@gmail.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "The new generation of CAM."
@@ -3251,7 +3251,6 @@ msgstr "Fehler beim Speichern der Jobkonfiguration."
 msgid "Plugin is unlicensed"
 msgstr ""
 
-#| msgid "Plugin options"
 msgid "Plugin is not valid"
 msgstr ""
 
@@ -3599,7 +3598,6 @@ msgstr "Kreis"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:24
 #: ShapeNames:7
-#| msgid "Corner Angle"
 msgid "Convex rectangle"
 msgstr "Rechteck mit Bogen"
 
@@ -3616,7 +3614,6 @@ msgid "Polygon"
 msgstr "Polygon"
 
 #: ShapeNames:11
-#| msgid "Text angle"
 msgid "Rectangle"
 msgstr "Rechteck"
 
@@ -3625,7 +3622,6 @@ msgid "Trapezoid"
 msgstr "Trapez"
 
 #: ShapeNames:14
-#| msgid "Start point"
 msgid "Lap Joint"
 msgstr ""
 
@@ -3642,7 +3638,6 @@ msgid "Pipe Saddle"
 msgstr ""
 
 #: ShapeNames:18
-#| msgid "Select all holes"
 msgid "Rectangle 4 Holes"
 msgstr "Rechteck 4 Löcher"
 
@@ -3667,7 +3662,6 @@ msgid "L Gusset"
 msgstr "L-Lasche"
 
 #: ShapeNames:24
-#| msgid "Triangle"
 msgid "Triangular Gusset"
 msgstr ""
 
@@ -3676,7 +3670,6 @@ msgid "Truss Support"
 msgstr ""
 
 #: ShapeNames:26
-#| msgid "Web thickness"
 msgid "Web Stiffener"
 msgstr ""
 
@@ -3733,7 +3726,6 @@ msgstr ""
 msgid "Reset time"
 msgstr "Reset-Zeit"
 
-#| msgid "Quick load"
 msgid "Quickload"
 msgstr ""
 
@@ -3941,8 +3933,8 @@ msgstr "Einzelschritt"
 msgid "Pause"
 msgstr "Pause"
 
-#: tmp.cpp:18 tmp.cpp:37 tmp.cpp:52 tmp.cpp:74 tmp.cpp:20 tmp.cpp:42 tmp.cpp:13
-#: tmp.cpp:35 tmp.cpp:12 tmp.cpp:24
+#: tmp.cpp:18 tmp.cpp:37 tmp.cpp:52 tmp.cpp:74 tmp.cpp:20 tmp.cpp:42
+#: tmp.cpp:13 tmp.cpp:35 tmp.cpp:12 tmp.cpp:24
 msgid "Stop"
 msgstr "Stopp"
 
@@ -4074,10 +4066,6 @@ msgstr "Drehen"
 msgid "Demo plugin"
 msgstr "Demo Erweiterung"
 
-#| msgid ""
-#| " plugin\n"
-#| "\n"
-#| "Adds nesting facilities to SheetCam"
 msgid ""
 "DG NestPro plugin\n"
 "\n"
@@ -4559,10 +4547,6 @@ msgstr "Formen"
 msgid " line"
 msgstr " Zeile"
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:536
-msgid "shape"
-msgstr "Form"
-
 msgid "New line"
 msgstr "Neue Zeile"
 
@@ -4611,15 +4595,12 @@ msgstr "Eckenwinkel"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Pipe Flange\main.lua:41
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:38
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:109
-#| msgid "Hole Diameter"
 msgid "Circle Diameter"
 msgstr "Kreisdurchmesser"
 
-#| msgid "Number of outlines:"
 msgid "Number of Sides"
 msgstr "Anzahl der Seiten"
 
-#| msgid "Save operation"
 msgid "Shape Location"
 msgstr "Position"
 
@@ -4639,25 +4620,20 @@ msgstr "Eckenradius"
 msgid "Base"
 msgstr "Grundbreite"
 
-#| msgid "Height"
 msgid "Left Height"
 msgstr "Höhe links"
 
-#| msgid "Height"
 msgid "Right Height"
 msgstr "Höhe rechts"
 
-#| msgid "Offset"
 msgid "Left Offset"
 msgstr "Versatz links"
 
-#| msgid "No Offset"
 msgid "Right Offset"
 msgstr "Versatz rechts"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lap Joint\main.lua:58
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:107
-#| msgid "Vertical Hole Number"
 msgid "Horizontal Hole Number"
 msgstr "Horizontale Bohrungen"
 
@@ -4691,13 +4667,11 @@ msgstr "Bohrungsdurchmesser"
 msgid "Fillet Radius"
 msgstr "Eckenradius"
 
-#| msgid "Material height"
 msgid "Straight Height"
 msgstr ""
 "Höhe gerader Anteil\n"
 "(Materialstärke)"
 
-#| msgid "Outer diameter"
 msgid "Outer Diameter"
 msgstr "Außendurchmesser"
 
@@ -4705,7 +4679,6 @@ msgstr "Außendurchmesser"
 msgid "PCD"
 msgstr "Teilkreis"
 
-#| msgid "Number of rows"
 msgid "Number of Holes"
 msgstr "Anzahl Bohrungen"
 
@@ -4714,33 +4687,27 @@ msgstr "Anzahl Bohrungen"
 msgid "Center Hole Shape"
 msgstr "Innenkontur"
 
-#| msgid "Min hole size"
 msgid "Center Hole Size"
 msgstr "Größe Innenkontur"
 
-#| msgid "Pipe diameter"
 msgid "Pipe Diameter"
 msgstr "Durchmesser"
 
-#| msgid "Inside Offset"
 msgid "Center Offset"
 msgstr "Abstand zur Kreismitte"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lap Joint\main.lua:57
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:36
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:106
-#| msgid "Horizontal Hole Spacing"
 msgid "Horizontal Slot Spacing"
 msgstr "Horizontaler Abstand der Langlöcher"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lap Joint\main.lua:59
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:37
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:108
-#| msgid "Vertical Hole Spacing"
 msgid "Vertical Slot Spacing"
 msgstr "Vertikaler Abstand der Langlöcher"
 
-#| msgid "Length"
 msgid "Slot Length"
 msgstr "Langlochlänge"
 
@@ -4758,11 +4725,9 @@ msgstr "Langlochlänge"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Gussets\Triangular Gusset\main.lua:28
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Gussets\Web Stiffener\main.lua:24
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Slotted Plate\main.lua:42
-#| msgid "Width"
 msgid "Slot Width"
 msgstr "Langlochbreite"
 
-#| msgid "Corner radius"
 msgid "Corner Radius"
 msgstr "Eckenradius"
 
@@ -4776,27 +4741,22 @@ msgstr "Langlöcher-Verschiebung X"
 msgid "Slot Group Y Offset"
 msgstr "Langlöcher-Verschiebung Y"
 
-#| msgid "Open line width"
 msgid "Center Hole Width"
 msgstr "Breite Innenausschnitt"
 
-#| msgid "Material height"
 msgid "Center Hole Height"
 msgstr "Höhe Innenausschnitt"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lap Joint\main.lua:61
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:39
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:110
-#| msgid "Fillet Radius"
 msgid "Center Fillet Radius"
 msgstr "Radius Mittenausschnitt"
 
-#| msgid "Number of outlines:"
 msgid "Number of sides"
 msgstr "Anzahl der Seiten"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:24
-#| msgid "Corner Angle"
 msgid "Center Hole Angle"
 msgstr "Drehung mittiger Ausschnitt"
 
@@ -4808,35 +4768,27 @@ msgstr "X-Verschiebung mittiger Ausschnitt"
 msgid "Center Hole Y Offset"
 msgstr "Y-Verschiebung mittiger Ausschnitt"
 
-#| msgid "No Offset"
 msgid "Hole Y Offset"
 msgstr "Y-Versatz Bohrung"
 
-#| msgid "Inside shape"
 msgid "Inside Width"
 msgstr "Innenbreite"
 
-#| msgid "Outside"
 msgid "Outside Width"
 msgstr "Außenbreite"
 
-#| msgid "Material height"
 msgid "Overall Height"
 msgstr "Gesamthöhe"
 
-#| msgid "Kerf width"
 msgid "Outer Width"
 msgstr "Außenbreite"
 
-#| msgid "Cut height"
 msgid "Outer Height"
 msgstr "Außenhöhe"
 
-#| msgid "Kerf width"
 msgid "Inner Width"
 msgstr "Innenbreite"
 
-#| msgid "Height"
 msgid "Inner Height"
 msgstr "Innenhöhe"
 
@@ -4844,11 +4796,9 @@ msgstr "Innenhöhe"
 msgid "Edge Chamfer"
 msgstr "Randfase"
 
-#| msgid "Corner sharpening"
 msgid "Corner Chamfer"
 msgstr "Eckenfase"
 
-#| msgid "Beam width"
 msgid "Base Width"
 msgstr "Breite der Basis"
 
@@ -4866,27 +4816,24 @@ msgstr "Breite der Basis"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Gussets\Triangular Gusset\main.lua:28
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Gussets\Web Stiffener\main.lua:24
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Slotted Plate\main.lua:42
-#| msgid "Width"
 msgid "Top Width"
 msgstr "Obere Breite"
 
-#| msgid "Height"
 msgid "Side Height"
 msgstr "Seitenhöhe"
 
-#| msgid "Corner snap distance"
 msgid "Pin Center Distance"
-msgstr "Abstand der Bohrungen\n(Mitte-Mitte)"
+msgstr ""
+"Abstand der Bohrungen\n"
+"(Mitte-Mitte)"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lap Joint\main.lua:60
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Pipe Flange\main.lua:41
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:38
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:109
-#| msgid "Hole Diameter"
 msgid "Left Hole Dia"
 msgstr "Durchmesser linke Bohrung"
 
-#| msgid "Left hand"
 msgid "Left End Dia"
 msgstr "Außendurchmesser linke Seite"
 
@@ -4895,19 +4842,15 @@ msgid "Right Hole Dia"
 msgstr "Durchmesser rechte Bohrung"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:65
-#| msgid "Right turning"
 msgid "Right End Dia"
 msgstr "Außendurchmesser rechte Seite"
 
-#| msgid "Number of rows"
 msgid "Number of Slots"
 msgstr "Anzahl Langlöcher"
 
-#| msgid "Part spacing"
 msgid "Slot Spacing"
 msgstr ""
 
-#| msgid "Open file"
 msgid "Opening Angle"
 msgstr "Öffnungswinkel"
 
@@ -4941,6 +4884,17 @@ msgstr ""
 "SVG Importfilter\n"
 "\n"
 "Beherrscht keine Texteinträge"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:33
+msgid "90DPI"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:34
+msgid "96DPI"
+msgstr ""
+
+msgid "Pixel size"
+msgstr "Pixelgröße"
 
 msgid ""
 "Text Creation plugin\n"
@@ -5466,7 +5420,6 @@ msgstr "DXF speichern"
 msgid "Rotary line drawing"
 msgstr ""
 
-#| msgid "Rotary plasma"
 msgid "RotaryPlasma"
 msgstr ""
 
@@ -5584,11 +5537,9 @@ msgstr "Schneidenradius"
 msgid "End angle"
 msgstr "Endwinkel"
 
-#| msgid "Tool change"
 msgid "Toolpost angle"
 msgstr ""
 
-#| msgid "Approach direction"
 msgid "Approach from front"
 msgstr "Anfahren von vorne"
 
@@ -5601,7 +5552,6 @@ msgstr "Maximale Schnitttiefe"
 msgid "Turret number"
 msgstr "Position im Werkzeughalter"
 
-#| msgid "Turret number"
 msgid "Turret station number"
 msgstr "Position im Werkzeughalter"
 
@@ -5610,7 +5560,6 @@ msgstr "Anfahrtrichtung"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Rectangle\main.lua:31
 #, python-format
-#| msgid "Fillet radius"
 msgid "Tip radius %s"
 msgstr "Spitzenradius %s"
 
@@ -5620,14 +5569,12 @@ msgstr "Schneidenlänge"
 msgid "Shank width"
 msgstr "Schaftbreite"
 
-#| msgid "No Offset"
 msgid "Nose offset"
 msgstr ""
 
 msgid "Side angle"
 msgstr "Seitenwinkel"
 
-#| msgid "Kerf width"
 msgid "Tip width"
 msgstr ""
 
@@ -5673,12 +5620,12 @@ msgstr "Draht"
 msgid "Wire cut"
 msgstr "Drahtschnitt"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:252
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:268
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:253
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:269
 msgid "Cut route is not complete."
 msgstr "Werkzeugpfad ist nicht vollständig."
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:319
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:320
 msgid "Cut route is impossible."
 msgstr "Werkzeugpfad ist nicht möglich."
 
@@ -5704,7 +5651,6 @@ msgid "Wire cutting"
 msgstr "Drahtschneiden"
 
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:893
-#| msgid "Create a new Wire cutting operation"
 msgid "Create a new Wire cutting operation"
 msgstr "Neue Drahtschnitt-Operation erstellen"
 
@@ -5720,6 +5666,10 @@ msgstr "Neues Drahtschnittwerkzeug erstellen"
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:924
 msgid "Link paths"
 msgstr "Link Pfade"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:536
+#~ msgid "shape"
+#~ msgstr "Form"
 
 #~ msgid "Code name"
 #~ msgstr "Code Name"
