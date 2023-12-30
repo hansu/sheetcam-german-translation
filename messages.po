@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-21 16:30+0100\n"
+"POT-Creation-Date: 2023-06-14 16:47+0100\n"
 "PO-Revision-Date: 2021-04-23 15:59+0200\n"
 "Last-Translator: Hans <hansunzner@gmail.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -17,8 +17,9 @@ msgstr ""
 msgid "The new generation of CAM."
 msgstr "Die neue CAM-Generation."
 
-msgid "(C) 2007-2016 Stable Design"
-msgstr "(C) 2007-2016 Stable Design"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\About.cpp:71
+msgid "(C) 2007-2021 Stable Design"
+msgstr ""
 
 msgid "Copy ID to clipboard"
 msgstr "Kopiere ID in Zwischenablage"
@@ -47,7 +48,6 @@ msgstr "Diese Datei ist nicht mehr vorhanden"
 msgid "Length"
 msgstr "Länge"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:8
 msgid "Feed rate"
 msgstr "Vorschub"
 
@@ -113,13 +113,9 @@ msgstr "An Material anpassen"
 msgid "Part spacing"
 msgstr "Abstand der Teile"
 
-#: tmp.cpp:2 tmp.cpp:41 tmp.cpp:1 tmp.cpp:3 tmp.cpp:9 tmp.cpp:14 tmp.cpp:26
-#: tmp.cpp:20
 msgid "X"
 msgstr "X"
 
-#: tmp.cpp:5 tmp.cpp:43 tmp.cpp:2 tmp.cpp:3 tmp.cpp:10 tmp.cpp:15 tmp.cpp:27
-#: tmp.cpp:21
 msgid "Y"
 msgstr "Y"
 
@@ -132,16 +128,19 @@ msgstr "Abstand des Rasters"
 msgid "Offset even rows"
 msgstr "Versetze geradzahlige Reihen"
 
-#: tmp.cpp:4 tmp.cpp:5
 msgid "Enabled"
 msgstr "Aktiviert"
 
 msgid "Holding tabs"
 msgstr "Haltestege"
 
-#: tmp.cpp:6
 msgid "Thickness"
 msgstr "Dicke"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\AutoTabDialog.cpp:66
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4390
+msgid "Don't lift"
+msgstr ""
 
 msgid "Clean up exit ramp"
 msgstr "Räume Endrampe aus"
@@ -165,7 +164,6 @@ msgstr "Maximalabstand der Stege"
 msgid "Tabs on inside cuts"
 msgstr "Stege auf Innenkonturen"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:637
 msgid "Clear all"
 msgstr "Alle löschen"
 
@@ -201,12 +199,9 @@ msgstr "Codeeditor"
 msgid "Code snippet"
 msgstr "Codeschnipsel"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireToolEditor.cpp:37
 msgid "Tool"
 msgstr "Werkzeug"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:53
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireToolEditor.cpp:38
 msgid "Notes"
 msgstr "Notizen"
 
@@ -233,14 +228,12 @@ msgstr "Kontur"
 msgid "Overcut corners"
 msgstr "Ecken ausräumen"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:51
 msgid "Basic"
 msgstr "Grundeinstellung"
 
 msgid "Cut start"
 msgstr "Schnitt Start"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:52
 msgid "Cut path"
 msgstr "Schnittpfad"
 
@@ -327,7 +320,6 @@ msgstr "Material"
 msgid "Operation"
 msgstr "Prozesse"
 
-#: tmp.cpp:6 tmp.cpp:7
 msgid "..."
 msgstr "..."
 
@@ -343,7 +335,6 @@ msgstr "Zeichnungsoptionen"
 msgid "Scaling"
 msgstr "Skalierung"
 
-#: tmp.cpp:4
 msgid "Metric"
 msgstr "Metrisch"
 
@@ -356,22 +347,18 @@ msgstr "Benutzerdefiniert"
 msgid "1:"
 msgstr "1:"
 
-#: tmp.cpp:13
 msgid "1"
 msgstr "1"
 
 msgid "Drawing position"
 msgstr "Zeichnungsposition"
 
-#: tmp.cpp:5 tmp.cpp:8
 msgid "Drawing origin"
 msgstr "Zeichnungsnullpunkt"
 
-#: tmp.cpp:7
 msgid "Centered on 0,0"
 msgstr "Mittig auf 0,0"
 
-#: tmp.cpp:9
 msgid "Current position"
 msgstr "Aktuelle Position"
 
@@ -393,7 +380,6 @@ msgstr "Werkzeug nicht gefunden"
 msgid "Estimate"
 msgstr "Prognose"
 
-#: tmp.cpp:7
 msgid "Notes:"
 msgstr "Notizen:"
 
@@ -421,11 +407,15 @@ msgstr "[LEER]"
 msgid "Properties"
 msgstr "Eigenschaften"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:630
+msgid "Quick cut sequence"
+msgstr "Schneller Schneidenablauf"
+
+msgid "End sequence"
+msgstr "Ende Ablauf"
+
 msgid "Unlock"
 msgstr "Freigeben"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:633
 msgid "Lock"
 msgstr "Sperren"
 
@@ -435,15 +425,6 @@ msgstr "Alle freigeben"
 msgid "Lock all"
 msgstr "Alle sperren"
 
-msgid "Quick cut sequence"
-msgstr "Schneller Schneidenablauf"
-
-msgid "End sequence"
-msgstr "Ende Ablauf"
-
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation -
-#: Copy.cpp:85
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:17
 msgid "Reverse cut direction"
 msgstr "Kehre Schnittrichtung um"
 
@@ -459,15 +440,12 @@ msgstr "Kopiere Startpunkte von"
 msgid "Enter the snap distance"
 msgstr "Einrastdistanz eingeben"
 
-#: tmp.cpp:25 tmp.cpp:18 tmp.cpp:3
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:618
 msgid "Delete"
 msgstr "Löschen"
 
 msgid "Line of tabs"
 msgstr "Linie von Haltestegen"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:604
 msgid "Cancel"
 msgstr "Abbrechen"
 
@@ -488,7 +466,6 @@ msgstr "Optionen"
 msgid "Total %i outlines. %i have tabs, %i have 2 or more tabs"
 msgstr "Insgesamt %i Außenkonturen. %i hat Stege, %i hat zwei oder mehr Stege."
 
-#: tmp.cpp:4
 msgid "Layer"
 msgstr "Lage"
 
@@ -581,6 +558,11 @@ msgstr "Mehrfaches Duplikat"
 
 msgid "Array parts"
 msgstr "Automatische Anordnung"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2988
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:432
+msgid "Scale"
+msgstr ""
 
 msgid "Disable"
 msgstr "Auswahl aufheben"
@@ -729,15 +711,17 @@ msgstr "Zerspanung (Fräsen, Bohren, Gewindeschneiden und Gravieren)"
 msgid "Jet cutting (includes plasma, laser and water jet)"
 msgstr "Strahlschneiden (beinhaltet Plasma, Laser und Wasserstrahlschneiden)"
 
+msgid "Z"
+msgstr "Z"
+
+msgid "Diameter"
+msgstr "Durchmesser"
+
 msgid "Use X"
 msgstr "Benutze X"
 
 msgid "Use Y"
 msgstr "Benutze Y"
-
-#: tmp.cpp:8 tmp.cpp:45 tmp.cpp:3 tmp.cpp:7 tmp.cpp:16 tmp.cpp:28
-msgid "Z"
-msgstr "Z"
 
 msgid "Use Z"
 msgstr "Benutze Z"
@@ -1013,7 +997,6 @@ msgstr "Lade Maschine"
 msgid "Save machine"
 msgstr "Speichere Maschine"
 
-#: tmp.cpp:23 tmp.cpp:6 tmp.cpp:15 tmp.cpp:18
 msgid "Machine type"
 msgstr "Maschinentyp"
 
@@ -1376,7 +1359,6 @@ msgstr "Bewege Z zuletzt"
 msgid "3D move"
 msgstr "3D Bewegung"
 
-#: tmp.cpp:1
 msgid "New"
 msgstr "Neu"
 
@@ -1390,6 +1372,21 @@ msgid "Relative"
 msgstr "Relativ"
 
 msgid "Use feed rate"
+msgstr "Benutze Vorschub"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog -
+# Copy.cpp:385
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:443
+msgid "Move X first"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog -
+# Copy.cpp:386
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\movedialog.cpp:444
+msgid "Move X last"
+msgstr ""
+
+msgid "Use feed"
 msgstr "Benutze Vorschub"
 
 msgid "Qty"
@@ -1439,7 +1436,6 @@ msgstr "Manuelle Optimierung (Teile zusammenhalten)"
 msgid "Layer '%s' not found"
 msgstr "Lage '%s' nicht gefunden"
 
-#: tmp.cpp:1
 msgid "Dialog"
 msgstr "Dialog"
 
@@ -1509,7 +1505,6 @@ msgstr "Alles Kopieren"
 msgid "Save"
 msgstr "Speichern"
 
-#: tmp.cpp:3 tmp.cpp:4
 msgid "Load"
 msgstr "Laden"
 
@@ -1681,6 +1676,9 @@ msgstr "Bogenangleichstoleranz"
 msgid "Minumum segments for arc fitting"
 msgstr "Minimum Segmente für Bogenanpassung"
 
+msgid "Angle threshold"
+msgstr "Winkelgrenze"
+
 msgid "Remove duplicate lines"
 msgstr "Entferne doppelte Linien"
 
@@ -1698,6 +1696,10 @@ msgstr "Erlaube mehrfache Teile"
 
 msgid "Always use default toolset"
 msgstr "Benutze immer den Standardwerkzeugsatz"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\optionsdialog.cpp:253
+msgid "Do not remember operation settings"
+msgstr ""
 
 msgid "Drill hole tolerance"
 msgstr "Bohrlochtoleranz"
@@ -1743,13 +1745,22 @@ msgstr "Zeichnungsimport"
 msgid "Toolbars"
 msgstr "Werkzeugleisten"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\optionsdialog.cpp:286
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:269
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:313
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:326
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:330
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:334
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:424
+msgid "Profiles"
+msgstr ""
+
 msgid "Default directories"
 msgstr "Verzeichnisse"
 
 msgid "Advanced"
 msgstr "Erweitert"
 
-#: tmp.cpp:5
 msgid "Size"
 msgstr "Größe"
 
@@ -1758,6 +1769,14 @@ msgstr "Nullpunkt"
 
 msgid "Enter coordinates"
 msgstr "Koordinaten eingeben"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:441
+msgid "Enable locked"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:442
+msgid "Disable locked"
+msgstr ""
 
 msgid "Lock part and duplicates"
 msgstr "Teile und Duplikate sperren"
@@ -1774,6 +1793,10 @@ msgstr "Teile und Duplikate deaktivieren"
 msgid "Break up manually nested drawing"
 msgstr "Manuelle Anordnung aufbrechen"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:460
+msgid "Combine all parts into one"
+msgstr ""
+
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:502
 #, c-format
 msgid "%i parts total."
@@ -1786,12 +1809,15 @@ msgstr "Teil '%s' hat %i Duplikate."
 msgid "Pos X"
 msgstr "Pos X"
 
-#: tmp.cpp:17
 msgid "A"
 msgstr "A"
 
 msgid "Mirror X"
 msgstr "Spiegeln X"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\partpospanel.cpp:100
+msgid "Pos"
+msgstr ""
 
 msgid "Part properties"
 msgstr "Teile-Eigenschaften"
@@ -1853,6 +1879,15 @@ msgstr "Umfangs-Schnittgeschwindigkeit"
 
 msgid "Near pierce"
 msgstr "Nahe am Durchdringen"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PathRules.cpp:1610
+msgid "When crossing a cut"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PathRules.cpp:199
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PathRules.cpp:1601
+msgid "After tabs"
+msgstr ""
 
 msgid "and "
 msgstr "und "
@@ -1985,10 +2020,6 @@ msgstr "Maximaler Vorschub"
 msgid "Apply peripheral feed rate"
 msgstr "Umfangs-Schnittgeschwindigkeit anwenden"
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PathRules.cpp:1610
-msgid "When crossing a cut"
-msgstr ""
-
 msgid "Unable to find code snippet"
 msgstr "Kann Codeschnipsel nicht finden"
 
@@ -2042,15 +2073,16 @@ msgstr "Strahlschneiden"
 msgid "Loop sharp corners"
 msgstr "Umschlinge scharfe Ecken"
 
-#: ShapeNames:13
 msgid "Triangle"
 msgstr "Dreieck"
 
 msgid "Arc"
 msgstr "Bogen"
 
-msgid "Angle threshold"
-msgstr "Winkelgrenze"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\plasmadialog.cpp:70
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:4388
+msgid "Overcut scale"
+msgstr ""
 
 msgid "Jet tool"
 msgstr "Strahldüse"
@@ -2207,6 +2239,89 @@ msgstr "Neue Plasma Operation erstellen"
 msgid "Unselect all"
 msgstr "Alles abwählen"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:125
+msgid "Copy to new profile"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:129
+msgid "Create desktop shortcut"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:133
+msgid "Delete profile"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:139
+msgid "Back up all settings"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:141
+msgid "Restore settings"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:232
+msgid "Default profile"
+msgstr ""
+
+msgid "Enter the new name"
+msgstr "Neuen Namen eingeben"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:326
+#, c-format
+msgid "Shortcut for profile '%s' exists, do you want to overwrite it?"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:330
+msgid "Failed to create shortcut"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:334
+msgid "Shortcut created"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:341
+#, c-format
+msgid ""
+"Are you sure you want to delete profile %s?\n"
+"You cannot recover a deleted profile"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:404
+msgid "Save backup"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:485
+#, c-format
+msgid ""
+"This backup was created from %s.\n"
+"Are you sure you want to use it with this copy of %s?"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:485
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:554
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:561
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:566
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:586
+msgid "Load backup"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:554
+#, c-format
+msgid "Your old settings have been saved to %s"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:566
+msgid ""
+"This will erase all of your current settings and replace them with the "
+"backup.\n"
+"Are you sure you want to proceed?"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:586
+#, c-format
+msgid "Loading backup failed. Is another copy of %s running?"
+msgstr ""
+
 msgid "Rotary tool"
 msgstr "Zerspanungswerkzeug"
 
@@ -2221,6 +2336,14 @@ msgstr "Aus"
 
 msgid "Spindle rotation"
 msgstr "Drehrichtung Spindel"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ScaleDialog.cpp:21
+msgid "Scale part"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ScaleDialog.cpp:105
+msgid "Scale factor"
+msgstr ""
 
 msgid "Sequence number"
 msgstr "Sequenznummer"
@@ -2244,6 +2367,27 @@ msgid ""
 msgstr ""
 "Wenn sie nicht sicher sind welchen Post sie nehmen sollen, ist dies "
 "unproblematisch weil er später noch geändert werden kann"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\SimBody.cpp:56
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\SimBody.cpp:72
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnSim.cpp:320
+#, c-format, python-format
+msgid ""
+"This simulator does not support tools of type '%s'.\n"
+"Click on the setup button and select a suitable simulator."
+msgstr ""
+
+msgid "Update rate"
+msgstr "Aktualisierungsrate"
+
+msgid "Rapid feed"
+msgstr "Eilganggeschwindigkeit"
+
+msgid "Maximum FRO"
+msgstr "Maximaler Vorschub"
+
+msgid "Tool polygon detail"
+msgstr "Auflösung Werkzeug"
 
 msgid "Unknown"
 msgstr "Unbekannt"
@@ -2339,7 +2483,6 @@ msgstr "Gewindeschneiden"
 msgid "&Edit material"
 msgstr "&Material bearbeiten"
 
-#: tmp.cpp:6
 msgid "Material thickness:"
 msgstr "Materialdicke:"
 
@@ -2522,6 +2665,9 @@ msgstr "Rampenwinkel"
 
 msgid "Spindle speed"
 msgstr "Spindeldrehzahl"
+
+msgid "Offset"
+msgstr "Abstand"
 
 msgid "mm"
 msgstr "mm"
@@ -2819,6 +2965,26 @@ msgstr "Haltesteg"
 msgid "Grid"
 msgstr "Raster"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:106
+msgid "Round tool shank"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:107
+msgid "Round tool flutes"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:108
+msgid "Turning tool shank"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:109
+msgid "Turning tool tip"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:110
+msgid "Cut out part"
+msgstr ""
+
 msgid "Clearance"
 msgstr "Sicherheitsabstand"
 
@@ -2927,23 +3093,24 @@ msgid ""
 "Increase the ramp angle or remove the tabs on small contours"
 msgstr ""
 
+msgid "ERROR: Cannot have a relative move as the first move"
+msgstr "FEHLER: Keine relative Bewegung als erste Bewegung möglich"
+
 msgid "Z Move"
 msgstr "Z-Bewegung"
-
-msgid "Use feed"
-msgstr "Benutze Vorschub"
 
 msgid "Multi move"
 msgstr "Mehrfache Bewegung"
 
-msgid "ERROR: Cannot have a relative move as the first move"
-msgstr "FEHLER: Keine relative Bewegung als erste Bewegung möglich"
-
-msgid "Rapid to"
-msgstr "Eilgang zu"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:1270
+msgid "Multi move to"
+msgstr ""
 
 msgid "{No moves defined}"
 msgstr "{Keine Bewegungen definiert}"
+
+msgid "Rapid to"
+msgstr "Eilgang zu"
 
 msgid "relative"
 msgstr "relativ"
@@ -3006,7 +3173,6 @@ msgstr "Überbleibsel müssen rechteckig sein"
 msgid "{Layer %s  not found}"
 msgstr "{Lage %s nicht gefunden}"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:11
 msgid "Cut depth"
 msgstr "Endtiefe"
 
@@ -3070,18 +3236,15 @@ msgstr "Ecken ausräumen"
 msgid "Corner threshold"
 msgstr "Winkelgrenze"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:13
 msgid "Depth per pass"
 msgstr "Tiefe pro Durchgang"
 
 msgid "Coolant"
 msgstr "Kühlung"
 
-#: tmp.cpp:12 tmp.cpp:14
 msgid "Mist"
 msgstr "Nebel"
 
-#: tmp.cpp:13 tmp.cpp:15
 msgid "Flood"
 msgstr "Schwall"
 
@@ -3202,6 +3365,17 @@ msgstr "Verschiebe Teil"
 msgid "Save file"
 msgstr "Datei speichern"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2838
+#, c-format
+msgid ""
+"This job was saved using profile '%s'.\n"
+"Do you want to restart SheetCam with this profile?"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2839
+msgid "Change profile"
+msgstr ""
+
 msgid ""
 "You have tried to load a multipart job.\n"
 "Only part 1 will be loaded."
@@ -3243,6 +3417,10 @@ msgstr "Kopie von"
 
 msgid "Save tools"
 msgstr "Werkzeuge speichern"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:3748
+msgid "Combined parts"
+msgstr ""
 
 msgid "Error saving job config."
 msgstr "Fehler beim Speichern der Jobkonfiguration."
@@ -3412,13 +3590,6 @@ msgstr "Ändere Actiontab"
 msgid "Modify tool"
 msgstr "Werkzeug bearbeiten"
 
-#, c-format
-msgid "This file format does not support %s"
-msgstr "Dieses Dateiformat unterstützt %s nicht"
-
-msgid "Diameter"
-msgstr "Durchmesser"
-
 msgid "Flute length"
 msgstr "Schneidenlänge"
 
@@ -3431,7 +3602,6 @@ msgstr "Werkzeuglängenkorrektur"
 msgid "Point angle"
 msgstr "Spitzenwinkel"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:40
 msgid "diameter"
 msgstr "Durchmesser"
 
@@ -3488,6 +3658,10 @@ msgstr "Anfahreinstellungen verwenden"
 
 msgid "kerf"
 msgstr "Schnittbreite"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:1230
+msgid "Pierce height must be below rapid safety clearance"
+msgstr ""
 
 msgid "Power"
 msgstr "Leistung"
@@ -3572,116 +3746,96 @@ msgstr "Füllwinkel"
 msgid "Use a cleanup pass"
 msgstr "Schlichtdurchgang verwenden"
 
-#: tmp.cpp:5
 msgid "Tool number"
 msgstr "Werkzeugnummer"
 
-#: ShapeNames:2
 msgid "Basic Shapes"
 msgstr "Grundformen"
 
-#: ShapeNames:3
 msgid "Brackets and Mounts"
 msgstr "Halterungen"
 
-#: ShapeNames:4
 msgid "Gussets"
 msgstr "Laschen"
 
-#: ShapeNames:5
 msgid "Specialty Shapes"
 msgstr "Spezielle Formen"
 
-#: ShapeNames:6
 msgid "Circle"
 msgstr "Kreis"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:24
-#: ShapeNames:7
 msgid "Convex rectangle"
 msgstr "Rechteck mit Bogen"
 
-#: ShapeNames:8
 msgid "Donut"
 msgstr ""
 
-#: ShapeNames:9
+# ShapeNames:9
+msgid "Line"
+msgstr ""
+
 msgid "Parallelogram"
 msgstr "Parallelogramm"
 
-#: ShapeNames:10
 msgid "Polygon"
 msgstr "Polygon"
 
-#: ShapeNames:11
 msgid "Rectangle"
 msgstr "Rechteck"
 
-#: ShapeNames:12
 msgid "Trapezoid"
 msgstr "Trapez"
 
-#: ShapeNames:14
 msgid "Lap Joint"
 msgstr ""
 
-#: ShapeNames:15
 msgid "Lifting Lug"
 msgstr ""
 
-#: ShapeNames:16
 msgid "Pipe Flange"
 msgstr ""
 
-#: ShapeNames:17
 msgid "Pipe Saddle"
 msgstr ""
 
-#: ShapeNames:18
 msgid "Rectangle 4 Holes"
 msgstr "Rechteck 4 Löcher"
 
-#: ShapeNames:19
 msgid "Rectangle Mount Plate"
 msgstr "Rechteckige Montageplatte"
 
-#: ShapeNames:20
 msgid "Rectangle Multiple Holes"
 msgstr "Rechteck mehrere Bohrungen"
 
-#: ShapeNames:21
 msgid "Straight Lug"
 msgstr ""
 
-#: ShapeNames:22
 msgid "U Lug"
 msgstr ""
 
-#: ShapeNames:23
 msgid "L Gusset"
 msgstr "L-Lasche"
 
-#: ShapeNames:24
 msgid "Triangular Gusset"
 msgstr ""
 
-#: ShapeNames:25
 msgid "Truss Support"
 msgstr ""
 
-#: ShapeNames:26
 msgid "Web Stiffener"
 msgstr ""
 
-#: ShapeNames:27
 msgid "Cam Link"
 msgstr ""
 
-#: ShapeNames:28
+# ShapeNames:29
+msgid "Exhaust flange"
+msgstr ""
+
 msgid "Slotted Plate"
 msgstr ""
 
-#: ShapeNames:29
 msgid "Split Ring"
 msgstr ""
 
@@ -3694,35 +3848,27 @@ msgstr "Wollen Sie diese Datei laden?\n"
 msgid "Auto load"
 msgstr "Automatisch Laden"
 
-#: tmp.cpp:1 tmp.cpp:2
 msgid "Enable Autoload"
 msgstr "Automatisch laden"
 
-#: tmp.cpp:2 tmp.cpp:3
 msgid "Check for changes at startup"
 msgstr "Beim Start auf Änderungen prüfen"
 
-#: tmp.cpp:3 tmp.cpp:4
 msgid "Scan a directory"
 msgstr "Einen Ordner durchsuchen"
 
-#: tmp.cpp:5 tmp.cpp:6
 msgid "Include sub directories"
 msgstr "Unterverzeichnisse einbeziehen"
 
-#: tmp.cpp:7 tmp.cpp:8
 msgid "Timing"
 msgstr ""
 
-#: tmp.cpp:8 tmp.cpp:9
 msgid "Delay before loading"
 msgstr ""
 
-#: tmp.cpp:9 tmp.cpp:10
 msgid "Last file changed:"
 msgstr ""
 
-#: tmp.cpp:10 tmp.cpp:11
 msgid "Reset time"
 msgstr "Reset-Zeit"
 
@@ -3744,31 +3890,24 @@ msgstr "Datum"
 msgid "You need to select a template"
 msgstr "Sie müssen eine Vorlage auswählen"
 
-#: tmp.cpp:1 tmp.cpp:2
 msgid "Include sub dirs"
 msgstr "Unterverzeichnisse mit einbeziehen"
 
-#: tmp.cpp:2 tmp.cpp:3
 msgid "File type"
 msgstr "Dateityp"
 
-#: tmp.cpp:4 tmp.cpp:5
 msgid "Show drawing options"
 msgstr "Zeichnungsoptionen anzeigen"
 
-#: tmp.cpp:5 tmp.cpp:6
 msgid "Load template"
 msgstr "Vorlage laden"
 
-#: tmp.cpp:6 tmp.cpp:7
 msgid "Keep existing parts"
 msgstr "Bestehende Teile behalten"
 
-#: tmp.cpp:7 tmp.cpp:8
 msgid "Automatically disable unused operations"
 msgstr "Nicht verwendete Operationen automatisch deaktivieren"
 
-#: tmp.cpp:8 tmp.cpp:9
 msgid "Convert selected files"
 msgstr "Ausgewählte Dateien konvertieren"
 
@@ -3777,6 +3916,10 @@ msgstr "Batch Aktualisierung"
 
 msgid "Generate thumbnail images for a batch of jobs"
 msgstr "Erstelle Miniaturvorschau für Stapelverarbeitungsjobs"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\button\button.lua:16
+msgid "Press this button"
+msgstr ""
 
 msgid "calculator"
 msgstr "Rechner"
@@ -3805,79 +3948,60 @@ msgstr "&Erweiterungen"
 msgid "Run the calculator"
 msgstr "Rechner ausführen"
 
-#: tmp.cpp:1
 msgid "wxLua Calculator"
 msgstr "Rechner"
 
-#: tmp.cpp:2
 msgid "initializing..."
 msgstr "initialisieren..."
 
-#: tmp.cpp:3
 msgid "Clear"
 msgstr "Löschen"
 
-#: tmp.cpp:4
 msgid "Quit"
 msgstr "Beenden"
 
-#: tmp.cpp:5
 msgid "7"
 msgstr "7"
 
-#: tmp.cpp:6
 msgid "8"
 msgstr "8"
 
-#: tmp.cpp:7
 msgid "9"
 msgstr ""
 
-#: tmp.cpp:8
 msgid "/"
 msgstr ""
 
-#: tmp.cpp:9
 msgid "4"
 msgstr "4"
 
-#: tmp.cpp:10
 msgid "5"
 msgstr "5"
 
-#: tmp.cpp:11
 msgid "6"
 msgstr "6"
 
-#: tmp.cpp:12
 msgid "x"
 msgstr "X"
 
-#: tmp.cpp:14
 msgid "2"
 msgstr "2"
 
-#: tmp.cpp:15
 msgid "3"
 msgstr "3"
 
-#: tmp.cpp:16
 msgid "-"
 msgstr ""
 
-#: tmp.cpp:17
 msgid "0"
 msgstr ""
 
-#: tmp.cpp:18
 msgid "."
 msgstr "."
 
-#: tmp.cpp:19
 msgid "="
 msgstr ""
 
-#: tmp.cpp:20
 msgid "+"
 msgstr ""
 
@@ -3892,129 +4016,96 @@ msgstr "&CncRemote aktivieren"
 msgid "Signal CNC controller when post processor is run"
 msgstr "Informiere LinuxCNC wenn der Postprozessor abgeschlossen ist"
 
-#: tmp.cpp:1
 msgid "Home X"
 msgstr "X referenzieren"
 
-#: tmp.cpp:3 tmp.cpp:6 tmp.cpp:9 tmp.cpp:42 tmp.cpp:44 tmp.cpp:46 tmp.cpp:4
-#: tmp.cpp:8
 msgid "Zero"
 msgstr "Nullen"
 
-#: tmp.cpp:4
 msgid "Home Y"
 msgstr "Y referenzieren"
 
-#: tmp.cpp:7
 msgid "Home Z"
 msgstr "Z referenzieren"
 
-#: tmp.cpp:10
 msgid "Home all"
 msgstr "Alle referenzieren"
 
-#: tmp.cpp:11
 msgid "Drives on"
 msgstr "Endstufen einschalten"
 
-#: tmp.cpp:14 tmp.cpp:16
 msgid "Spindle"
 msgstr "Spindel"
 
-#: tmp.cpp:15 tmp.cpp:49 tmp.cpp:17 tmp.cpp:10 tmp.cpp:9 tmp.cpp:21
 msgid "Start"
 msgstr "Start"
 
-#: tmp.cpp:16 tmp.cpp:50 tmp.cpp:18 tmp.cpp:11 tmp.cpp:10 tmp.cpp:22
 msgid "Single step"
 msgstr "Einzelschritt"
 
-#: tmp.cpp:17 tmp.cpp:51 tmp.cpp:19 tmp.cpp:12 tmp.cpp:11 tmp.cpp:23
 msgid "Pause"
 msgstr "Pause"
 
-#: tmp.cpp:18 tmp.cpp:37 tmp.cpp:52 tmp.cpp:74 tmp.cpp:20 tmp.cpp:42
-#: tmp.cpp:13 tmp.cpp:35 tmp.cpp:12 tmp.cpp:24
 msgid "Stop"
 msgstr "Stopp"
 
-#: tmp.cpp:19 tmp.cpp:53 tmp.cpp:21 tmp.cpp:14
 msgid "Rewind"
 msgstr ""
 
-#: tmp.cpp:20 tmp.cpp:54 tmp.cpp:22 tmp.cpp:15
 msgid "Block delete"
 msgstr ""
 
-#: tmp.cpp:21 tmp.cpp:55 tmp.cpp:23 tmp.cpp:16
 msgid "Feed"
 msgstr "Vorschub"
 
-#: tmp.cpp:22 tmp.cpp:56 tmp.cpp:24 tmp.cpp:17
 msgid "Run"
 msgstr "Starten"
 
-#: tmp.cpp:23 tmp.cpp:57 tmp.cpp:25 tmp.cpp:18
 msgid "Y+"
 msgstr "Y+"
 
-#: tmp.cpp:24 tmp.cpp:58 tmp.cpp:26 tmp.cpp:19
 msgid "Jog Y+ (up arrow)"
 msgstr ""
 
-#: tmp.cpp:25 tmp.cpp:59 tmp.cpp:27 tmp.cpp:20
 msgid "Z+"
 msgstr "Z+"
 
-#: tmp.cpp:26 tmp.cpp:60 tmp.cpp:28 tmp.cpp:21
 msgid "Jog Z+ (page up)"
 msgstr ""
 
-#: tmp.cpp:27 tmp.cpp:61 tmp.cpp:29 tmp.cpp:22
 msgid "X-"
 msgstr "X-"
 
-#: tmp.cpp:28 tmp.cpp:62 tmp.cpp:30 tmp.cpp:23
 msgid "Jog X- (left arrow)"
 msgstr ""
 
-#: tmp.cpp:29 tmp.cpp:65 tmp.cpp:33 tmp.cpp:26
 msgid "X+"
 msgstr "X+"
 
-#: tmp.cpp:30 tmp.cpp:66 tmp.cpp:34 tmp.cpp:27
 msgid "Jog X+ (right arrow)"
 msgstr ""
 
-#: tmp.cpp:31 tmp.cpp:67 tmp.cpp:35 tmp.cpp:28
 msgid "Y-"
 msgstr "Y-"
 
-#: tmp.cpp:32 tmp.cpp:68 tmp.cpp:36 tmp.cpp:29
 msgid "Jog Y- (down arrow)"
 msgstr ""
 
-#: tmp.cpp:33 tmp.cpp:69 tmp.cpp:37 tmp.cpp:30
 msgid "Z-"
 msgstr "Z-"
 
-#: tmp.cpp:34 tmp.cpp:70 tmp.cpp:38 tmp.cpp:31
 msgid "Jog Z- (Page down)"
 msgstr ""
 
-#: tmp.cpp:35 tmp.cpp:72 tmp.cpp:40 tmp.cpp:33
 msgid "Jog speed"
 msgstr "Joggeschwindigkeit"
 
-#: tmp.cpp:36 tmp.cpp:73 tmp.cpp:41 tmp.cpp:34
 msgid "Jog"
 msgstr ""
 
-#: tmp.cpp:38 tmp.cpp:75 tmp.cpp:43 tmp.cpp:36
 msgid "MDI"
 msgstr ""
 
-#: tmp.cpp:39 tmp.cpp:50
 msgid "Misc"
 msgstr ""
 
@@ -4024,42 +4115,33 @@ msgstr ""
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:44
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:46
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:48
-#: tmp.cpp:40
 msgid "Label"
 msgstr ""
 
-#: tmp.cpp:47 tmp.cpp:9
 msgid "Reset"
 msgstr ""
 
-#: tmp.cpp:48
 msgid "dhflkdhfjdgflhdgfls"
 msgstr ""
 
-#: tmp.cpp:63 tmp.cpp:31 tmp.cpp:24
 msgid "Step"
 msgstr "Schritt"
 
-#: tmp.cpp:64 tmp.cpp:32 tmp.cpp:25
 msgid "Move in fixed steps"
 msgstr "In festen Schritten verfahren"
 
-#: tmp.cpp:71 tmp.cpp:39 tmp.cpp:32
 msgid "Step size"
 msgstr "Schrittgröße"
 
 msgid "Cube demo plugin\n"
 msgstr "Würfeldemo Erweiterung\n"
 
-#: tmp.cpp:4 tmp.cpp:14
 msgid "Character spacing"
 msgstr "Zeichenabstand"
 
-#: tmp.cpp:6 tmp.cpp:16
 msgid "Line spacing"
 msgstr "Zeilenabstand"
 
-#: tmp.cpp:7
 msgid "Rotate"
 msgstr "Drehen"
 
@@ -4097,30 +4179,29 @@ msgstr ""
 "\n"
 "Anmerkung: Beherrscht keine Texteinträge oder Blöcke"
 
-#: tmp.cpp:11
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\dxf\options.lua:25
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:42
+msgid "Use text"
+msgstr ""
+
 msgid "Use points for drilling"
 msgstr "Benutze Punkte für das Bohren"
 
 msgid "Use colours as layer names"
 msgstr "Benutze Farben als Lagenname"
 
-#: tmp.cpp:1
 msgid "File options"
 msgstr "Dateieinstellungen"
 
-#: tmp.cpp:2
 msgid "File scale"
 msgstr "Dateimaßstab"
 
-#: tmp.cpp:3
 msgid "Inches"
 msgstr "Zoll"
 
-#: tmp.cpp:6
 msgid "Bottom left"
 msgstr "Unten links"
 
-#: tmp.cpp:10
 msgid "Material bottom left"
 msgstr "Material unten links"
 
@@ -4129,9 +4210,6 @@ msgstr "EdingCNC"
 
 msgid "Eding CNC V"
 msgstr "EdingCNC"
-
-msgid " was detected."
-msgstr " wurde erkannt."
 
 msgid ""
 "Eding CNC NOT detected.\n"
@@ -4149,43 +4227,33 @@ msgstr "Informiere Eding CNC nachdem der Postprozessor gelaufen ist"
 msgid "Eding CNC"
 msgstr "Eding CNC"
 
-#: tmp.cpp:12
 msgid "Simulation"
 msgstr "Simulation"
 
-#: tmp.cpp:13
 msgid "Simulate motion without moving the machine"
 msgstr "Bewegung simulieren ohne die Maschine zu bewegen"
 
-#: tmp.cpp:44
 msgid "Sync tool table"
 msgstr "Werkzeugtabelle synchronisieren"
 
-#: tmp.cpp:45
 msgid "Send tool table to USBCNC"
 msgstr "Werkzeugtabelle an USBCNC senden"
 
-#: tmp.cpp:46
 msgid "Automatically sync tools"
 msgstr "Werkzeuge automatisch synchronisieren"
 
-#: tmp.cpp:47
 msgid "Automatically send tool table to USBCNC when running the post processor"
 msgstr ""
 
-#: tmp.cpp:48
 msgid "Monitor tool table"
 msgstr "Werkzeugtabelle überwachen"
 
-#: tmp.cpp:49
 msgid "Automatically update tool table if tools change in USBCNC"
 msgstr ""
 
-#: tmp.cpp:51 tmp.cpp:1
 msgid "Show remote control"
 msgstr "Fernbedienung anzeigen"
 
-#: tmp.cpp:52
 msgid ""
 "USBCNC automatic file transfer\n"
 "\n"
@@ -4221,15 +4289,6 @@ msgstr ""
 msgid "HSMAdvisor V"
 msgstr "HSMAdvisor V"
 
-msgid ""
-" plugin\n"
-"\n"
-"Adds HSMAdvisor tool table integration"
-msgstr ""
-" Erweiterung\n"
-"\n"
-"Fügt HSMAdvisor Werkzeugtabellenunterstützung hinzu"
-
 msgid "Mach"
 msgstr "Mach"
 
@@ -4264,7 +4323,6 @@ msgstr "&Mach3 aktivieren"
 msgid "Signal Mach3 when post processor is run"
 msgstr "Informiere MACH3 nachdem der Postprozessor gelaufen ist"
 
-#: tmp.cpp:2
 msgid ""
 "Mach automatic file transfer\n"
 "\n"
@@ -4276,61 +4334,43 @@ msgstr ""
 msgid "Unused"
 msgstr "Unbenutzt"
 
-#: tmp.cpp:1
 msgid ""
 "This plugin adds extra post processors so you don't need to select a\n"
 "different post each time you generate code for a different machine."
 msgstr ""
 
-#: tmp.cpp:2
 msgid "Post 2"
 msgstr "Post 2"
 
-#: tmp.cpp:3
 msgid "Post 3"
 msgstr "Post 3"
 
-#: tmp.cpp:4
 msgid "Post 4"
 msgstr "Post 4"
 
-#: tmp.cpp:5
-msgid "Move"
-msgstr "Bewege"
-
-#: tmp.cpp:1
-msgid "Move amount"
-msgstr "MGruppe/Auswahl verschieben"
-
-#: tmp.cpp:4
-msgid "All parts"
-msgstr "Alle Teile"
-
-#: tmp.cpp:7
-msgid "Material height"
-msgstr "Materialhöhe"
-
-#: tmp.cpp:8
-msgid "Material size"
-msgstr "Materialgröße"
-
 msgid "MyNesting V"
 msgstr "MyNesting V"
-
-msgid ""
-" plugin\n"
-"\n"
-"Adds nesting facilities to SheetCam"
-msgstr ""
-" Erweiterung\n"
-"\n"
-"Fügt Anordnungsmöglichkeiten zu SheetCam hinzu"
 
 msgid "OneLayer"
 msgstr "Eine Lage"
 
 msgid "Move everything onto one layer"
 msgstr "Alles auf eine Lage verschieben"
+
+msgid "Move amount"
+msgstr "MGruppe/Auswahl verschieben"
+
+msgid "All parts"
+msgstr "Alle Teile"
+
+msgid "Move"
+msgstr "Bewege"
+
+msgid "Material height"
+msgstr "Materialhöhe"
+
+msgid "Material size"
+msgstr "Materialgröße"
 
 msgid "This file already exists. Overwrite it?"
 msgstr ""
@@ -4357,51 +4397,27 @@ msgstr "Plasma-Werkzeug"
 msgid "Run the plasma tool generator"
 msgstr ""
 
-#: tmp.cpp:1
 msgid "Create plasma tool"
 msgstr "Neues Plasma-Werkzeug erstellen"
 
-#: tmp.cpp:2 tmp.cpp:21
 msgid "TreeCtrl1"
 msgstr ""
 
-#: tmp.cpp:3 tmp.cpp:22
 msgid "<none>"
 msgstr "<keine>"
 
-#: tmp.cpp:4
 msgid "Tool name"
 msgstr "Werkzeugname"
 
-#: tmp.cpp:8
 msgid "Create tool"
 msgstr "Werkzeug erstellen"
 
-#: tmp.cpp:9 tmp.cpp:1
 msgid "Simulation plugin"
 msgstr "Simulation"
 
-#: tmp.cpp:10 tmp.cpp:1 tmp.cpp:2
 msgid "Special options"
 msgstr "Sezialeinstellungen"
 
-#: tmp.cpp:11 tmp.cpp:2 tmp.cpp:3
-msgid "Update rate"
-msgstr "Aktualisierungsrate"
-
-#: tmp.cpp:12 tmp.cpp:3 tmp.cpp:4
-msgid "Rapid feed"
-msgstr "Eilganggeschwindigkeit"
-
-#: tmp.cpp:13 tmp.cpp:4 tmp.cpp:5
-msgid "Maximum FRO"
-msgstr "Maximaler Vorschub"
-
-#: tmp.cpp:14 tmp.cpp:6
-msgid "Tool polygon detail"
-msgstr "Auflösung Werkzeug"
-
-#: tmp.cpp:15 tmp.cpp:7
 msgid ""
 "Note: increasing the update rate\n"
 "makes movement smoother \n"
@@ -4417,39 +4433,30 @@ msgstr ""
 "Erhöhen der Auflösung des Werkzeugs macht den Werkzeugumriss glatter aber "
 "benötigt mehr CPU-Leistung."
 
-#: tmp.cpp:16 tmp.cpp:8 tmp.cpp:9
 msgid "Tool colours"
 msgstr "Werkzeugfarben"
 
-#: tmp.cpp:17 tmp.cpp:9 tmp.cpp:10
 msgid "Spindle off/jet off"
 msgstr "Spindel/Strahl aus"
 
-#: tmp.cpp:18 tmp.cpp:10 tmp.cpp:11
 msgid "Spindle CW/jet preheat"
 msgstr "Spindel Rechtslauf/Strahl vorheizen"
 
-#: tmp.cpp:19 tmp.cpp:11 tmp.cpp:12
 msgid "Spindle CCW/jet cutting"
 msgstr "Spindel Linkslauf/Strahl schneiden"
 
-#: tmp.cpp:20 tmp.cpp:12 tmp.cpp:15
 msgid "Tool diameter"
 msgstr "Werkzeugdurchmesser"
 
-#: tmp.cpp:21 tmp.cpp:13 tmp.cpp:16
 msgid "Scale size"
 msgstr "Skalierung"
 
-#: tmp.cpp:22 tmp.cpp:14 tmp.cpp:17
 msgid "Minimum size"
 msgstr "Minimale Größe"
 
-#: tmp.cpp:24 tmp.cpp:16
 msgid "New shape"
 msgstr "Neue Form/Kontur"
 
-#: tmp.cpp:26 tmp.cpp:19
 msgid "Create bitmap"
 msgstr "Bitmap erstellen"
 
@@ -4499,7 +4506,18 @@ msgstr "Schwallkühlung"
 msgid "Mist coolant"
 msgstr "Sprühnebelkühlung"
 
-#: tmp.cpp:5
+# tmp.cpp:5
+msgid "Rotary axis"
+msgstr ""
+
+# tmp.cpp:7
+msgid "B"
+msgstr ""
+
+# tmp.cpp:8
+msgid "C"
+msgstr ""
+
 msgid ""
 "Note: increasing the update rate\n"
 "makes movement smoother \n"
@@ -4508,23 +4526,18 @@ msgstr ""
 "Anmerkung: Erhöhen der Aktualisierungsrate macht die Bewegungen "
 "gleichmäßiger aber benötigt mehr CPU-Leistung."
 
-#: tmp.cpp:7 tmp.cpp:19
 msgid "Setup"
 msgstr "Einstellungen"
 
-#: tmp.cpp:8 tmp.cpp:20
 msgid "FRO 100.0%"
 msgstr ""
 
-#: tmp.cpp:13 tmp.cpp:25
 msgid "Position and time"
 msgstr "Position und Zeit"
 
-#: tmp.cpp:18 tmp.cpp:29
 msgid "T"
 msgstr ""
 
-#: tmp.cpp:19 tmp.cpp:30
 msgid "Status"
 msgstr "Status"
 
@@ -4537,12 +4550,23 @@ msgstr "&Beispiel"
 msgid "Run the sample"
 msgstr "Beispiel ausführen"
 
-msgid "Shape cutting plugin\n"
-msgstr "Formen-Erweiterung\n"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\SCJobCost\ScJobCost.lua:233
+msgid "SCJobCost"
+msgstr ""
 
-#: tmp.cpp:20
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\SCJobCost\ScJobCost.lua:234
+msgid "&ScJobCost"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\SCJobCost\ScJobCost.lua:237
+msgid "Job Costing"
+msgstr ""
+
 msgid "Shape"
 msgstr "Formen"
+
+msgid "Shape cutting plugin\n"
+msgstr "Formen-Erweiterung\n"
 
 msgid " line"
 msgstr " Zeile"
@@ -4571,7 +4595,6 @@ msgstr "Formen-Bibliothek"
 msgid "Width"
 msgstr "Breite"
 
-#: tmp.cpp:10
 msgid "Height"
 msgstr "Höhe"
 
@@ -4586,6 +4609,16 @@ msgstr "Innendurchmesser"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Split Ring\main.lua:32
 msgid "Outside Diameter"
 msgstr "Aussendurchmesser"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic
+# Shapes\Line\main.lua:17
+msgid "X distance"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic
+# Shapes\Line\main.lua:18
+msgid "Y distance"
+msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:24
 msgid "Corner Angle"
@@ -4845,6 +4878,29 @@ msgstr "Durchmesser rechte Bohrung"
 msgid "Right End Dia"
 msgstr "Außendurchmesser rechte Seite"
 
+msgid "Wall thickness"
+msgstr "Wandstärke"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty
+# Shapes\Exhaust flange\main.lua:102
+msgid "Bolt PCD"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty
+# Shapes\Exhaust flange\main.lua:103
+msgid "bolt diameter"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty
+# Shapes\Exhaust flange\main.lua:104
+msgid "Slot length"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty
+# Shapes\Exhaust flange\main.lua:105
+msgid "Number of bolts"
+msgstr ""
+
 msgid "Number of Slots"
 msgstr "Anzahl Langlöcher"
 
@@ -4854,23 +4910,11 @@ msgstr ""
 msgid "Opening Angle"
 msgstr "Öffnungswinkel"
 
-#: tmp.cpp:17 tmp.cpp:2
 msgid "Add to current part"
 msgstr "Zum aktuellen Teil hinzufügen"
 
-msgid "Sim"
-msgstr "Sim"
-
-#: tmp.cpp:8
-msgid "Enable preview"
-msgstr "Vorschau aktivieren"
-
-#: tmp.cpp:13
-msgid "Preview material"
-msgstr "Materialvorschau"
-
-#: tmp.cpp:14
-msgid "Preview highlight"
+# tmp.cpp:4 tmp.cpp:19
+msgid "Add to new part"
 msgstr ""
 
 msgid "SVG"
@@ -4907,66 +4951,45 @@ msgstr ""
 "Fügt Text ihrer Zeichnung hinzu.\n"
 "Nutzt Autocad SHX Zeichensätze"
 
-msgid ""
-"This file exists.\n"
-"Do you want to overwrite it?"
-msgstr ""
-"Die Datei existiert bereits.\n"
-"Wollen Sie sie überschreiben?"
-
-#: tmp.cpp:5
 msgid "Layer to insert text into"
 msgstr "Layer zum Text einfügen"
 
-#: tmp.cpp:6
 msgid "Font"
 msgstr "Schriftart"
 
-#: tmp.cpp:8
 msgid "Import file"
 msgstr "Datei importieren"
 
-#: tmp.cpp:9
 msgid "Size/Position"
 msgstr "Größe/Position"
 
-#: tmp.cpp:11
 msgid "Height of a standard upper case character"
 msgstr "Höhe von einem Standard-Großbuchstaben"
 
-#: tmp.cpp:12
 msgid "Compression"
 msgstr "Stauchung"
 
-#: tmp.cpp:13
 msgid "Horizontal spacing"
 msgstr "Horizontaler Abstand"
 
-#: tmp.cpp:15
 msgid "Vertical spacing"
 msgstr "Vertikaler Abstand"
 
-#: tmp.cpp:17
 msgid "Slope"
 msgstr "Schräge"
 
-#: tmp.cpp:18
 msgid "Rotation"
 msgstr "Drehung"
 
-#: tmp.cpp:19
 msgid "Text angle"
 msgstr "Textwinkel"
 
-#: tmp.cpp:22
 msgid "Alignment"
 msgstr "Ausrichtung"
 
-#: tmp.cpp:23
 msgid "Enter your text here"
 msgstr "Geben Sie den Text hier ein"
 
-#: tmp.cpp:1
 msgid "Directory"
 msgstr "Verzeichnis"
 
@@ -5266,11 +5289,6 @@ msgstr "Erstelle neue Schleppmesseroperation"
 msgid "Create a new drag knife tool"
 msgstr "Erstelle neues Schleppmesserwerkzeug"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:10
-msgid "Offset"
-msgstr "Abstand"
-
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:12
 msgid "Swivel depth"
 msgstr "Tiefe Drehpunkt"
 
@@ -5317,8 +5335,9 @@ msgstr "Raster"
 msgid "Create a new raster engraving operation"
 msgstr "Erstelle eine neue Rastergravur Operation"
 
-msgid "Fixed angle"
-msgstr "Fester Winkel"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:609
+msgid "Edge spacing"
+msgstr ""
 
 msgid "Paint extruder"
 msgstr "Farbextruder"
@@ -5378,9 +5397,6 @@ msgid "The custom profile has sharp corners. All corners must be rounded"
 msgstr ""
 "Das Benutzerprofil hat spitze Ecken. Alle Ecken müssen verrundet werden"
 
-msgid "Enter the new name"
-msgstr "Neuen Namen eingeben"
-
 msgid "Are you sure you want to delete this item?"
 msgstr "Sind Sie sicher das sie diesen Eintrag löschen wollen?"
 
@@ -5426,9 +5442,6 @@ msgstr ""
 msgid "The custom tube profile does not exist"
 msgstr "Das benutzerdefinierte Rohrprofil existiert nicht"
 
-msgid "Wall thickness"
-msgstr "Wandstärke"
-
 msgid "Map drawing to inside"
 msgstr "Verlege Zeichnung nach innen"
 
@@ -5462,8 +5475,53 @@ msgstr "Schaftdurchmesser"
 msgid "Included angle"
 msgstr "Winkel einbeziehen"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Sim\SimPanel.cpp:55
+msgid "FRO 100%"
+msgstr ""
+
 msgid "Processing"
 msgstr "Verarbeitung"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\GrooveOperation.cpp:21
+msgid "Roughing stepover"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\GrooveOperation.cpp:49
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:66
+msgid "Grooving"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\PartOperation.cpp:14
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:568
+msgid "Inner diameter"
+msgstr ""
+
+msgid "Outer diameter"
+msgstr "Außendurchmesser"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\PartOperation.cpp:18
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:156
+msgid "Clearance diameter"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\PartOperation.cpp:29
+msgid "After code"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\PartOperation.cpp:39
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:67
+msgid "Parting"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\PartOperation.cpp:163
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:589
+msgid "Number of passes"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\PartOperation.cpp:184
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:68
+msgid "Facing"
+msgstr ""
 
 msgid "Turning"
 msgstr "Drehen"
@@ -5474,6 +5532,29 @@ msgstr "Profil"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnEditor.cpp:53
 msgid "Limits"
 msgstr "Begrenzungen"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnEditor.cpp:74
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\temp\GrooveEditor.cpp:59
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\temp\PartingEditor.cpp:62
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\temp\ProfileEditor.cpp:69
+msgid "Passes"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnEditor.cpp:155
+msgid "Profile type"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnLeadPanel.cpp:41
+msgid "Extension length"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnLeadPanel.cpp:45
+msgid "Arc radius"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnLeadPanel.cpp:49
+msgid "Line length"
+msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:15
 msgid "The contour should be a single path."
@@ -5487,30 +5568,125 @@ msgstr "Die Kontur darf nicht unter der Spindelmittellinie liegen."
 msgid "The contour is impossible to machine."
 msgstr "Diese Kontur kann nicht hergestellt werden."
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation -
-#: Copy.cpp:88
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:20
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:134
+msgid "Tool angles do not allow cutting."
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:135
+msgid "Failed to generate tool paths."
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:136
+msgid "Failed to generate tool offset."
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:137
+msgid "No tool selected."
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:138
+msgid "Some leadins could not be placed."
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:139
+msgid "Some leadouts could not be placed."
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:572
+msgid "Enable roughing"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:574
+msgid "Roughing depth per pass"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:576
+msgid "Roughing feed"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:583
+msgid "Enable finish"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:585
+msgid "Finish depth per pass"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:587
+msgid "Finish feed"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:592
+msgid "Radial undercuts"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:594
+msgid "Avoid"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:595
+msgid "Each pass"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:596
+msgid "Front first"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:598
+msgid "Axial undercuts"
+msgstr ""
+
 msgid "Start from"
 msgstr "Starte von"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation -
-#: Copy.cpp:89
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:21
 msgid "End at"
 msgstr "Stop bei"
 
-msgid "Outer diameter"
-msgstr "Außendurchmesser"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:1943
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:63
+msgid "OD profile"
+msgstr ""
 
-msgid "Inner Diameter"
-msgstr "Innendurchmesser"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:2104
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:64
+msgid "Face profile"
+msgstr ""
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:403
-msgid "Profile turn"
-msgstr "Profildrehen"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:2116
+msgid "Z clearance"
+msgstr ""
 
-msgid "Create a new turning operation"
-msgstr "Neue Gewindeoperation erstellen"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:2125
+msgid "Boring"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:63
+msgid "Create a new profile turning operation"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:64
+msgid "Create a new face turning operation"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:65
+msgid "Bore"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:65
+msgid "Create a new face boring operation"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:66
+msgid "Create a new grooving operation"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:67
+msgid "Create a new parting operation"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:68
+msgid "Create a new facing operation"
+msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:64
 msgid "Left turning"
@@ -5527,15 +5703,24 @@ msgstr "Rechtsdrehen"
 msgid "Neutral turning"
 msgstr "Neutrales Drehen"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:84
+msgid "Left boring"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:85
+msgid "Right boring"
+msgstr ""
+
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:69
 msgid "Parting/grooving"
 msgstr ""
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:87
+msgid "Button"
+msgstr ""
+
 msgid "Nose radius"
 msgstr "Schneidenradius"
-
-msgid "End angle"
-msgstr "Endwinkel"
 
 msgid "Toolpost angle"
 msgstr ""
@@ -5558,6 +5743,15 @@ msgstr "Position im Werkzeughalter"
 msgid "Approach direction"
 msgstr "Anfahrtrichtung"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:50
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:714
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:863
+msgid "Reference point"
+msgstr ""
+
+msgid "Shank width"
+msgstr "Schaftbreite"
+
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Rectangle\main.lua:31
 #, python-format
 msgid "Tip radius %s"
@@ -5566,8 +5760,19 @@ msgstr "Spitzenradius %s"
 msgid "Cutting edge length"
 msgstr "Schneidenlänge"
 
-msgid "Shank width"
-msgstr "Schaftbreite"
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:251
+msgid "Clearance angle"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:253
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:867
+msgid "Tip tangent"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:254
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:868
+msgid "Tip centre"
+msgstr ""
 
 msgid "Nose offset"
 msgstr ""
@@ -5576,6 +5781,34 @@ msgid "Side angle"
 msgstr "Seitenwinkel"
 
 msgid "Tip width"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:709
+msgid "Blade length"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:715
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:865
+msgid "Tip left"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:716
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:866
+msgid "Tip right"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:717
+msgid "Tip middle"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:854
+#, python-format
+msgid " %s wide"
+msgstr ""
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:955
+#, python-format
+msgid "Tip diameter %s"
 msgstr ""
 
 msgid "Turning tool"
@@ -5588,6 +5821,10 @@ msgstr "Geometrie"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnToolEditor.cpp:66
 msgid "Feeds and speeds"
 msgstr "Vorschübe und Drehzahlen"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnToolEditor.cpp:58
+msgid "Turret"
+msgstr ""
 
 msgid "V carve"
 msgstr "V-Gravur"
@@ -5610,62 +5847,104 @@ msgstr "Ecken schärfen"
 msgid "Create pocket"
 msgstr "Tasche erstellen"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:37
 msgid "Wire"
 msgstr "Draht"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation -
-#: Copy.cpp:110
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:43
 msgid "Wire cut"
 msgstr "Drahtschnitt"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:253
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:269
 msgid "Cut route is not complete."
 msgstr "Werkzeugpfad ist nicht vollständig."
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:320
 msgid "Cut route is impossible."
 msgstr "Werkzeugpfad ist nicht möglich."
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:19
 msgid "Changed wire link"
 msgstr "Drahtlink ändern"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:609
 msgid "Delete corner"
 msgstr "Ecke löschen"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:617
 msgid "Add corner"
 msgstr "Ecke hinzufügen"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:625
 msgid "Reverse direction"
 msgstr "Richtung umkehren"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:892
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:893
 msgid "Wire cutting"
 msgstr "Drahtschneiden"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:893
 msgid "Create a new Wire cutting operation"
 msgstr "Neue Drahtschnitt-Operation erstellen"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:895
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireToolEditor.cpp:30
 msgid "Wire cutter"
 msgstr "Drahtschnittwerkzeug"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:895
 msgid "Create a new wire cutting tool"
 msgstr "Neues Drahtschnittwerkzeug erstellen"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:924
 msgid "Link paths"
 msgstr "Link Pfade"
+
+#~ msgid "(C) 2007-2016 Stable Design"
+#~ msgstr "(C) 2007-2016 Stable Design"
+
+#, c-format
+#~ msgid "This file format does not support %s"
+#~ msgstr "Dieses Dateiformat unterstützt %s nicht"
+
+#~ msgid " was detected."
+#~ msgstr " wurde erkannt."
+
+#~ msgid ""
+#~ " plugin\n"
+#~ "\n"
+#~ "Adds HSMAdvisor tool table integration"
+#~ msgstr ""
+#~ " Erweiterung\n"
+#~ "\n"
+#~ "Fügt HSMAdvisor Werkzeugtabellenunterstützung hinzu"
+
+#~ msgid ""
+#~ " plugin\n"
+#~ "\n"
+#~ "Adds nesting facilities to SheetCam"
+#~ msgstr ""
+#~ " Erweiterung\n"
+#~ "\n"
+#~ "Fügt Anordnungsmöglichkeiten zu SheetCam hinzu"
+
+#~ msgid "Sim"
+#~ msgstr "Sim"
+
+#~ msgid "Enable preview"
+#~ msgstr "Vorschau aktivieren"
+
+#~ msgid "Preview material"
+#~ msgstr "Materialvorschau"
+
+#~ msgid ""
+#~ "This file exists.\n"
+#~ "Do you want to overwrite it?"
+#~ msgstr ""
+#~ "Die Datei existiert bereits.\n"
+#~ "Wollen Sie sie überschreiben?"
+
+#~ msgid "Fixed angle"
+#~ msgstr "Fester Winkel"
+
+#~ msgid "Inner Diameter"
+#~ msgstr "Innendurchmesser"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:403
+#~ msgid "Profile turn"
+#~ msgstr "Profildrehen"
+
+#~ msgid "Create a new turning operation"
+#~ msgstr "Neue Gewindeoperation erstellen"
+
+#~ msgid "End angle"
+#~ msgstr "Endwinkel"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:536
 #~ msgid "shape"
