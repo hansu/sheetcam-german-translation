@@ -1,17 +1,17 @@
-# Hans <hansunzner@gmail.com>, 2021.
+# Hans <hansunzner@gmail.com>, 2021, 2023, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-14 16:47+0100\n"
-"PO-Revision-Date: 2021-04-23 15:59+0200\n"
+"PO-Revision-Date: 2024-03-20 21:00+0100\n"
 "Last-Translator: Hans <hansunzner@gmail.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Lokalize 21.12.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "The new generation of CAM."
@@ -84,7 +84,7 @@ msgstr ""
 "Ursache ergründen können"
 
 msgid "Array"
-msgstr "Automatische Anordnung"
+msgstr "Automatisch anordnen"
 
 msgid "Number of columns"
 msgstr "Anzahl Spalten"
@@ -123,7 +123,7 @@ msgid "Gap between parts"
 msgstr "Abstand zwischen Teilen"
 
 msgid "Grid spacing"
-msgstr "Abstand des Rasters"
+msgstr "Rastermaß"
 
 msgid "Offset even rows"
 msgstr "Versetze geradzahlige Reihen"
@@ -146,11 +146,11 @@ msgid "Clean up exit ramp"
 msgstr "Räume Endrampe aus"
 
 msgid "Ramp out"
-msgstr ""
+msgstr "Wegfahren mit Rampe"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\AutoTabDialog.cpp:70
 msgid "Ramp in and ramp out"
-msgstr ""
+msgstr "An- und wegfahren mit Rampe"
 
 msgid "Auto tabbing"
 msgstr "Automatische Stege"
@@ -259,7 +259,7 @@ msgid "Manual"
 msgstr "Manuell"
 
 msgid "Optimise now"
-msgstr "Optimiere jetzt"
+msgstr "Jetzt optimieren"
 
 msgid "Start position"
 msgstr "Startposition"
@@ -536,7 +536,7 @@ msgstr ""
 "von Lagen:"
 
 msgid "Snap to grid"
-msgstr "Fange am Raster"
+msgstr "Am Raster fangen"
 
 msgid "Full tool paths"
 msgstr "Werkzeugpfade anzeigen"
@@ -557,12 +557,12 @@ msgid "Multiple duplicate"
 msgstr "Mehrfaches Duplikat"
 
 msgid "Array parts"
-msgstr "Automatische Anordnung"
+msgstr "Teile automatisch anordnen"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:2988
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:432
 msgid "Scale"
-msgstr ""
+msgstr "Skalieren"
 
 msgid "Disable"
 msgstr "Auswahl aufheben"
@@ -694,10 +694,10 @@ msgid "Print the current display"
 msgstr "Drucke die aktuelle Anzeige"
 
 msgid "&Zoom"
-msgstr "&Zoome"
+msgstr "&Zoom"
 
 msgid "Zoom"
-msgstr "Zoome"
+msgstr "Zoom"
 
 msgid "{Unable to display}"
 msgstr "{Anzeige nicht möglich}"
@@ -992,10 +992,10 @@ msgid "Recent files"
 msgstr "Aktuelle Dateien"
 
 msgid "Load machine"
-msgstr "Lade Maschine"
+msgstr "Maschine laden"
 
 msgid "Save machine"
-msgstr "Speichere Maschine"
+msgstr "Maschine speichern"
 
 msgid "Machine type"
 msgstr "Maschinentyp"
@@ -1271,7 +1271,7 @@ msgid "Debug"
 msgstr "Debug"
 
 msgid "Operations"
-msgstr "Operationen"
+msgstr "Operationen (Abläufe/Vorgänge/Arbeitsgänge"
 
 msgid "Edit toolbars"
 msgstr "Werkzeugleiste bearbeiten"
@@ -1753,7 +1753,7 @@ msgstr "Werkzeugleisten"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:334
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:424
 msgid "Profiles"
-msgstr ""
+msgstr "Profile"
 
 msgid "Default directories"
 msgstr "Verzeichnisse"
@@ -1772,11 +1772,11 @@ msgstr "Koordinaten eingeben"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:441
 msgid "Enable locked"
-msgstr ""
+msgstr "Gesperrte auswählen"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:442
 msgid "Disable locked"
-msgstr ""
+msgstr "Gesperrte deaktivieren"
 
 msgid "Lock part and duplicates"
 msgstr "Teile und Duplikate sperren"
@@ -2241,27 +2241,27 @@ msgstr "Alles abwählen"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:125
 msgid "Copy to new profile"
-msgstr ""
+msgstr "Zu neuem Profil kopieren"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:129
 msgid "Create desktop shortcut"
-msgstr ""
+msgstr "Desktopverknüpfung erstellen"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:133
 msgid "Delete profile"
-msgstr ""
+msgstr "Profil löschen"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:139
 msgid "Back up all settings"
-msgstr ""
+msgstr "Alle Einstellungen sichern"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:141
 msgid "Restore settings"
-msgstr ""
+msgstr "Einstellungen wiederherstellen"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:232
 msgid "Default profile"
-msgstr ""
+msgstr "Standardprofil"
 
 msgid "Enter the new name"
 msgstr "Neuen Namen eingeben"
@@ -2269,7 +2269,7 @@ msgstr "Neuen Namen eingeben"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:326
 #, c-format
 msgid "Shortcut for profile '%s' exists, do you want to overwrite it?"
-msgstr ""
+msgstr "Verknüpfung für Profil '%s' existiert bereits. Überschreiben?"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:330
 msgid "Failed to create shortcut"
@@ -2285,6 +2285,8 @@ msgid ""
 "Are you sure you want to delete profile %s?\n"
 "You cannot recover a deleted profile"
 msgstr ""
+"Sicher, dass Sie Profil %s löschen wollen?\n"
+"Dies kann nicht rückgängig gemacht werden."
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ProfilePanel.cpp:404
 msgid "Save backup"
@@ -2343,7 +2345,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ScaleDialog.cpp:105
 msgid "Scale factor"
-msgstr ""
+msgstr "Skalierungsfaktor"
 
 msgid "Sequence number"
 msgstr "Sequenznummer"
@@ -2975,11 +2977,11 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:108
 msgid "Turning tool shank"
-msgstr ""
+msgstr "Drehmeißelshaft"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:109
 msgid "Turning tool tip"
-msgstr ""
+msgstr "Drehmeißelspitze"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Colours.cpp:110
 msgid "Cut out part"
@@ -3180,7 +3182,7 @@ msgid "Start depth"
 msgstr "Starttiefe"
 
 msgid "Contour method"
-msgstr "Kontur Methode"
+msgstr "Konturmethode"
 
 msgid "Inside Offset"
 msgstr "Innenversatz"
@@ -3195,13 +3197,13 @@ msgid "Finish allowance"
 msgstr "Schlichtaufmaß"
 
 msgid "Reverse open paths"
-msgstr "Kehre offene Pfade um"
+msgstr "Offene Pfade umkehren"
 
 msgid "Offset open paths"
-msgstr "Versatz zu offenen Pfaden"
+msgstr "Versatz bei offenen Pfaden"
 
 msgid "Leadins on open paths"
-msgstr "Einlauf zu offenen Pfaden"
+msgstr "Anfahren bei offenen Pfaden"
 
 msgid "Overcut"
 msgstr "Ecken ausräumen"
@@ -3283,7 +3285,7 @@ msgid "Ramp feed"
 msgstr "Rampenvorschub"
 
 msgid "Square corners"
-msgstr "Rechte Winkel"
+msgstr "Außenkanten eckig (nicht empfohlen)"
 
 msgid "Step over"
 msgstr "Bahnüberlappung"
@@ -3371,10 +3373,12 @@ msgid ""
 "This job was saved using profile '%s'.\n"
 "Do you want to restart SheetCam with this profile?"
 msgstr ""
+"Dieser Job wurde mit dem Profil '%s' gespeichert.\n"
+"Möchten Sie SheetCam mit diesem Profil neustarten?"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Part.cpp:2839
 msgid "Change profile"
-msgstr ""
+msgstr "Profil wechseln"
 
 msgid ""
 "You have tried to load a multipart job.\n"
@@ -3465,7 +3469,7 @@ msgid "Loading job"
 msgstr "Lade Job"
 
 msgid "|SheetCam job files"
-msgstr "Sheetsam Job-Dateien"
+msgstr "|SheetCam Job-Dateien"
 
 msgid "Part files"
 msgstr "Teile Dateien"
@@ -3477,7 +3481,7 @@ msgid "Part files (*.part)"
 msgstr "Teile-Dateien (*.part)"
 
 msgid "Job template files"
-msgstr "Job-Vorlagedateien"
+msgstr "Job-Vorlagen"
 
 msgid "JobTemplate"
 msgstr "Job-Vorlage"
@@ -3597,7 +3601,7 @@ msgid "Spindle direction"
 msgstr "Spindelrichtung"
 
 msgid "Tool length offset"
-msgstr "Werkzeuglängenkorrektur"
+msgstr "Längenkorrektur"
 
 msgid "Point angle"
 msgstr "Spitzenwinkel"
@@ -3769,11 +3773,11 @@ msgid "Convex rectangle"
 msgstr "Rechteck mit Bogen"
 
 msgid "Donut"
-msgstr ""
+msgstr "Ring"
 
 # ShapeNames:9
 msgid "Line"
-msgstr ""
+msgstr "Linie"
 
 msgid "Parallelogram"
 msgstr "Parallelogramm"
@@ -3788,25 +3792,25 @@ msgid "Trapezoid"
 msgstr "Trapez"
 
 msgid "Lap Joint"
-msgstr ""
+msgstr "Überlappungsverbinder"
 
 msgid "Lifting Lug"
 msgstr ""
 
 msgid "Pipe Flange"
-msgstr ""
+msgstr "Rohrflansch"
 
 msgid "Pipe Saddle"
 msgstr ""
 
 msgid "Rectangle 4 Holes"
-msgstr "Rechteck 4 Löcher"
+msgstr "Rechteck, 4 Bohrungen"
 
 msgid "Rectangle Mount Plate"
 msgstr "Rechteckige Montageplatte"
 
 msgid "Rectangle Multiple Holes"
-msgstr "Rechteck mehrere Bohrungen"
+msgstr "Rechteck, mehrere Bohrungen"
 
 msgid "Straight Lug"
 msgstr ""
@@ -3831,13 +3835,13 @@ msgstr ""
 
 # ShapeNames:29
 msgid "Exhaust flange"
-msgstr ""
+msgstr "Auslass-Flansch"
 
 msgid "Slotted Plate"
-msgstr ""
+msgstr "Platte mit Langlöchern"
 
 msgid "Split Ring"
-msgstr ""
+msgstr "Offener Ring"
 
 msgid "Autoload"
 msgstr "Automatisch laden"
@@ -4608,7 +4612,7 @@ msgstr "Innendurchmesser"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lifting Lug\main.lua:43
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Split Ring\main.lua:32
 msgid "Outside Diameter"
-msgstr "Aussendurchmesser"
+msgstr "Außendurchmesser"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic
 # Shapes\Line\main.lua:17
@@ -4733,16 +4737,16 @@ msgstr "Abstand zur Kreismitte"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:36
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:106
 msgid "Horizontal Slot Spacing"
-msgstr "Horizontaler Abstand der Langlöcher"
+msgstr "Abstand Langlöcher X"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lap Joint\main.lua:59
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:37
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:108
 msgid "Vertical Slot Spacing"
-msgstr "Vertikaler Abstand der Langlöcher"
+msgstr "Abstand Langlöcher Y"
 
 msgid "Slot Length"
-msgstr "Langlochlänge"
+msgstr "Länge Langlöcher"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Convex rectangle\main.lua:24
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:22
@@ -4759,7 +4763,7 @@ msgstr "Langlochlänge"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Gussets\Web Stiffener\main.lua:24
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Slotted Plate\main.lua:42
 msgid "Slot Width"
-msgstr "Langlochbreite"
+msgstr "Breite Langlöcher"
 
 msgid "Corner Radius"
 msgstr "Eckenradius"
@@ -4868,7 +4872,7 @@ msgid "Left Hole Dia"
 msgstr "Durchmesser linke Bohrung"
 
 msgid "Left End Dia"
-msgstr "Außendurchmesser linke Seite"
+msgstr "Außendurchmesser links"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Cam Link\main.lua:38
 msgid "Right Hole Dia"
@@ -4876,7 +4880,7 @@ msgstr "Durchmesser rechte Bohrung"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:65
 msgid "Right End Dia"
-msgstr "Außendurchmesser rechte Seite"
+msgstr "Außendurchmesser rechts"
 
 msgid "Wall thickness"
 msgstr "Wandstärke"
@@ -4884,28 +4888,28 @@ msgstr "Wandstärke"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty
 # Shapes\Exhaust flange\main.lua:102
 msgid "Bolt PCD"
-msgstr ""
+msgstr "Bolzen-Teilkreis"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty
 # Shapes\Exhaust flange\main.lua:103
 msgid "bolt diameter"
-msgstr ""
+msgstr "Bolzen-Durchmesser"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty
 # Shapes\Exhaust flange\main.lua:104
 msgid "Slot length"
-msgstr ""
+msgstr "Langloch-Länge"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty
 # Shapes\Exhaust flange\main.lua:105
 msgid "Number of bolts"
-msgstr ""
+msgstr "Anzahl der Bolzen"
 
 msgid "Number of Slots"
 msgstr "Anzahl Langlöcher"
 
 msgid "Slot Spacing"
-msgstr ""
+msgstr "Abstand Langlöcher"
 
 msgid "Opening Angle"
 msgstr "Öffnungswinkel"
@@ -4915,7 +4919,7 @@ msgstr "Zum aktuellen Teil hinzufügen"
 
 # tmp.cpp:4 tmp.cpp:19
 msgid "Add to new part"
-msgstr ""
+msgstr "Zu neuem Teil hinzufügen"
 
 msgid "SVG"
 msgstr "SVG"
@@ -5395,7 +5399,8 @@ msgstr "Unbenutzbar: Das Teil darf nur eine geschlossene Außenkontur haben"
 
 msgid "The custom profile has sharp corners. All corners must be rounded"
 msgstr ""
-"Das Benutzerprofil hat spitze Ecken. Alle Ecken müssen verrundet werden"
+"Das benutzerdefinierte Profil hat spitze Ecken. Alle Ecken müssen verrundet"
+" werden"
 
 msgid "Are you sure you want to delete this item?"
 msgstr "Sind Sie sicher das sie diesen Eintrag löschen wollen?"
@@ -5542,7 +5547,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnEditor.cpp:155
 msgid "Profile type"
-msgstr ""
+msgstr "Profiltyp"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnLeadPanel.cpp:41
 msgid "Extension length"
@@ -5654,7 +5659,7 @@ msgstr ""
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:2116
 msgid "Z clearance"
-msgstr ""
+msgstr "Z Sicherheitshöhe"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:2125
 msgid "Boring"
